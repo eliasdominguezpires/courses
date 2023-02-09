@@ -1,0 +1,11 @@
+IA 
+
+la disciplina que intenta replicar y desarrollar la inteligencia y sus procesos implícitos a través de computadoras
+cuatro enfoques:
+		dos centrados en los humanos 
+			sistemas que piensan como humanos, 
+			sistemas que actúan como humanos
+		centrados en torno a la racionalidad 
+			Sistemas que piensan racionalmente
+			sistemas que actúan racionalmente
+			
