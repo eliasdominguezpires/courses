@@ -1,0 +1,15 @@
+https://docs.docker.com/engine/install/linux-postinstall/
+
+
+docker image
+docker new hellow-work		, crea y ejecuta 
+docker run -it ubuntu bash	, crea una imagen con ubuntu, y ejecuta en el bash
+docker ps					, deja una imagen ejecutandose
+docker system prune -a		, limpia las imagenes
+docker stop
+docker exec -it ID bash
+
+		sudo apt-get install nodejs
+		sudo groupadd docker
+		sudo usermod -aG docker $USER
+	python3 -m venv tuVirtual

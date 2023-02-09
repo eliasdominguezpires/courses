@@ -1,0 +1,162 @@
+https://www.fullstack.cafe/interview-questions/javascript
+https://www.hackerrank.com/dashboard
+
+https://www.hackerrank.com/skills-verification/javascript_intermediate/a4rbrfgp0f0
+https://www.hackerrank.com/skills-verification/javascript_basic/dff5pp65l92
+
+Practicar BACK FRONT
+roadmap.sh
+
+next.js,	REACT
+nest.js 	NODE JS
+
+edureka.co
+
+
+common interview questions <keyword> REACT / NODEJS / ANGULAR
+que estrategia existe a la hora de crear una estructura de carpetas - Arquitectura basado en capas
+Patrones de estructura en react - 
+https://blog.logrocket.com/react-component-design-patterns-2022/
+
+union types / mappet type
+genericos typesScript
+Programacion funcional en typescript
+programacion declarativa vs imperativa
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+--- ANGULAR
+--------------------------------------------------------------------------------------------------------------------------------------------------
+What is Routing Guard in Angular?  
+	Angular’s route guards are interfaces which can tell the router whether or not it should allow navigation to a requested route. They make this decision by looking for a true or false return value from a class which implements the given guard interface.
+	
+	Los protectores de ruta de Angular son interfaces que pueden decirle al enrutador si debe o no permitir la navegación a una ruta solicitada. Toman esta decisión buscando un valor o devuelto de una clase que implementa la interfaz de protección dada. true false
+	Tipos
+		CanActivate
+		CanActivateChild
+		CanDeactivate
+		CanLoad
+		Resolve
+		
+	import { Injectable } from '@angular/core';
+	import { Router, CanActivate } from '@angular/router';
+	import { AuthService } from './auth.service';
+
+	@Injectable()
+	export class AuthGuardService implements CanActivate {
+	  constructor(public auth: AuthService, public router: Router) {}
+	  canActivate(): boolean {
+		if (!this.auth.isAuthenticated()) {
+		  this.router.navigate(['login']);
+		  return false;
+		}
+		return true;
+	  }
+	}
+What is a Module, and what does it contain?  
+	An Angular module is set of Angular basic building blocks like component, directives, services etc. An app can have more than one module.
+	A module can be created using @NgModule decorator.
+	
+	Un módulo de Angular es un conjunto de bloques de construcción básicos de Angular, como componentes , directivas , servicios , etc. Una aplicación puede tener más de un módulo.
+	
+	@NgModule({
+	  imports:      [ BrowserModule ],
+	  declarations: [ AppComponent ],
+	  bootstrap:    [ AppComponent ]
+	})
+	export class AppModule { }
+	
+ What's the difference between an Angular Component and Module? 
+	Components control views (html). They also communicate with other components and services to bring functionality to your app.
+	Modules consist of one or more components. They do not control any html. Your modules declare which components can be used by components belonging to other modules, which classes will be injected by the dependency injector and which component gets bootstrapped. Modules allow you to manage your components to bring modularity to your app.
+	
+	Vistas de control de componentes ( ). También se comunican con otros componentes y servicios para brindar funcionalidad a su aplicación.html
+	Los módulos constan de uno o más componentes. No controlan ningún html. Sus módulos declaran qué componentes pueden ser utilizados por los componentes que pertenecen a otros módulos, qué clases inyectará el inyector de dependencia y qué componente se arranca. Los módulos le permiten administrar sus componentes para brindar modularidad a su aplicación.
+	
+What is the minimum definition of a Component?  
+	The absolute minimal configuration for a @Component in Angular is a template. Both template properties are set to optional because you have to define either template or templateUrl.
+	When you don't define them, you will get an exception like this:
+		No template specified for component 'ComponentName'
+	A selector property is not required, as you can also use your components in a route.
+		
+	La configuración mínima absoluta para Angular es una plantilla. Ambas propiedades de la plantilla están configuradas como opcionales porque debe definir o .@Component template templateUrl
+	Cuando no los defina, obtendrá una excepción como esta:
+		No template specified for component 'ComponentName'
+	No se requiere una propiedad de selector, ya que también puede usar sus componentes en una ruta.
+	
+What is a Component? Why would you use it?  
+	Components are the most basic building block of an UI in an Angular application. An Angular application is a tree of Angular components. Angular components are a subset of directives. Unlike directives, components always have a template and only one component can be instantiated per an element in a template.
+	A component must belong to an NgModule in order for it to be usable by another component or application. To specify that a component is a member of an NgModule, you should list it in the declarations field of that NgModule.
+
+	Los componentes son el bloque de construcción más básico de una interfaz de usuario en una aplicación Angular. 
+	Una aplicación angular es un árbol de componentes angulares. 
+	Los componentes en angular son un subconjunto de directivas. 
+	A diferencia de las directivas, los componentes siempre tienen una plantilla y solo se puede crear una instancia de un componente por elemento en una plantilla.
+	Un componente debe pertenecer a un para que otro componente o aplicación pueda utilizarlo. Para especificar que un componente es miembro de un NgModule, debe enumerarlo en el campo de declaraciones de ese .NgModuleNgModuleNgModule
+	
+	@Component({selector: 'greet', template: 'Hello {{name}}!'})
+	class Greet {
+	  name: string = 'World';
+	}
+	
+What are the differences between AngularJS (angular 1.x) and Angular (Angular 2.x and beyond)?
+	Angular and AngularJS is basically a different framework with the same name.
+	Angular is more ready for the current state of web standards and the future state of the web (ES6\7, immutiablity, components, shadow DOM, service workers, mobile compatibilty, modules, typescript and so on and so on... )
+	Angular killed many main features in AngularJS like - controllers, $scope, directives (replaced with @component annotations), the module definition, and much more, even simple things like ng-repeat has not left the same as it was.
+	Also: 1. They added an angular cli. 2. Your angular code is written in ES6 Typescript and it compiles at runtime to Javascript in the browser. 3. You bind to your HTML similarly like how you would if in an Angular 1 directive. So variable like $scope and $rootScope have been deprecated.
+
+
+	Angular y AngularJS son básicamente un marco diferente con el mismo nombre.
+	Angular está más preparado para el estado actual de los estándares web y el estado futuro de la web (ES6\7, inmutabilidad, componentes, shadow DOM, trabajadores de servicio, compatibilidad móvil, módulos, texto mecanografiado, etc., etc.)
+	Angular eliminó muchas características principales en AngularJS como: controladores, $ alcance, directivas (reemplazadas con anotaciones), la definición del módulo y mucho más, incluso cosas simples como ng-repeat no han dejado lo mismo que estaban.@component
+	También: 1. Agregaron un angular . 2. Su código angular está escrito en ES6 Typescript y se compila en tiempo de ejecución en Javascript en el navegador. 3. Te unes a tu HTML de manera similar a como lo harías en una directiva Angular 1. Por lo tanto, las variables como $scope y $rootScope han quedado obsoletas.cli
+	
+What is Interpolation?  
+	Interpolation is a special syntax that Angular converts into property binding. It’s a convenient alternative to property binding. It is represented by double curly braces({{}}). The text between the braces is often the name of a component property. Angular replaces that name with the string value of the corresponding component property.
+	Let's take an example,
+	
+	La interpolación es una sintaxis especial que Angular convierte en enlace de propiedad . Se representa mediante llaves dobles
+	
+	<h3>
+		  {{title}}
+		  <img src="{{url}}" style="height:30px">
+	</h3>
+	
+What is the difference between *ngIf vs [hidden]?
+	*ngIf effectively removes its content from the DOM  		--> elimina efectivamente su contenido del DOM
+	
+	while [hidden] modifies the "display" and only instructs the browser to not show the content but the DOM still contains it.
+	mientras modifica la propiedad y solo indica al navegador que no muestre el contenido, pero el DOM aún lo contiene.
+
+What are Observables?  
+	Observables are declarative which provide support for passing messages between publishers and subscribers in your application.
+	They are mainly used for event handling, asynchronous programming, and handling multiple values. In this case, you define a function for publishing values, but it is not executed until a consumer subscribes to it. The subscribed consumer then receives notifications until the function completes, or until they unsubscribe.
+	
+	Los observables son declarativos que brindan soporte para pasar mensajes entre editores y suscriptores en su aplicación.
+	Se utilizan principalmente para el manejo de eventos, la programación asíncrona y el manejo de múltiples valores. En este caso, define una función para publicar valores, pero no se ejecuta hasta que un consumidor se suscribe a ella. El consumidor suscrito recibe notificaciones hasta que se completa la función o hasta que se da de baja .
+	
+	// Create simple observable that emits three values
+	const myObservable = of(1, 2, 3);
+
+	// Create observer object
+	const myObserver = {
+	  next: (x: number) => console.log('Observer got a next value: ' + x),
+	  error: (err: Error) => console.error('Observer got an error: ' + err),
+	  complete: () => console.log('Observer got a complete notification'),
+	};
+
+	// Execute with the observer object
+	myObservable.subscribe(myObserver);
+	
+	
+	
+	
+	
+	
+https://www.hackerrank.com/test/brmhk10s408/login?b=eyJ1c2VybmFtZSI6ImpvbmF0aGFua2Vubnk4NTJAZ21haWwuY29tIiwicGFzc3dvcmQiOiIwYWQ2NTMyOCIsImhpZGUiOnRydWUsImFjY29tbW9kYXRpb25zIjp7ImFkZGl0aW9uYWxfdGltZV9wZXJjZW50IjowfX0=
+
+https://www.hackerrank.com/test/dhg3p7armki/login?b=eyJ1c2VybmFtZSI6InNlcmlnaW9hbmRyZXMuY3J1ekBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjgyOWYyZWY2IiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOnsiYWRkaXRpb25hbF90aW1lX3BlcmNlbnQiOjB9fQ==
+
+
+programacion orientada a eventos

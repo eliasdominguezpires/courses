@@ -1,0 +1,50 @@
+
+
+//Creamos un nuevo objeto donde vamos a almacenar por ciudades. 
+    let nuevoObjeto: any = {}
+    //Recorremos el arreglo 
+    denuncias.forEach(x => {
+        //la creamos e inicializamos el arreglo. 
+        if (!nuevoObjeto.hasOwnProperty(x.codigoTipoGestion)) {
+            nuevoObjeto[x.codigoTipoGestion] = {
+                data: []
+            }
+        }
+        //Agregamos los datos. 
+        nuevoObjeto[x.codigoTipoGestion].data.push({
+            denunciaId: x.denunciaId,
+            titulo: x.titulo,
+            descripcion: x.descripcion
+        })
+
+    })
+
+    let array: Denuncia[] = []
+    Object.entries(nuevoObjeto).forEach(([key, value]:any) => {
+        array.push({
+            codigoTipoGestion: key,
+            data: value.data
+        })
+    });
+    console.log("array...");
+    console.log(JSON.stringify(array, null, 5));
+
+    let array2: any = []
+    for (const [clave, valor] of Object.entries(nuevoObjeto)) {
+        array2.push({
+            codigoTipoGestion: clave,
+            data: valor.data
+        })
+
+    }
+    console.log("array2...");
+    console.log(JSON.stringify(array2, null, 5));
+    
+    const momentoComida = array.map(function(comida:any) {
+        return {
+            codigoTipoGestion:  comida.codigoTipoGestion,
+            data: comida.data
+        };
+    });
+    //console.log("momentoComida...");
+    //console.log(JSON.stringify(momentoComida, null, 5));

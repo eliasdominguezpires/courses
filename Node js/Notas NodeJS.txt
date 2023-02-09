@@ -1,0 +1,67 @@
+https://nodejs.org/en/
+https://www.npmjs.com/
+
+CURSO FAZT NODE
+https://www.youtube.com/watch?v=BhvLIzVL8_o&feature=youtu.be&app=desktop
+CURSO FAZT JS
+https://www.youtube.com/watch?v=RqQ1d1qEWlE
+
+https://frontendmasters.com/courses/api-node-rest-graphql/
+
+https://nodejs.org/dist/latest-v10.x/docs/api/http.html
+
+https://nodejs.org/dist/latest-v8.x/docs/api/
+
+
+
+Un lenguaje de programación es un lenguaje formal que especifica una serie de instrucciones para una computadora que produzca diversas clases de datos
+
+Un Lenguaje de programación es un lenguaje formal que especifica una serie 
+de instrucciones para una computadora que produzca diversas clases de datos
+
+Una startup es una ortanizacion humana con gran capacidad de cambio que desarrolla productos o servicios, de gra innovacion, altamente deseados o requeridos por el mercado, donde su diseño y comercializacion estan orientados completamente al cliente
+
+
+NODE es un entorno en timpo de ejecucion multiplataforma de código agierto para la capa de servidor basado en lenguaje ECMAScript asíncrono con I/O de datos en una arquitectura orientada a eventos
+
+Que es node
+
+Lenguaje de Backend
+Acceso al sistema de archivos
+Informacion de sistema Operativo
+Procesos del equipo
+	No realizan bloqueaos del servidor
+	Nodo utiliza una conduccion por eventos
+	Usa modelo de entradas y salidas que no se bloquean
+
+Que puedo hacer en node
+	Uso de sockets para una comunicacion real cliente-servidor
+	Manejo de archivos, cargas simultaneas
+	Servidores locales y remotos con informaciones en tiempo real
+	conexiones a base de datos
+	creacion de servicios Rest
+	
+Nodem 
+	proporciona acceso al global básico operaciones de manejo de bases de datos, además de proporcionar la capacidad de invocar M Funciones y procedimientos lingüísticos. 
+
+
+
+que son las promesas ?
+	Una Promise en JavaScript es un objeto que representa la eventual finalización, o fallo de una operación asíncrona, y su valor resultante. Una promise recibe una "función ejecutora" que acepta dos argumentos: resolve y reject
+	EJEMPLO
+		const getEmpleadoCallback = (id, callback) => {
+
+			return new Promise((resolve, reject) => {
+				const empleado = empleados.find((e) => {
+					return e.id === id
+				});
+				(empleado)
+					? resolve(empleado)
+					: reject(`No existe empleado con ID ${id}`)
+
+			});
+		}
+		const id = 4;
+		getEmpleadoCallback(id)
+			.then(empleado => console.log(empleado))
+			.catch(err => console.log(err))

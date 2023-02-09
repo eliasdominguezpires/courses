@@ -1,0 +1,173 @@
+
+--------------------------------------------------------------------------------------------------------------------------
+------- REACT
+--------------------------------------------------------------------------------------------------------------------------
+que es react 
+	React is an open-source JavaScript library created by Facebook for building complex, interactive UIs in web and mobile applications. React’s core purpose is to build UI components; it is often referred to as just the “V” (View) in an “MVC” architecture.
+	React es una biblioteca JS de codigo abierto, para interfaces de usuario complejas e iteractivas en aplicaciones moviles y web. con una arquitectuta MVC
+	
+como funciona REACT	
+	React creates a virtual DOM. When state changes in a component it firstly runs a "diffing" algorithm, which identifies what has changed in the virtual DOM
+	React crea un DOM virtual, cuando cambia el estado de un componente primero ejecuta un algoritmo de diferenciacion que identifica lo que ha cambiado en el DOM virtual.
+
+How would you write an inline style in React?  
+	<div style={{ height: 10 }}>
+	
+What is the use of refs
+	Refs provide a way to access DOM nodes or React elements created in the render method. They should be avoided in most cases, however, they can be useful when we need direct access to DOM element or an instance of a component.
+	Las referencias proporcionan una forma de acceder a los nodos DOM o a los elementos React creados en el método de representación. Deben evitarse en la mayoría de los casos, sin embargo, pueden ser útiles cuando necesitamos acceso directo al elemento DOM o una instancia de un componente.
+	
+	Hay algunos buenos casos de uso para referencias:
+		Administrar el enfoque, la selección de texto o la reproducción de medios.
+		Activación de animaciones imperativas.
+		Integración con bibliotecas DOM de terceros.
+		
+	Refs are created using React.createRef() and attached to React elements via the ref attribute. Refs are commonly assigned to an instance property when a component is constructed so they can be referenced throughout the component.
+	
+	class MyComponent extends React.Component {
+	  constructor(props) {
+		super(props);
+		this.myRef = React.createRef();  }
+	  render() {
+		return <div ref={this.myRef} />;  }
+	}
+	
+	What are refs used for in React?  
+		Refs are an escape hatch which allow you to get direct access to a DOM element or an instance of a component. In order to use them you add a ref attribute to your component whose value is a callback function which will receive the underlying DOM element or the mounted instance of the component as its first argument.
+		Las referencias son una escotilla de escape que le permite obtener acceso directo a un elemento DOM o una instancia de un componente. Para usarlos, agrega un atributo ref a su componente cuyo valor es una función de devolución de llamada que recibirá el elemento DOM subyacente o la instancia montada del componente como su primer argumento.
+	
+	
+What are props in React?  "para que son las props "
+	El término “render prop” se refiere a una técnica para compartir código entre componentes en React utilizando una propiedad cuyo valor es una función
+
+	Props are inputs to a React component. They are single values or objects containing a set of values that are passed to React Components on creation using a naming convention similar to HTML-tag attributes. i.e, They are data passed down from a parent component to a child component.
+	son entradas para un componente React. Son valores únicos u objetos que contienen un conjunto de valores que se pasan a los componentes de React
+	
+	El propósito principal de los accesorios en React es proporcionar la siguiente funcionalidad de componentes:
+		Pase datos personalizados a su componente React.
+		Activar cambios.state
+		Úselo a través del método del componente interno .this.props.reactProprender()
+
+QUe es un Hooks
+	una función de javascript que permite crear/acceder al estado y a los ciclos de vida de React
+	
+	Los hooks de react
+		useState
+	
+que es un Redux
+	nos permite almacenar todo nuestro estado en un solo lugar.
+		Almacenamiento: todos los estados estan almacenados.
+		Inmutable: Los estados anteriores no se modifican. Siempre se crean nuevos estados.
+		Centralizado: TOdos los estados se encuentran en el mismo lugar
+	Cuando usar
+		Aplicaciones Grandes
+		Compartir Informacion
+		Estados no formateados
+	1 El Store como la única fuente de la verdad
+	2 State es de solo lectura
+	3 cambios al State pueden hacerse únicamente a través de acciones (actions) y funciones puras (reducers)
+	
+	export default (state, action) => {
+	  switch (action.type) {
+		case "rotate":
+		  return {
+			rotating: action.payload
+		  };
+		default:
+		  return state;
+	  }
+	};
+	
+Reducer
+	Los Reducers son funciones puras que reciben el estado actual de la aplicación y la acción a realizar y devuelven un nuevo estado, sin modificar directamente el estado actual
+		
+What are the advantages of ReactJS?  
+	Below are the advantages of ReactJS:
+		Increases the application’s performance with Virtual DOM
+		JSX makes code is easy to read and write
+		It renders both on client and server side
+		Easy to integrate with other frameworks (Angular, BackboneJS) since it is only a view library
+		Easy to write UI Test cases and integration with tools such as JEST.
+	A continuación se muestran las ventajas de ReactJS:
+		Aumenta el rendimiento de la aplicación con Virtual DOM
+		JSX hace que el código sea fácil de leer y escribir
+		Representa tanto en el lado del cliente como en el del servidor.
+		Fácil de integrar con otros marcos (Angular, BackboneJS) ya que es solo una biblioteca de vista
+		Fácil de escribir casos de prueba de interfaz de usuario e integración con herramientas como JEST.
+
+What are the major features of ReactJS?
+	The major features of ReactJS are as follows,
+		It uses VirtualDOM instead RealDOM considering that RealDOM manipulations are expensive.
+		Supports server-side rendering
+		Follows Unidirectional data flow or data binding
+		Uses reusable/composable UI components to develop the view
+		
+		Utiliza VirtualDOM en lugar de RealDOM considerando que las manipulaciones de RealDOM son costosas.
+		Admite renderizado del lado del servidor
+		Sigue el flujo de datos unidireccional o enlace de datos
+		Utiliza componentes de interfaz de usuario reutilizables/componibles para desarrollar la vista
+		
+What is Context API in ReactJS?  
+	Context provides a way to pass data through the component tree without having to pass props down manually at every level. Context is designed to share data that can be considered “global” for a tree of React components, such as the current authenticated user, theme, or preferred language. Using context, we can avoid passing props through intermediate elements.
+	
+	El contexto proporciona una forma de pasar datos a través del árbol de componentes sin tener que pasar accesorios manualmente en cada nivel. El contexto está diseñado para compartir datos que pueden considerarse "globales" para un árbol de componentes de React, como el usuario autenticado actual, el tema o el idioma preferido. Usando el contexto, podemos evitar pasar accesorios a través de elementos intermedios.
+	
+	class App extends React.Component {
+	  render() {
+		// Use a Provider to pass the current theme to the tree below.
+		// Any component can read it, no matter how deep it is.
+		// In this example, we're passing "dark" as the current value.
+		return (
+		  <ThemeContext.Provider value="dark">
+			<Toolbar />
+		  </ThemeContext.Provider>
+		);
+	  }
+	}
+	
+What are React Hooks?
+	Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class. With Hooks, you can extract stateful logic from a component so it can be tested independently and reused. Hooks allow you to reuse stateful logic without changing your component hierarchy. This makes it easy to share Hooks among many components or with the community.
+	
+	una función de javascript que permite crear/acceder al estado y a los ciclos de vida de React
+	son una nueva incorporación en React 16.8. Le permiten usar el estado y otras características de React sin escribir una clase. Con Hooks, puede extraer lógica con estado de un componente para que pueda probarse de forma independiente y reutilizarse. Los ganchos le permiten reutilizar la lógica con estado sin cambiar la jerarquía de sus componentes. Esto facilita compartir Hooks entre muchos componentes o con la comunidad.
+	const [color, setColor] = useState("red");
+
+What are the differences between a Class component and Functional component?  
+	Componentes de clase
+		Los componentes basados ​​en clases utilizan la sintaxis de clase ES6. Puede hacer uso de los métodos del ciclo de vida.
+		Los componentes de clase se extienden desde React.Component.
+		Aquí debe usar esta palabra clave para acceder a los accesorios y funciones que declara dentro de los componentes de la clase.
+		
+	Componentes funcionales
+		Los componentes funcionales son más simples en comparación con las funciones basadas en clases.
+		Los componentes funcionales se centran principalmente en la interfaz de usuario de la aplicación, no en el comportamiento.
+		Para ser más precisos, estas son básicamente funciones de representación en el componente de clase.
+		Los componentes funcionales pueden tener estados e imitar eventos del ciclo de vida usando Reach Hook
+
+: What are the advantages of using React? 		
+	Es fácil saber cómo se renderiza un componente, solo necesita mirar la función de renderizado.
+	JSX facilita la lectura del código de sus componentes. También es muy fácil ver el diseño o cómo se conectan/combinan los componentes entre sí.
+	Puede renderizar React en el lado del servidor. Esto permite mejorar el SEO y el rendimiento.
+	Es fácil de probar.
+	Puede usar React con cualquier marco (Backbone.js, Angular.js) ya que es solo una capa de vista.	
+
+	It is easy to know how a component is rendered, you just need to look at the render function.
+	JSX makes it easy to read the code of your components. It is also really easy to see the layout, or how components are plugged/combined with each other.
+	You can render React on the server-side. This enables improves SEO and performance.
+	It is easy to test.
+	You can use React with any framework (Backbone.js, Angular.js) as it is only a view layer.	
+	
+What is the difference between a Presentational component and a Container component?  
+
+
+
+
+que es el virtual dom??
+
+componetes de clase
+	como se construyen
+	
+que es un constructor 
+un super 
+
+que es el this, fines, apline, call

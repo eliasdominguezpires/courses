@@ -1,0 +1,22 @@
+END TO END Solutions 
+	El proveedor participará en su implementación, integración y configuración y hará un posterior seguimiento con el cliente del funcionamiento de la solución.
+	
+UX viene de User Experience,
+	cómo una persona se siente mientras usa cualquier producto o servicio digital que tu empresa ofrece.
+	
+UI viene de User Interface.
+	La idea del UI es guiar al usuario por tu aplicación durante el tiempo que él la usa.
+	
+JAVA EE
+	Utiliza N capas distruibuidas.
+	Utiliza componentes modulares ejecutandose sobre la VM
+	Tiene varias especificaciones de API, como JDBC, RMI, Servicios Web, XML
+	Componentes como : JavaBeans, Servlets, Portls, JSP, 
+	
+Java EE
+
+	CI/CD: Jenkins, Kubernetes (), docker
+	Gitlab
+	Jira
+	
+R2DBC: oracle, postgrestSQL, MariaDB

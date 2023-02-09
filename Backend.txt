@@ -1,0 +1,333 @@
+https://www.hackerrank.com/test/63ek10mhil5/60d306ab105867d80fca544041154273
+https://app.codesignal.com/standardized-test/GgvonNCksGzjey46c
+
+
+
+Practicar BACK FRONT
+roadmap.sh
+
+https://www.fullstack.cafe/interview-questions/javascript
+https://www.hackerrank.com/dashboard
+
+JAVA EE
+	Utiliza N capas distruibuidas.
+	Utiliza componentes modulares ejecutandose sobre la VM
+	Tiene varias especificaciones de API, como JDBC, RMI, Servicios Web, XML
+	Componentes como : JavaBeans, Servlets, Portls, JSP, 
+	
+JAVA 11 CORRETO
+	Amazon Corretto, distruibucion multi Plataforma y lista para produccion OJDK 11, Certificacion JSE
+	Soporte que incluye mejoras de rendimiento y correcciones de seguridad
+	
+Java 11 es la versión LTS (Long Term Support). 
+	
+Sprint Boot
+	https://spring.io/projects/spring-hateoas
+	start.sprint.io	
+	
+	características enterprise, arquitecturas basadas en servicios web (REST y SOAP) y microservicios.
+	junto a proyectos como Spring framework, Spring Data, Spring Security, Spring Cloud, entre otros, hacen la combinación perfecta para desarrollar, probar y desplegar nuestras aplicaciones en un entorno rápido, eficaz y bastante simple.
+	
+	Caracteristicas
+	Facilidad de despliegue con los servidores embebidos
+		Jar o War
+		Gestor de dependencias Maven o Gradle
+	Inversión de control e inyección de dependencias
+		Inyección de dependencias es un patrón de diseño como singleton, prototype, builder, observer, etc
+		
+		patrones que pueden implementar la inversión de control
+			Factory pattern
+			Strategy design pattern
+			Service locator pattern
+		
+	Arquitectura REST
+	
+Sprint webFlux
+	versiones 5 en adelante
+	Provee un frame no bloqueante
+	Para manejar concurrencias, trabaja por nodos, con subProcesos 
+	
+Spring Framework se desarrolla sobre dos conceptos básicos: 
+	Inyección de dependencia y Programación orientada a aspectos 
+	
+(Spring AOP). Programación Orientada a Aspectos
+	La modularidad de la aplicación se logra mediante Aspectos y están configurados para atravesar diferentes clases. Spring AOP elimina la dependencia directa
+	
+	Un aspecto es una clase que implementa preocupaciones, la gestión de transacciones.
+		 configurada a través de la configuración XML
+		 Spring AspectJ 
+SOAP (simple Object Access Protocol)
+	protocolo estandar que define como dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos.
+		
+	
+Web MVC clasica Model View Controler
+	Controlador 
+	HTML - Servicio
+
+https://refactoring.guru/es/design-patterns/what-is-pattern
+Fundamentos:
+- POO (herencia, abstraccion, encapsulamiento)
+- patrones de diseño
+- SOLID
+- Testing
+- CI / CD
+
+
+arquitecturas de proyectos informatica
+	Azure, especializar
+	
+
+@Anotacion 
+	anade funcionalidad adicional, como los notnull, eso hace que tenga un comportamiento no nulo
+
+que es DTO
+		?
+		
+que es Autowired
+
+que es lombok
+
+que es spring
+	Spring es un framework de desarrollo de software de proposito general escrito en JAVA, Tiene una distrubucion
+		de modulos, lubrerias que nos ayuda a extender funcionalidades.
+
+Que es un Rest-Api
+	Es una interfaz que dos sistemas de computacion utilizan para intercambiar informacion atravez de internet
+
+QUE ES LA CARPETA MAIN
+	La main carpeta contiene el código y los recursos de la aplicación,
+
+QUE ES LA CARPETA TEST 	
+	la testcarpeta contiene, bueno, el código de prueba y los recursos
+	
+	
+What are the two types of Exceptions in Java? Which are the differences between them?  
+
+	Java has two types of exceptions: checked exceptions and unchecked exceptions.
+		Unchecked exceptions do not need to be declared in a method or a constructor’s throws clause, if they can be thrown by the execution of the method or the constructor, and propagate outside the method or constructor boundary.
+		On the other hand, checked exceptions must be declared in a method or a constructor’s throws clause
+		
+	Java tiene dos tipos de excepciones: excepciones comprobadas y excepciones no comprobadas.
+		Las excepciones no verificadas no necesitan declararse en un método o en la cláusula throws de un constructor, si pueden generarse mediante la ejecución del método o del constructor, y propagarse fuera del límite del método o del constructor.
+		Por otro lado, las excepciones verificadas deben declararse en un método o en la cláusula throws de un constructor.
+		
+What is JVM? Why is Java called the "Platform Independent Programming Language”?  
+	A Java virtual machine (JVM) is a process virtual machine that can execute Java bytecode. Each Java source file is compiled into a bytecode file, which is executed by the JVM. Java was designed to allow application programs to be built that could be run on any platform, without having to be rewritten or recompiled by the programmer for each separate platform. A Java virtual machine makes this possible, because it is aware of the specific instruction lengths and other particularities of the underlying hardware platform.
+	Una máquina virtual de Java (JVM) es una máquina virtual de proceso que puede ejecutar el código de bytes de Java. Cada archivo fuente de Java se compila en un archivo de código de bytes, que es ejecutado por la JVM. Java fue diseñado para permitir la creación de programas de aplicación que pudieran ejecutarse en cualquier plataforma, sin tener que ser reescritos o recompilados por el programador para cada plataforma por separado. Una máquina virtual Java lo hace posible, porque conoce las longitudes específicas de las instrucciones y otras particularidades de la plataforma de hardware subyacente.
+	
+: What is the Difference between JDK and JRE?   
+	* The Java Runtime Environment (JRE) is basically the Java Virtual Machine (JVM) where your Java programs are being executed. It also includes browser plugins for applet execution.
+	* The Java Development Kit (JDK) is the full featured Software Development Kit for Java, including the JRE, the compilers and tools (like JavaDoc, and Java Debugger), in order for a user to develop, compile and execute Java applications
+
+	
+	& El entorno de ejecución de Java (JRE) es básicamente la máquina virtual de Java (JVM) donde se ejecutan sus programas Java. También incluye complementos de navegador para la ejecución de subprogramas.
+	& El kit de desarrollo de Java (JDK) es el kit de desarrollo de software completo para Java, que incluye JRE, compiladores y herramientas (como JavaDoc y Java Debugger), para que un usuario desarrolle, compile y ejecute aplicaciones Java.
+	
+What is the difference between an Applet and a Java Application? 
+	Applets are executed within a Java enabled browser, but a
+	Java application is a standalone Java program that can be executed outside of a browser.
+	However, they both require the existence of a Java Virtual Machine (JVM). Furthermore, a Java application requires a main method with a specific signature, in order to start its execution. Java applets don’t need such a method to start their execution. Finally, Java applets typically use a restrictive security policy, while Java applications usually use more relaxed security policies.
+
+	Los applets se ejecutan dentro de un navegador habilitado para Java, pero un
+	La aplicación Java es un programa Java independiente que se puede ejecutar fuera de un navegador.
+	Sin embargo, ambos requieren la existencia de una Máquina Virtual Java (JVM). Además, una aplicación Java requiere un método principal con una firma específica para comenzar su ejecución. Los applets de Java no necesitan un método de este tipo para iniciar su ejecución. Por último, los subprogramas Java suelen utilizar una política de seguridad restrictiva, mientras que las aplicaciones Java suelen utilizar políticas de seguridad más relajadas.
+
+What is a Servlet?  
+	The servlet is a Java programming language class used to process client requests and generate dynamic web content. Servlets are mostly used to process or store data submitted by an HTML form, provide dynamic content and manage state information that does not exist in the stateless HTTP protocol.
+	El servlet es una clase de lenguaje de programación Java que se utiliza para procesar CLIENT REQUESTS y generar dynamic web content. Los servlets se utilizan principalmente para procesar o almacenar datos enviados por un formulario HTML, proporcionar contenido dinámico y administrar información de estado que no existe en el protocolo HTTP sin estado.
+	
+What is a JSP Page?
+	A Java Server Page (JSP) is a text document that contains two types of text:
+		static data and
+		JSP elements.
+	Static data can be expressed in any text-based format, such as HTML or XML. JSP is a technology that mixes static content with dynamically-generated content.
+	
+Explain what is Binary
+	
+	
+How HashMap works in Java?
+	A HashMap in Java stores key-value pairs. The HashMap requires a hash function and uses hashCode and equals methods, in order to put and retrieve elements to and from the collection respectively. When the put method is invoked, the HashMap calculates the hash value of the key and stores the pair in the appropriate index inside the collection. If the key exists, its value is updated with the new value. Some important characteristics of a HashMap are its capacity, its load factor and the threshold resizing.
+	Un HashMap en Java almacena pares clave-valor . El HashMap requiere una función hash y utiliza métodos hashCode y equals para colocar y recuperar elementos hacia y desde la colección, respectivamente. Cuando se invoca el método put, HashMap calcula el valor hash de la clave y almacena el par en el índice apropiado dentro de la colección. Si la clave existe, su valor se actualiza con el nuevo valor. Algunas características importantes de un HashMap son su capacidad, su factor de carga y el umbral de redimensionamiento.
+	
+What are the Data Types supported by Java? What is Autoboxing and Unboxing?  
+	byte
+	short
+	int
+	long
+	float
+	double
+	boolean
+	char
+	
+	Autoboxing is the automatic conversion made by the Java compiler between the primitive types and their corresponding object wrapper classes. If the conversion goes the other way, this operation is called unboxing.
+	Autoboxing es la conversión automática realizada por el compilador de Java entre los tipos primitivos y sus correspondientes clases contenedoras de objetos. Si la conversión va por el otro lado, esta operación se llama unboxing 
+	
+What does System.gc() and Runtime.gc() methods do?  
+	These methods can be used as a hint to the JVM, in order to start a garbage collection. HOwever, this it is up to the JVM to start the garbage collection inmmediately or leter in time
+	Estos métodos se pueden utilizar como una sugerencia para la JVM, con el fin de iniciar una recolección de elementos no utilizados. Sin embargo, depende de la máquina virtual de Java (JVM) iniciar la recolección de elementos no utilizados inmediatamente o más tarde.
+
+What is the difference between processes and threads?  
+	The main difference between them is that
+		a PROCESS is a program which is executing some code and
+		a THREAD is a independent path of execution in the precess
+		
+	A process can have more than one thread for doing independent task E.G a thread for reading data from disk, a thread for processing that data and another thread for sending that data over the network
+	
+	
+	La principal diferencia entre ellos es que
+		un proceso es un programa que está ejecutando algún código y
+		un hilo es una ruta independiente de ejecución en el proceso.
+		
+		Un proceso puede tener más de un subproceso para realizar tareas independientes, por ejemplo, un subproceso para leer datos del disco, un subproceso para procesar esos datos y otro subproceso para enviar esos datos a través de la red.
+		
+What differences exist between HashMap and Hashtable?   
+	
+	
+Final
+	inmutabilidad
+	se puede aplicar en tres niveles
+		variables, 
+		metodos, no se puede sobreescribir  
+		clases, 
+		
+static
+	puedes invocar sin crear una Instancia, palabra reservada para indicar que 
+	se aplican en variables metodos
+	
+public static final CONTANTE = 
+
+public: 
+private: 
+protected: acesible por medio de herencia
+pacagelevel: cuando no pones nada, lo mismo que protected pero cualquiera en el mismo paquete
+
+interfaces
+	https://es.wikipedia.org/wiki/Interfaz_(Java)#:~:text=Una%20interfaz%20en%20Java%20es,del%20comportamiento%20de%20los%20m%C3%A9todos.
+	solo puede definir la firma del metodo, pero no implementarlo
+	se puede implementar todas las que quieras, pero solo se puede heredar de una clase abstracta
+	
+public class implements interfas1, 2,3 extents clase
+	
+que es una clase abstracta
+	Una clase abstracta es una clase común que posee atributos y métodos, y tiene como mínimo un método abstracto, además puede contener métodos normales.
+	Esta clase no puede ser instanciada, solo puede heredarse, o sea no se puede usar para crear un objeto.
+	
+	puedes definir el metodo e implementarlo
+	
+simgleton
+	https://refactoring.guru/es/design-patterns/catalog
+	cuando tengo un caso, tenga una unica instancia
+	es una clase que tiene una unica instancia
+	Caracteristicas
+		constructor privado
+		tiene un metodo getInstance
+		lazy initializacion
+		Mecanismo de acceso de log
+		
+https://docs.google.com/document/d/1HqWjiXxySHtMyMPMV9DHN4hvUD4Qaf1O6atPGy9LhF8/edit
+https://refactoring.guru/es/design-patterns/catalog
+
+
+JAVA 8 vs JAVA 11
+	8: La herramienta appletviewer está disponible en Java 8.
+	11: La herramienta appletviewer no está disponible en Java 11.
+	
+	8: Java 8 tiene la clase AWTUtilities, 
+	11: clase AWTUtilities no está disponible.
+	
+	8: tiene menos metodos de cadena, toString, subString, toLowerCase, equals
+	11: tiene mas mentodos de cadena, lines(), repeat(n), strip()
+	
+	8: No se utilizan variables especiales para los parámetros lambda.
+	11: nos permite usar variables var para usarlas en expresiones lambda.
+	
+	8: JMC y JavaFX están disponibles en Oracle JDK.
+	11: JMC y JavaFX se eliminan de Oracle JDK 
+	
+	8: No existen métodos adecuados para trabajar con el archivo.
+	11: existen varios métodos, como writeString(), readString() e isSameFile() que nos ayudan a realizar varias operaciones en el archivo.
+	
+	8: El reconocimiento de patrones no es posible.
+	11: tenemos y es posible con la ayuda del metodo asMatchPredicate()
+	
+Java Lambda
+	un bloque de codigo que toma parametros y devuelve un valor, son iguales a un metodo pero no necesitan nombre y se pueden implantar directamente en el cuerpo
+	parameter -> expression
+	(parameter1, parameter2) -> expression
+	(parameter1, parameter2) -> { code block }
+	
+	numbers.forEach( (n) -> { System.out.println(n); } );
+	juridicalPerson.getDocuments().stream().findFirst().orElseThrow(())
+	
+	
+--------------------------------------------------------------------------
+-- NODE JS
+--------------------------------------------------------------------------
+
+NODE + JEST
+
+es un marco de prueba. Significa que viene con una biblioteca de afirmaciones, un corredor de pruebas y soporte para cosas. 
+Como ha sido diseñado específicamente para probar las aplicaciones
+
+
+Node. js es un entorno de ejecución JavaScript de código abierto y multiplataforma que se utiliza para desarrollar aplicaciones escalables 
+del lado del servidor y de red
+
+Apache Kafka es una plataforma de transmisión de eventos distribuidos de código abierto utilizada por miles de empresas para canalizaciones 
+de datos de alto rendimiento, 
+análisis de transmisión, integración de datos y aplicaciones de misión crítica.
+
+Redis es un motor de base de datos en memoria, basado en el almacenamiento en tablas de hashes pero que opcionalmente puede ser usada como una 
+base de datos durable o persistente
+
+
+SAS LENGUAJE DE EXTENSIÓN CSS de grado profesional más maduro, estable y potente  del mundo.
+
+
+JENKINS el servidor de automatización de código abierto líder, proporciona cientos de complementos para respaldar la creación, 
+implementación y automatización de cualquier proyecto.
+
+https://nestjs.com/
+node js express
+typescript example
+https://www.fastify.io/docs/latest/Reference/TypeScript/
+https://lenguajejs.com/javascript/asincronia/promesas/
+callback javascript
+https://developer.mozilla.org/es/docs/Web/HTTP/CORS
+
+-------------------------------------------------------------------------------
+--- https://keepcoding.io/blog/que-es-gitlab-ci-cd/
+-------------------------------------------------------------------------------
+- CI / CD
+Integración continua (CI) y Entrega continua (CD)
+	es decir, metodologías enfocadas en la optimización de la calidad, el flujo de trabajo y la disminución de costes en sistemas y procesos tecnológicos.
+	opción utilizada para el desarrollo de software mediante el uso de los métodos continuos.
+	
+	propiedades y características más importantes
+		permite realizar múltiples funciones en un mismo sitio : 	ejemplo, unir peticiones y escribir el código, al tiempo 
+		velocidad de trabajo, pues permite llevar a cabo sus funciones de una manera muy rápida : 	puede realizar la configuración de un runner o gitlab runners con sus dependencias y trabajos de manera ágil.
+		puede modificar su comportamiento predeterminado para cumplir con funciones
+		puede configurarse para el cumplimiento de actividades específicas : 	como pueden ser la liberación, verificación y seguridad.
+	
+	GitLab Runners
+		 diseñado para correr los trabajos y enviar de vuelta los resultados al sistema.
+
+-------------------------------------------------------------------------------------
+--- https://www.ilimit.com/blog/arquitecturas-monoliticas-o-arquitectura-de-microservicios-ventajas-e-inconvenientes/
+-------------------------------------------------------------------------------------
+
+Arquitecturas monolíticas o arquitectura de microservicios:		 
+El desarrollo de software empezó utilizando una arquitectura monolítica que agrupaba todas sus funciones y servicios dentro de una base única y centralizada de código. Este tipo de arquitectura ha ido quedando desfasada, sobre todo al crecer los proyectos en complejidad, número de desarrolladores, usuarios y cargas de trabajo. Por eso en la actualidad se tiende a utilizar una estructura basada en microservicios, que es escalable y facilita el trabajo colaborativo de los desarrolladores.
+
+
+Arquitectura monolítica
+	Los primeros programas informáticos utilizaban una arquitectura monolítica, agrupando todo lo relacionado con el sistema dentro del mismo proyecto. Este tipo de arquitectura se caracteriza por:
+
+		Los programas son fáciles de desarrollar.
+		El despliegue y la ejecución del software son muy sencillos.
+		El costo de desarrollo es bajo en comparación con otras arquitecturas.
+		
+Arquitectura basada en microservicios
+	Construir una aplicación de manera distributiva es el principal objetivo de una arquitectura basada en microservicios. Cada componente de la aplicación debe ser independiente de los otros, permitiendo que sean desplegados por sí mismos.
+
+	La comunicación o conexión entre los distintos módulos de la aplicación se realizan a través de API, lo que facilita que cada uno de estos módulos pueda contar con su propio grupo de desarrolladores, eliminando la necesidad de que cada desarrollador tenga que comprender todo el código de la aplicación o de otros módulos de la misma.

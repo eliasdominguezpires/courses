@@ -1,0 +1,208 @@
+
+--------------------------------------------------------------------------------------------------------------------------
+------- JavaScript
+--------------------------------------------------------------------------------------------------------------------------
+Stand in Line
+	Stand in Line
+	In Computer Science a queue is an abstract Data Structure where items are kept in order. New items can be added at the back of the queue and old items are taken off from the front of the queue.
+	En informática, una cola es una estructura de datos abstracta donde los elementos se mantienen en orden. Los elementos nuevos se pueden agregar al final de la cola y los elementos antiguos se quitan del frente de la cola.
+
+a let le podes declarar sin iniciarlizar
+const tiene que estar inicializada, su valor no es mutable
+
+boolean
+	Los valores booleanos solo pueden ser uno de dos valores: trueo false. Son básicamente pequeños interruptores de encendido y apagado
+ 
+ifLas declaraciones se utilizan para tomar decisiones en el código
+
+porque es importante let y const
+
+let se puede varias veces
+
+
+
+cual es la diferencia entre null y undefined ?
+	null = es un tipo de variable pero esta con valor nulo
+	undefined = sin definir
+	
+Comparison with the Equality Operator
+	== The equality operator compares two values and returns true 
+		1   ==  1  // true
+		1   ==  2  // false
+		1   == '1' // true
+		"3" ==  3  // true
+Strict Equality Operator
+	=== Si los valores que se comparan tienen tipos diferentes, se consideran desiguales y el operador de igualdad estricta devolverá falso
+		3 ===  3  // true
+		3 === '3' // false
+		
+Inequality Operator
+	!= Significa no igual y vuelve false donde volvería la igualdad truey viceversa 
+		1 !=  2    // true
+		1 != "1"   // false
+		1 != '1'   // false
+		1 != true  // false
+		0 != false // false
+Strict Inequality Operator
+	!== Significa "Estrictamente no igual" y regresa falsedonde regresaría la igualdad estricta truey viceversa . 
+		3 !==  3  // false
+		3 !== '3' // true
+		4 !==  3  // true
+the Greater Than Operator	
+	>  Si el número de la izquierda es mayor que el número de la derecha, devuelve true. De lo contrario, vuelve false.
+		5   >  3  // true
+		7   > '3' // true
+		2   >  3  // false
+		'1' >  9  // false
+Greater Than Or Equal To Operator
+	>= i el número de la izquierda es mayor o igual que el número de la derecha, devuelve true. De lo contrario, vuelve false
+		6   >=  6  // true
+		7   >= '3' // true
+		2   >=  3  // false
+		'7' >=  9  // false
+Less Than Operator
+	< Si el número de la izquierda es menor que el número de la derecha, devuelve true. De lo contrario, vuelve false. 		
+		2   < 5 // true
+		'3' < 7 // true
+		5   < 5 // false
+		3   < 2 // false
+		'8' < 4 // false
+Less Than Or Equal To Operator
+	<= Si el número de la izquierda es menor o igual que el número de la derecha, devuelve true. Si el número de la izquierda es mayor que el número de la derecha, devuelve false. 
+		4   <= 5 // true
+		'7' <= 7 // true
+		5   <= 5 // true
+		3   <= 2 // false
+		'8' <= 4 // false
+		
+Many Options with Switch Statements
+	
+
+Closures o cierre
+	una funcion dentro de otra funciona, y se llama de otro lado,
+	es una variable que esta declarada fuera de una funcion, 
+
+que es un scopt
+	el alcance que va a tener ese variable dentro de mi codigo
+	Global
+	{
+		en bloque
+	}
+
+¿Qué es el scope en JavaScript? El scope puede definirse como el alcance que una variable tendrá en tu código. 
+	En otras palabras, el scope decide a qué variables tienes acceso en cada parte del código. Existen dos tipos de scope, el scope global y el scope local.
+
+que es una arrow funtion 
+	funciones que se guardan dentro de valibles que son anonimas, no tienen nombre
+	Las arrow functions son una nueva forma de expresar funciones, además de las declaradas y las expresiones funcionales (al igual que estas, no se alzan).
+		
+que con las condicionales ternario
+
+que son los asign awit
+	asyncronos = tiene que esperar una respuesta
+	
+
+en CSS porque se le dice oja en cascada
+	porque las caracteristicas se aplican de arriba para abajo
+	
+que es un response disigne
+	filosofia de dineso y desarrollo que se adapte a tu pantalla
+	
+que haces para ocultar 
+	display=none
+
+Pilas de procesos de JavaScript	callStack
+	se ejecutan , va asignando , los procesos, el primero en entrar es el ultimo en salir
+	
+que es la interpolacion en JS
+	es para cuando tenga cadena de string puedas implementar un tipo de dato y se le puede asignar un valor
+	
+que es hoisting ?
+	es como se le da la prioridad a la ejecucion de las variables ,  los import, let y const
+	
+que es spreet
+	se maneja para los objetos, ocupa el mismo espacio de memoria, copia y asigana nuevo valor
+	
+//## que son los Array
+	es una lista de informacion, utilizo para tal y tal,
+	recorrer sus objetos, hablar de mi trabajo 
+	
+	cuales son las funciones dentro de JS para los array
+		funcionas propias que se utilizan en un array foreach, filter, fine, some true or false, every, map, reduce para que traiga los elementos, 
+
+//## Callbacks
+	una funcion que se va a ejecutar despues de cierto tiempo o que se envia como argunmento cuando termine
+	se manda como argumento a otra funcion.
+	/* EJEMPLO */
+	const getEmpleadoCallback = (id, callback) => {
+		const empleado = empleados.find((e) => {
+			return e.id === id
+		})
+		if (empleado) {
+			callback(null, empleado);
+
+		} else {
+			callback(`Empleado con ID ${id} no existe`);
+		}
+	}
+	
+//## que son las promesas ?
+	Una Promise en JavaScript es un objeto que representa la eventual finalización, o fallo de una operación asíncrona, y su valor resultante. Una promise recibe una "función ejecutora" que acepta dos argumentos: resolve y reject
+	Una promesa es una funcion asincrona, que r dos argumentos resolve o reject. representa una finalización
+	/* EJEMPLO */
+		const getEmpleadoCallback = (id, callback) => {
+
+			return new Promise((resolve, reject) => {
+				const empleado = empleados.find((e) => {
+					return e.id === id
+				});
+				(empleado)
+					? resolve(empleado)
+					: reject(`No existe empleado con ID ${id}`)
+
+			});
+		}
+		const id = 4;
+		getEmpleadoCallback(id)
+			.then(empleado => console.log(empleado))
+			.catch(err => console.log(err))
+
+
+
+Hoisting
+	agarra todas las variables 
+	
+Asignacion por referencia
+	const obje = obj
+	
+	const object = new Object ()
+	
+	
+dif entre ES5 y ES6
+	se agregor destructurin
+	se agrego arrayfuntion
+	
+	
+	
+ nombre
+ edad 
+ profesion
+ 
+ 
+ recorrer .map() devolver solo nombres 
+ filter()
+ reviews.
+ .indexof
+ .foreach
+ colback()	OK
+ evenloock()
+ funciones arrow
+ 
+ desestructuracion de objetos JS
+ 
+ nullCheckOperator "?" // si existe valor, ejecutar la siguientes
+ 
+ 
+ pruebas de integracion
+ pruebas unitarias
+ smoke testing

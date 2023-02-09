@@ -1,0 +1,44 @@
+
+Mail
+
+	Usser:		edominguez@opensistemas.com
+	Passw:		OKzNgwZ5
+
+https://go.opensistemas.com/
+https://code.opensistemas.com/		code.opensistemas
+	Login with google
+	
+	
+
+https://opensistemas.atlassian.net/
+	edominguez@opensistemas.com
+	code.opensistemas
+	
+	
+
+------------------------------------------------------------------------------------------
+--- https://go.opensistemas.com/easy_timesheets IMPUTAR HORAS
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+--- https://docs.google.com/document/d/1JAp5jfxFHJry4gESGFt3sB67uLM4mRO40KgG8w1ilxo/edit
+------------------------------------------------------------------------------------------
+
+URL: https://eo20589.west-europe.azure.snowflakecomputing.com/console
+
+Hibrido:
+
+User: HYB_REP_REGUL_OPEN_SIS
+Pass: Z^B5KrWG3sN1
+
+
+DEV:
+
+User: DEV_SDH_REP_REGUL_EEPP
+Pass: 09zqNE!uxkF7
+
+
+PRE:
+
+User: PRE_REP_REGUL
+Pass: p&3W*$9a8pNo
