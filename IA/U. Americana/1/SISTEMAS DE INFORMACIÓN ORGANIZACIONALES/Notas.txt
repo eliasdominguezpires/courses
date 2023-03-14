@@ -1,0 +1,82 @@
+Reconocer las características fundamentales de los sistemas y el tratamiento correcto de la información para la toma de decisiones en las organizaciones.
+
+
+Relevamiento de datos para la toma de decisiones
+	Identificar, localizar, organizar, comunicar, aplicar
+	
+Unidad I 
+	Introducción 
+		esalta la importancia que tiene el uso de Sistemas de Información en las organizaciones  contemporáneas.
+		mediante procedimientos y estrategias  propias que sean diseñadas para conseguir una mejora en su desempeño integral.
+		
+Concepto de Sistemas
+	Definición  Técnica: Un sistema de información esta conformado por una serie de datos vinculados entre si para consetguir un objetivo comun.
+	
+	Un sistema de información es un sistema organizacional formalizado que se define como un conjkuntos de componentes interralacionados que incluyen elementos socuales
+	y tenicos organizados para recolectar, procesar, ordenar, almacenar y convertir los datos en información; la cual
+	se distribuye en la organizacion para apoyar los proceso de toma de decisiones relacionados con la coordinacion, control de recursos
+	, análisis de problemas y temas complejos así como en la creacion de nuevos productos.
+	
+	el desarrollo de la informática y las telecomunicaciones permitieron 
+	incrementar la eficacia en la realización de las tareas, ahorrar tiempo en el desarrollo de las 
+	actividades  y  almacenar  la  mayor  cantidad  de  información  en  el  menor  espacio  posible
+	
+	Se invierte en Sistemas y Tecnología de la Información porque se espera que devuelvan un 
+	valor económico a la empresa. 
+	
+	Cómo funciona un sistema de información 
+		Los sistemas de información generan y gestionan información sobre componentes relevantes para la 
+		organización. Los datos deben ser procesados para generar informacion útil mediante tres actividades indispensables.
+		
+		Entrada: Ingresar al sistemas los datos brutos que se generan dentro o fuera de la empresa
+		Proceso: Convertir el dato de entrada en informacion mediante el procesamiento interno 
+		Salida: Transfiera la informacion obtenida a los usuarios.
+		
+	Metodología habitual del funcionamiento de un Sistema de Información
+		La  entrada  de  la  información: se  da  entrada  a  la  información  de  manera automática  o  manual,
+			las manuales  las  introduce  directamente  el  usuario.}
+			las  automáticas  se  gestionan  a  través  de información recibida o proveniente de otro tipo
+		El  procesamiento  de  la  información  registrada: serie  de operaciones y acciones que previamente se han configurado y establecido
+			se procede a transformar esos datos en información requerida para la toma de decisiones.
+			El  almacenamiento  de  la  información: permite  que  la  información  quede registrada en el sistema.
+		La salida de la información: facilita a un usuario a que tenga acceso a ella y pueda sacarla a través de diferentes dispositivos 
+	
+	Computadoras y Sistemas de Información no son sinónimos
+	
+Tipos de sistemas de información
+	Sistemas de Procesamiento de Transacciones (TPS). También conocidos como sistemas 
+	de gestión operativa, recopilan la información pertinente a las transacciones de la 
+	organización, es decir, de su funcionamiento.
+	
+	Sistemas de Información Ejecutiva (EIS). Monitoriza las variables gerenciales de un área 
+	específica de la organización, a partir de la información interna y externa de la misma. 
+	
+	Sistemas  de  Información  Gerencial  (MIS).  Contemplan  la  información  general  de  la 
+	organización y la comprenden como un todo. 
+	
+	Sistemas  de  soporte  de  decisiones  (DSS).  Orientados  al  procesamiento  de  información 
+	intra y extra organizacional, para el apoyo en la conducción de la empresa. 
+	
+Los sistemas de información más destacados 
+	Sistemas de información en marketing y comunicación. Su principal objetivo es la venta 
+	y  promoción  de  artículos.  La  creación  de  información  y  datos  para  que  se  puedan  dar  a 
+	conocer este tipo de artículos y sean de interés para el público. 
+	
+	El sistema de información administrativa (MIS). Es uno de los más importantes, y se basa 
+	en proporcionar la información más  destacada y relevante que necesita la empresa para la 
+	toma de decisiones, y valoración de datos para llevar a cabo un plan de acción posterior en 
+	base a esta recogida de documentos. 
+
+	El  sistema  de  procesamiento  de  transacciones  (TPS). En  este  caso  los  datos  aquí  se 
+	incluyen son los referidos a las actividades comerciales de la empresa. 
+	
+	El sistema de apoyo a ejecutivos (EIS). Destinado especialmente a aportar información y 
+	datos relevantes para la toma de decisiones estratégicas en concreto. 	
+	
+	El  sistema  para  la  toma  de  decisiones  en  grupo  (GDSS). La información tiene  como 
+	objetivo ser compartida entre los componentes del grupo para que se faciliten las tareas de 
+	trabajos y la cooperación entre todos. 
+	
+	El sistema de información para expertos (EDSS). En este caso lo que se trata de conseguir 
+	es compartir datos de interés entre determinados segmentos y especialistas para valorar esa 
+	información destinada a ellos. 
