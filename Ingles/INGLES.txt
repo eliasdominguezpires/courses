@@ -71,6 +71,10 @@ To allow to use 					--> Para "permitirle | pueda" "usar | utilizar"
 be sure								--> asegúrese de que 
 I’d like you to meet				--> me gustaria reunirme contigo 
 you are not sharing screen			--> no estas compartiendo pantalla
+tu tienes 							--> do you have "VERVO"
+Sujeto tienes VERBO					--> Does SUJETO VERBO
+would you like some objeto			--> te gustaria un "  "
+What kind of 						--> que tipo de 
 
 What caught my EYE (visual)/ATTENTION(pensamiento) 		--> Lo que me llamó la atención
 o catch my attention 									--> llama mi atencion(TIEMPO PRESENTE)
