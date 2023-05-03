@@ -13,3 +13,12 @@ docker exec -it ID bash
 		sudo groupadd docker
 		sudo usermod -aG docker $USER
 	python3 -m venv tuVirtual
+
+
+docker build -t landing:v0.0.1 .				 crea una imagen en base a la configuracion inicial del Dockerfile, siempre y cuando el nombre sea 
+docker images									ver las listas  de imagenes en mi equipo
+
+docker run --rm -p 4000:8090 --name ms-landing landing:v0.0.1
+		--rm cuando detengas se elimina automaticamente el contenedor
+		-p definir puerto "4000:8080" puerto "anfitrion:puertocontenedor"
+		--name nombre contenedor
