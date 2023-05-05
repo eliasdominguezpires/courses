@@ -1,0 +1,94 @@
+{
+     "type": "FeatureCollection",
+     "query": [
+          "paraguari"
+     ],
+     "features": [
+          {
+               "id": "region.17596",
+               "type": "Feature",
+               "place_type": [
+                    "region"
+               ],
+               "relevance": 1,
+               "properties": {
+                    "short_code": "PY-9",
+                    "wikidata": "Q240014",
+                    "mapbox_id": "dXJuOm1ieHBsYzpSTHc"
+               },
+               "text_es": "Paraguarí",
+               "language_es": "es",
+               "place_name_es": "Paraguarí, Paraguay",
+               "text": "Paraguarí",
+               "language": "es",
+               "place_name": "Paraguarí, Paraguay",
+               "bbox": [
+                    -57.748994,
+                    -26.619549,
+                    -56.560465,
+                    -25.410472
+               ],
+               "center": [
+                    -57.1475978,
+                    -25.6207309
+               ],
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         -57.1475978,
+                         -25.6207309
+                    ]
+               },
+               "context": [
+                    {
+                         "id": "country.8892",
+                         "short_code": "py",
+                         "wikidata": "Q733",
+                         "mapbox_id": "dXJuOm1ieHBsYzpJcnc",
+                         "text_es": "Paraguay",
+                         "language_es": "es",
+                         "text": "Paraguay",
+                         "language": "es"
+                    }
+               ]
+          },
+          {
+               "id": "country.8892",
+               "type": "Feature",
+               "place_type": [
+                    "country"
+               ],
+               "relevance": 0.944444,
+               "properties": {
+                    "short_code": "py",
+                    "wikidata": "Q733",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJcnc"
+               },
+               "text_es": "Paraguay",
+               "language_es": "es",
+               "place_name_es": "Paraguay",
+               "text": "Paraguay",
+               "language": "es",
+               "place_name": "Paraguay",
+               "matching_text": "Paraguaji",
+               "matching_place_name": "Paraguaji",
+               "bbox": [
+                    -62.64153,
+                    -27.575913,
+                    -54.260795,
+                    -19.292752
+               ],
+               "center": [
+                    -58.3910238917002,
+                    -23.236210654675
+               ],
+               "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                         -58.3910238917002,
+                         -23.236210654675
+                    ]
+               }
+          }
+     ]
+}

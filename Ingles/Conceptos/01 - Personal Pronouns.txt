@@ -1,0 +1,42 @@
+/*Pronouns */{
+	se utiliza para sustituir al sustantivo o nombre de la oracion
+	Persona - Animal, cosa, lugar e idea.
+	Son los que realizan o indican la accion en la oracion	
+	
+	"TIPOS" : {
+		/*SINGULAR*/{
+			* I : yo, primer persona singular. Siempre se escribe en mayuscula
+				EXAMPLE : {
+					Jenny and I are friends
+					I stydy English everyday
+				}
+			* you : tu, usted : segunda persona singular. Depende del contexto de la Oracion. Se usa en situaciones formales e informales
+				EXAMPLE:{
+					You are intelligent
+					You have the solution
+				}
+			* HE : el, tercera persona singular. Hace referencia al masculino en la horacion
+				EXAMPLE:{
+					Carlos Works.. He works
+					He play soccer
+				}
+			* she : ella, tercera persona singular. Hace referencia al femenino de la horacion
+				EXAMPLE: {
+					She sing a song.
+					She reads a book
+				}
+			* it : eso o ello. Tercera persona singular, nos referimos a animales objetos e ideas
+				EXAMPLE : {
+					The dog is gig. It is big
+					the laptop is black. It is black
+				}
+
+		}
+		/*PLURALS*/{
+			
+		}
+	}
+}
+	
+	
+
