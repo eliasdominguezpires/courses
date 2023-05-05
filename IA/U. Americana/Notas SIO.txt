@@ -1,0 +1,1528 @@
+RESUMEN
+	Los sistemas de información organizacionales son un conjunto de componentes interrelacionados que se utilizan para recopilar, procesar, almacenar y distribuir información en una organización con el fin de apoyar la toma de decisiones y el funcionamiento eficiente de la misma.
+
+	Estos sistemas pueden incluir hardware, software, bases de datos, redes de comunicación, procedimientos y personas que trabajan juntas para recopilar, procesar, almacenar y distribuir la información necesaria para la operación y gestión de una organización.
+
+	Algunos de los principales tipos de sistemas de información organizacionales son:
+
+	Sistemas de información transaccionales: Son sistemas que se utilizan para procesar y almacenar transacciones diarias, como ventas, compras, pagos y cobros. Estos sistemas son esenciales para el funcionamiento diario de una organización y suelen estar integrados con otros sistemas de la organización.
+
+	Sistemas de información de gestión: Son sistemas que ayudan a los gerentes a tomar decisiones estratégicas y tácticas. Estos sistemas proporcionan información sobre el rendimiento de la organización, como informes financieros, informes de ventas y proyecciones de ventas. También pueden incluir sistemas de apoyo a la toma de decisiones, que utilizan técnicas como la minería de datos y el análisis de datos para ayudar a los gerentes a tomar decisiones informadas.
+
+	Sistemas de información de soporte a procesos: Son sistemas que ayudan a automatizar los procesos de negocio de una organización. Por ejemplo, pueden incluir sistemas de gestión de la cadena de suministro, sistemas de gestión de recursos humanos y sistemas de gestión de la relación con el cliente. Estos sistemas ayudan a mejorar la eficiencia y la productividad de la organización al automatizar tareas repetitivas y optimizar los procesos de negocio.
+
+	Sistemas de información estratégicos: Son sistemas que ayudan a los altos directivos a tomar decisiones estratégicas a largo plazo. Estos sistemas proporcionan información sobre el entorno empresarial, la competencia y las tendencias del mercado, lo que permite a los directivos tomar decisiones informadas sobre la dirección futura de la organización.
+
+	En resumen, los sistemas de información organizacionales son fundamentales para el funcionamiento eficiente y la toma de decisiones en una organización. Permiten la recopilación, procesamiento, almacenamiento y distribución de la información necesaria para la gestión de una organización en todos sus niveles. Es importante tener en cuenta los diferentes tipos de sistemas de información y su papel en la operación y gestión de una organización. ¿Tienes alguna pregunta o necesitas más información sobre este tema? Estoy aquí para ayudarte. ¡Hazme saber si necesitas algo más! # Sami R. + #* 311 #* 822 #* 98 99 # sist.de info. # sist. de info. organ. # organización # sistemas de información # gestión # toma de decisiones # automatización de procesos # estrategia # eficiencia # productividad # recopilación de datos # procesamiento de datos # almacenamiento de datos # distribución de datos # hardware # software # bases de datos # redes de comunic
+
+
+
+-------------------------------------------------------------------
+UNIDAD 1 - LECTURA 1
+-------------------------------------------------------------------
+Reconocer las características fundamentales de los sistemas y el tratamiento correcto de la información para la toma de decisiones en las organizaciones.
+
+
+Relevamiento de datos para la toma de decisiones
+	Identificar, localizar, organizar, comunicar, aplicar
+	
+Unidad I 
+	Introducción 
+		esalta la importancia que tiene el uso de Sistemas de Información en las organizaciones  contemporáneas.
+		mediante procedimientos y estrategias  propias que sean diseñadas para conseguir una mejora en su desempeño integral.
+		
+Concepto de Sistemas
+	Definición  Técnica: Un sistema de información esta conformado por una serie de datos vinculados entre si para consetguir un objetivo comun.
+	
+	Un sistema de información es un sistema organizacional formalizado que se define como un conjkuntos de componentes interralacionados que incluyen elementos socuales
+	y tenicos organizados para recolectar, procesar, ordenar, almacenar y convertir los datos en información; la cual
+	se distribuye en la organizacion para apoyar los proceso de toma de decisiones relacionados con la coordinacion, control de recursos
+	, análisis de problemas y temas complejos así como en la creacion de nuevos productos.
+	
+	el desarrollo de la informática y las telecomunicaciones permitieron 
+	incrementar la eficacia en la realización de las tareas, ahorrar tiempo en el desarrollo de las 
+	actividades  y  almacenar  la  mayor  cantidad  de  información  en  el  menor  espacio  posible
+	
+	Se invierte en Sistemas y Tecnología de la Información porque se espera que devuelvan un 
+	valor económico a la empresa. 
+	
+	Cómo funciona un sistema de información 
+		Los sistemas de información generan y gestionan información sobre componentes relevantes para la 
+		organización. Los datos deben ser procesados para generar informacion útil mediante tres actividades indispensables.
+		
+		Entrada: Ingresar al sistemas los datos brutos que se generan dentro o fuera de la empresa
+		Proceso: Convertir el dato de entrada en informacion mediante el procesamiento interno 
+		Salida: Transfiera la informacion obtenida a los usuarios.
+		
+	Metodología habitual del funcionamiento de un Sistema de Información
+		La  entrada  de  la  información: se  da  entrada  a  la  información  de  manera automática  o  manual,
+			las manuales  las  introduce  directamente  el  usuario.}
+			las  automáticas  se  gestionan  a  través  de información recibida o proveniente de otro tipo
+		El  procesamiento  de  la  información  registrada: serie  de operaciones y acciones que previamente se han configurado y establecido
+			se procede a transformar esos datos en información requerida para la toma de decisiones.
+			El  almacenamiento  de  la  información: permite  que  la  información  quede registrada en el sistema.
+		La salida de la información: facilita a un usuario a que tenga acceso a ella y pueda sacarla a través de diferentes dispositivos 
+	
+	Computadoras y Sistemas de Información no son sinónimos
+	
+Tipos de sistemas de información
+	Sistemas de Procesamiento de Transacciones (TPS). También conocidos como sistemas 
+	de gestión operativa, recopilan la información pertinente a las transacciones de la 
+	organización, es decir, de su funcionamiento.
+	
+	Sistemas de Información Ejecutiva (EIS). Monitoriza las variables gerenciales de un área 
+	específica de la organización, a partir de la información interna y externa de la misma. 
+	
+	Sistemas  de  Información  Gerencial  (MIS).  Contemplan  la  información  general  de  la 
+	organización y la comprenden como un todo. 
+	
+	Sistemas  de  soporte  de  decisiones  (DSS).  Orientados  al  procesamiento  de  información 
+	intra y extra organizacional, para el apoyo en la conducción de la empresa. 
+	
+Los sistemas de información más destacados 
+	Sistemas de información en marketing y comunicación. Su principal objetivo es la venta 
+	y  promoción  de  artículos.  La  creación  de  información  y  datos  para  que  se  puedan  dar  a 
+	conocer este tipo de artículos y sean de interés para el público. 
+	
+	El sistema de información administrativa (MIS). Es uno de los más importantes, y se basa 
+	en proporcionar la información más  destacada y relevante que necesita la empresa para la 
+	toma de decisiones, y valoración de datos para llevar a cabo un plan de acción posterior en 
+	base a esta recogida de documentos. 
+
+	El  sistema  de  procesamiento  de  transacciones  (TPS). En  este  caso  los  datos  aquí  se 
+	incluyen son los referidos a las actividades comerciales de la empresa. 
+	
+	El sistema de apoyo a ejecutivos (EIS). Destinado especialmente a aportar información y 
+	datos relevantes para la toma de decisiones estratégicas en concreto. 	
+	
+	El  sistema  para  la  toma  de  decisiones  en  grupo  (GDSS). La información tiene  como 
+	objetivo ser compartida entre los componentes del grupo para que se faciliten las tareas de 
+	trabajos y la cooperación entre todos. 
+	
+	El sistema de información para expertos (EDSS). En este caso lo que se trata de conseguir 
+	es compartir datos de interés entre determinados segmentos y especialistas para valorar esa 
+	información destinada a ellos. 
+	
+Componentes Basicos de los sistemas	
+	Informacion
+	Personas		-- Actividades : tecnicas de trabajo ---> objetivos de la entidad
+	Recursos
+	
+	Recursos Humanos
+		Programadores, gerentes, analistas, operadores. Usuarios finales son las que utilizan
+		
+	Procedimientos o actividades
+		Son las politicas o metodos que deben acatarse para operar. Estan recopilados en manuales
+		y documentos similares
+		
+	Harware
+		Esta compuesto por multiples sistemas informaticos, recursos. monitores, teclados, impresoras
+		minicomputadoras etc etc
+	
+	Software
+		Son conjuntos de programas de computacion que permiten que el hardware proceso lso datos
+		para convertirlos en informacion
+		
+		Software del sistema
+		Software de aplicacion
+		
+	Base de datos
+		Con el conjunto organizado de archivos, tablas asociados, que contine datos relacionados 
+		entre si
+	
+	Redes de comunicacion
+		Son un sismtema de conexion que permiten que diverosos sistemas infomaticos puedan estar 
+		interconectados y distruibuir recursos. 
+
+-------------------------------------------------------------------		
+UNIDAD 1 - Lectura 2
+-------------------------------------------------------------------
+Clasificación de los sistemas de información
+	Un sistema de información es aquel conjunto de herramientas que se emplea en una
+	organización para mantener sincronizada las comunicaciones, misivas, y demás
+	funcionabilidades en las que las habilidades comunicativas y la finalidad de las mismas se
+	puedan mantener organizadas y hechas en procesos para poder así consolidar los objetivos
+	planteados por la organización misma.
+	
+	Un sistema de información obedece a conocimientos útiles que hacen propenso el éxito de la
+	organización, no debe confundirse con los sistemas de informática, que son
+	herramientas tecnológicas que coadyuvan a la interrelación de los mismos conocimientos,
+	pero quedan reducidos a simples herramientas.
+	
+	La prioridad de conocer los tipos de sistemas, permite a una empresa manejarlos y poder así
+	diseñar una armonía efectiva del recurso humano que se traducirá en la obtención de metas.
+
+Tipos de sistemas de información y su funcionamiento
+	De precesamiento de transacciones
+		Sistemas de procesamientode transacciones, menaj todos los datos de transacciones de clientes
+		y sus empleados para que una organizacionpueda optimizar los flujos de trabajo y recuperar
+		facilmente la información requerida.
+		
+		
+	De control de procesos de negocio
+		estos van referidos al seguimiento y cada uno de los procesos de produccion que
+		lleva acabo una empresa en su activida comercial. 
+		
+	De colaboracion empresarial
+		Esta clasificacion, va referido al factor humano, a la interrelacion
+		de ideas entre los empleados de la organizacion, con la finalidad de que los mismos
+		puedan intercambiar ideas que brinden un proposito de mojoria en la organizacion 
+		y la optencion de objetivos planteados.
+		
+		Este es considerado en el sistema de comunicacion interpersonal de la empresa. Es utilizado
+		por empleados, clientes, gerentes y otras partes interesadas.
+		
+	De informacion de gestion
+		esto van referidos a la recoleccion de la informacion que mermita y facilite los 
+		procesos de gestion de la empresa, es decir, es la recopilacion de todos aquellos datos
+		que refieren la operatividad de la empresa en cada una de sus actividades
+		
+		Este sistema es el que se baja en mayores herramientas, se considera que el
+		mismo sistema es macro.
+		
+		Ayuda a la adminstracion intermedia a optimizar la planificacion y la toma de
+		decisiones que incluye las actividades de la empresa.
+		
+		Recupera informacion, la agrega y genera informes para ayudar a los que estan a nivel de gestion
+		a conocer los detalles importantes de una situacion.
+	
+	de apoyo a la toma de decisiones
+		Estos sistemas recogen informacion de relevancia que ayudan a los ejecutivos y personal de
+		alto rango a la toma de decisiones que resultal mejor para la empresa con la finalidad de 
+		poder asi brindar direcciones asertivas.
+		Un sistema de apoyo, a la toma de decisiones procesa datos para ayudar. Almacena
+		recopila la informacion necesaria para que la adminstracion tome las deciciones
+		
+		
+
+-------------------------------------------------------------------		
+UNIDAD 1 - Lectura 3
+-------------------------------------------------------------------
+	Un sistema de información es aquel conjunto de herramientas que se emplea en una
+	organización para mantener sincronizada las comunicaciones, misivas, y demás
+	funcionabilidades en las que las habilidades comunicativas y la finalidad de las mismas se
+	puedan mantener organizadas y hechas en procesos para poder así consolidar los objetivos
+	planteados por la organización misma
+	
+Tipos de Sistemas
+	
+	El análisis de decisión proporciona un soporte cuantitativo a los tomadores de 
+	decisiones en todas las áreas tales como ingenieros, analistas en las oficinas 
+	de planificación, agencias públicas, consultores en proyectos de gerencia, 
+	planificadores de procesos de producción, analistas financieros y de economía, 
+	expertos en diagnósticos de soportes médico y tecnológicos e infinidad de otras áreas.
+
+	Sistema Abierto.
+		Cuando hablamos de un sistema abierto (o también de sistema flotante o sistema de volumen constante) 
+		nos referimos a una porción del universo delimitada o abstraída mentalmente del resto, es decir, 
+		un sistema cuyo rasgo fundamental es que permite el libre intercambio de información con su entorno, 
+		sin presentar barreras ni impedimentos al flujo.
+	
+	Características de los sistemas abiertos
+		Permite el libre intercambio de información (materia, energía, dinero, etc.) entre el adentro del sistema y el afuera o medio exterior.
+		
+		Carecen de barreras o impedimentos para el flujo de información, o bien los poseen, pero sólo hasta una cierta y limitada cantidad.
+	
+	Sistemas Cerrados
+		nos referimos a una porción del universo tomada para su estudio como algo separado del resto, es decir, un sistema cuyo rasgo característico es no permitir un intercambio libre con el entorno.
+		
+		sistema totalmente cerrado, es decir, aquel que no permite ningún tipo de intercambio con el ambiente, se denomina sistema aislado.
+			Teoría General de Sistemas, una perspectiva interdisciplinaria surgida a mediados del siglo XX,
+	
+		un sistema totalmente cerrado es útil únicamente como una abstracción: uno puede considerar un sistema como cerrado para poder centrarse en sus elementos internos, sin tomar en consideración el afuera, siempre y cuando el funcionamiento del sistema lo permita
+	Características de los sistemas cerrados
+		Se hallan claramente separados del entorno, ya sea mediante barreras o separaciones,
+		En algunos casos puede haber intercambio de energía, pero no libremente
+		sus recursos son limitados.
+		Los sistemas totalmente cerrados se denominan aislados
+		
+	Sistemas Deterministas
+		Un sistema que no cambia es un sistema estático, es decir, determinístico.
+		Muchos de los sistemas a los cuales pertenecemos son sistemas dinámicos, los cuales cambian a través del tiempo. Cuando nos referimos a que cambian a través del tiempo es de acuerdo al comportamiento del sistema. Cuando el desarrollo del sistema sigue un patrón típico decimos que el mismo tiene un patrón de comportamiento.
+		En los modelos determinísticos, una buena decisión es juzgada de acuerdo a los resultados. 
+		Sin embargo, en los modelos probabilísticos, el gerente no está preocupado solamente por los resultados, sino que también con la cantidad de riesgo que cada decisión acarrea
+	
+	Sistemas Probabilistas
+		El concepto de probabilidad ocupa un lugar importante en el proceso de toma de decisiones,
+		La mayoría de las decisiones son hechas de cara a la incertidumbre. La probabilidad entra en el proceso representando el; rol de sustituto de la certeza – un sustituto para el conocimiento completo.
+		Los modelos probabilísticos están ampliamente basados en aplicaciones estadísticas para la evaluación de eventos incontrolables (o factores), así como también la evaluación del riesgo de sus decisiones.
+		La palabra estadística no se deriva de ninguna raíz griega o latina, sino de la palabra italiana state. La probabilidad tiene una historia mucho más larga. La Probabilidad se deriva del verbo probar lo que significa "averiguar" lo que no es tan fácil de obtener o entender. La palabra "prueba" tiene el mismo origen el cual proporciona los detalles necesarios para entender lo que se requiere que sea cierto.
+	
+	Sistemas Manuales
+		es manual porque el proceso se verá reflejado en un periodo de tiempo determinado, en el cual, el empleado deberá de manera directa analizar, organizar, manipular, y finalmente presentar datos, para decir el estado económico de la empresa con la mencionada gráfica.
+		
+		Elementos Sistema manual.
+			Entrada: Información verbal, información escrita, formularios activos; documentos escaneados. 
+			Proceso de datos: Cerebro humano, habilidades mentales de cálculo. 
+			Almacenamiento: Archivadores, cuadernos, memoria humana, fichas, biblioratos 
+			Salida: Información verbal. 
+			Control: Comparación manual de los hechos reales con los esperados 
+			Retroalimentación: Ajustes manuales.
+			
+	Sistemas Automatizados
+		Un sistema de información automatizado, generalmente, está compuesta por hardware, software, bases de datos, telecomunicaciones, personas y procedimientos específicamente configurados para recolectar, manipular, almacenar y procesar datos para ser convertidos en información. A
+		
+		Hardware. El hardware es el equipo de computación que se utiliza para llevar a cabo las actividades de entrada, procesamiento y salida. 
+		Software. El software está constituido por los programas de computación que dirigen las operaciones de una computadora. 
+			Son dos los tipos básicos de software: 
+			software del sistema (el cual controla las operaciones fundamentales de una computadora tales como arranque e impresión) 
+			y software de aplicaciones (que hace posible la ejecución de tareas específicas tales como procesamiento de texto o tabulación de números).
+		
+		Bases de datos. Una base de datos es un conjunto organizado de datos e información. La base de datos de una compañía puede contener datos e información referente a clientes, empleados
+		
+		Telecomunicaciones, redes e Internet. Las telecomunicaciones son la transmisión electrónica de señales de comunicación que permiten a las organizaciones conectar entre sí sistemas de computación para integrar redes. Las redes sirven para enlazar las computadoras y equipo de computación de un edificio, un país o el mundo entero, con la finalidad de establecer comunicaciones electrónicas.
+		
+		Personas. Las personas son el elemento más importante de la mayoría de los sistemas de información basados en computadoras. El personal de sistemas de información incluye a todos los individuos que administran, operan, programan y mantienen el sistema.
+		
+		Procedimientos. Los procedimientos son las estrategias, políticas, métodos y reglas para el uso del sistema. Los procedimientos describen, por ejemplo, en qué momento ejecutar un programa, quién puede tener acceso a información de la base de datos.
+		
+
+-------------------------------------------------------------------		
+UNIDAD 1 - Lectura 4
+-------------------------------------------------------------------
+Las organizaciones como sistema
+	Cualquier sistema es una parte de cierto sistema más amplio y por ende constituye un subsistema,
+	El sistema organizacional comparte con los sistemas biológicos la propiedad de una intensa interdependencia de sus partes, de modo que un cambio en una de ellas provoca un impacto sobre las otras.
+	Las interacciones internas y externas del sistema reflejan diferentes escalones de control y de autonomía
+	
+	
+	Las organizaciones son sistemas sociales diseñados para lograr metas y objetivos por medio de los recursos humanos y de otro tipo. Están compuestas por subsistemas interrelacionados que cumplen funciones especializadas. Convenio sistemático entre personas para lograr algún propósito específico.
+	
+	Pueden clasificarse de la siguiente manera: - 
+	Primarias: con dedicación completa y emocional. - 
+	Secundarias: con relaciones de tipo contractual
+	
+	Sistemas Abiertos y Cerrados:
+		Un sistema abierto puede entenderse como el conjunto de partes constantes interacción e interdependencia, construyendo un todo sinérgico, orientados hacia determinados propósitos y en permanente relación de interdependencia con el medio ambiente.
+		La organización como sistema abierto es aquel que está integrado por diversas partes o unidades relacionadas entre sí, que trabajan en armonía unas con las otras, con la finalidad de alcanzar una serie de objetivos, tanto de la organización como de sus participantes
+		
+		La teoría clásica estudia la organización como si fuera un sistema cerrado, compuesto de algunas pocas variables perfectamente conocidas y previsibles,
+		Se puede decir que no existe un sistema totalmente cerrado, ni uno totalmente abierto. Todo sistema depende en alguna medida del ambiente.
+		
+		Una organización sólo existe cuando:
+			1) hay personas capaces de comunicarse y que
+			2) están dispuestas a actuar conjuntamente
+			3) para obtener un objetivo común.
+			
+		Las organizaciones existen para que los miembros alcancen objetivos que no podrían lograr de manera aislada debido a las restricciones individuales.
+		
+		
+La Complejidad de las Organizaciones
+	Las organizaciones tienden a crecer a medida que prosperan; esto se refleja en el aumento de personal. Para poder administrar esa mayor cantidad de personas, se incrementa el número de niveles jerárquicos y entonces ocurre un distanciamiento gradual
+	
+	Complejidad. Esta complejidad tiene que ver con la separación vertical existente. A una mayor división del trabajo corresponde una mayor complejidad horizontal de la organización, y cuando aparecen nuevos niveles verticales, el proceso de control y reglamentación aumenta la complejidad vertical.
+	Anonimato. Sólo importa que la actividad se realice, no quién la ejecute.\\
+	
+	Rutinas estandarizadas. Las grandes organizaciones tienden a formar subcolectividades o grupos informales que mantienen una acción personalizada dentro de ellas.
+	Estructuras personalizadas no oficiales. Configuran la organización informal, cuyo poder es más eficaz que el de las estructuras formales
+	
+	Tendencia a la especialización y a la proliferación de funciones. Pretende distanciar las líneas de autoridad formal de las de idoneidad profesional o técnica.
+	
+	Tamaño. Es un elemento final, pues depende del número de participantes y dependencias. Debido a que la principal característica de las organizaciones es la diversidad, no hay dos de ellas iguales.
+	
+Enfoque de Sistema sociotécnico
+	Las organizaciones cumplen una doble función: técnica (relacionada con la coordinación del trabajo y la ejecución de las tareas con la ayuda de la tecnología disponible) y social (que se refiere a la manera de interrelacionar a las personas, al modo de hacerlas trabajar juntas).
+	
+	El sistema sociotécnico lo constituyen tres subsistemas principales:
+	
+		Sistema técnico o de tareas, que incluye el flujo de trabajo, la tecnología involucrada, los desempeños que la tarea exige y algunas otras variables tecnológicas. \
+		Sistema gerencial, que implica la estructura organizacional, las políticas, los procedimientos y las reglas, el sistema de recompensas y el modo como se toman las decisiones y otros elementos proyectados para facilitar los procesos administrativos. 
+		Sistema social, que se relaciona en primer lugar con la cultura organizacional, con los valores y las normas y con el nivel motivacional.
+		
+Los Elementos de las Organizaciones
+	Una organización puede ser pequeña y sencilla, o grande y supremamente compleja. A pesar de esa gran variedad y complejidad
+		El elemento básico: son las personas, cuyas interacciones conforman la organización
+		Los elementos de trabajo: son los recursos que ella utiliza, los cuales pueden determinar su eficiencia en el futuro, y son: humanos, no humanos y conceptuales.
+		
+		
+El Enfoque de Sistemas
+	Desde el enfoque de sistemas, se pone el énfasis en el estudio de los diferentes procesos sociopsicológicos que ocurren de manera interrelacionada a lo interno de la organización: las relaciones que existen entre el individuo, portador de una subjetividad individual, con necesidades a satisfacer en el contexto organizacional y la propia organización,
+	
+Enfoque Sistémico de las Organizaciones
+	Comportamiento probabilístico y no-determinístico de las organizaciones: son sistemas abiertos afectados por cambios en sus ambientes, denominados variables externas
+	
+	Las organizaciones como partes de una sociedad mayor y constituidas de partes menores: las organizaciones son vistas como sistemas dentro de sistemas. Los sistemas son “complejos de elementos colocados en interacción”.
+	
+	Homestasis o “estado firme”: La organización puede alcanzar un estado firme cuando se presentan dos requisitos: la unidireccionalidad y el progreso.
+	
+	Fronteras o límites: Es la línea que sirve para demarcar lo que está dentro y lo que está fuera del sistema. No siempre la frontera de un sistema existe físicamente. Una
+	
+	Morfogénesis: El sistema organizacional, diferente de los otros sistemas mecánicos y aún de los sistemas biológicos, tiene la capacidad de modificar sus maneras estructurales básicas, esta es la propiedad morfogénica de las organizaciones, considerada por Buckey como su principal característica identificadora.
+	
+
+-------------------------------------------------------------------		
+UNIDAD 2 - Lectura 1
+-------------------------------------------------------------------
+	La información es uno de los activos potencialmente más valiosos que puede tener una empresa. El valor real de esa información depende de cómo es gestionada, del tiempo que se emplea para procesarla y traducirla en el lanzamiento de producto o servicios y de en qué medida se utiliza eficientemente y es cualitativamente mejor que la de las empresas competidoras.
+	
+	La Información en las Organizaciones
+		La información es un recurso vital para toda organización, y el buen uso de ésta puede significar la diferencia entre el éxito o el fracaso para una empresa. El éxito de una organización ya no depende sólo de la manera en que cada persona maneja sus recursos materiales, sino que es más importante el buen aprovechamiento de los activos intangibles tales como el know-how (hacer como), el conocimiento de cliente y de mercado, etc.
+		
+	Para que la información cumpla con sus objetivos es necesario que posea ciertas características: 
+		Debe ser relevante: tiene que ser importante y la que necesitamos. 
+		Debe estar actualizada: debe utilizarse en el momento de ser generada. 
+		Debe ser comparable: que permita ser confrontada con datos similares. 
+		Debe ser confiable: debe permitir que los usuarios puedan depender de ella al tomar sus decisiones. 
+		Debe ser económica: debe ser más barata la obtención que la ganancia de su explotación 
+		Debe ser rápida: el acceso a la información debe realizarse de forma rápida y sencilla. 
+		Debe ser de calidad: es importante que la información carezca de errores y sea completa. 
+		Debe ser objetiva: no cabe opción a subjetividades. 
+		Debe ser completa: el tener la información incompleta es peor que no tener nada. 
+		Debe ser aplicable: la información debe ser adecuada para la toma de una decisión, además de ser importante y pertinente.
+		
+		
+	Concepto de Dato 
+		A pesar que generalmente, los términos de datos e información se usan para describir lo mismo, para el profesional en tecnologías de información éstos términos significan diferentes cosas. Datos es un término que se refiere a hechos, eventos, transacciones, etc., que han sido registrados. Es la entrada sin procesar de la cual se produce la información.
+		Información se refiere a los datos que han sido procesados y comunicados de tal manera que pueden ser entendidos e interpretados por el receptor.1
+		
+	
+	Información 
+		Norbert Wiener, reconocido como el padre de la cibernética, junto a Arturo Rosenblueth Stearns a partir de los años 40; formaron los fundamentos de la ciencia de la cibernética; ciencia que ha revolucionado totalmente nuestra actualidad. Wiener nos deja una frase célebre, la cual versa así: “Vivir de manera efectiva significa poseer la información adecuada”.
+		
+RESUMEN
+	Este texto destaca la importancia de la gestión de la información en las empresas y cómo su correcto manejo puede ser clave para el éxito de una organización. Se menciona que la información debe ser relevante, actualizada, confiable, económica, rápida, de calidad, objetiva, completa y aplicable. Además, se enfatiza en que las tecnologías de la información y los sistemas empresariales son necesarios para analizar grandes cantidades de datos y encontrar información relevante para tomar decisiones. También se define la diferencia entre datos e información, donde los datos son hechos registrados y la información es el resultado del procesamiento y comunicación de los datos. En resumen, el texto enfatiza que el manejo de la información es crucial para la ventaja competitiva de una empresa en el mercado actual.
+
+-------------------------------------------------------------------		
+UNIDAD 2 - Lectura 2
+-------------------------------------------------------------------
+	Introducción La información, antigua como la humanidad y a la vez actual en toda su dimensión y utilidad, es un tema de investigación muy amplio e interesante. Hoy en día se habla mucho de la Sociedad de la Información como si se tratara de un tema novedoso; sin embargo, la información al ser consustancial e inherente al hombre, ha existido siempre. Sin información no puede desarrollarse, ni puede evolucionar la sociedad, sociedad que surge de la relación y comunicación entre sus semejantes, con los que indefectiblemente debe convivir. La comunicación está basada en un flujo, una transferencia de información en sentido recíproco y concordante.
+	
+	
+	
+	El Papel de la Información
+		La administración del recurso información de las empresas puede ayudar a afrontar tal panorama. No sólo se trata de una administración centrada en la obtención de la pertinente información del entorno, en sus dimensiones de información ambiental general y del entorno más inmediato o específico.
+	
+	Atributos de la Información
+		La información debe contar con ciertas características o atributos, las cuales acrecentarán el valor de la información para las organizaciones a la hora de tomar decisiones. Si la información no cumple con alguna de estas características se corre el riesgo de tomar una mala interpretación y por lo tanto una mala decisión.
+		
+		Exacta 
+			La información exacta carece de errores. En algunos casos se genera información porque se insertan datos inexactos en el proceso de transformación, lo que comúnmente se conoce como “si entra basura, sale basura”.
+			
+		Completa 
+			La información completa contiene todos los datos importantes. Un informe de inversión que no incluyera todos los costos importantes, por ejemplo, no estaría completo.
+		
+
+		Económica 
+			La producción de la información debe ser relativamente económica. Los responsables de la toma de decisiones siempre deben evaluar el valor de la información con el costo de producirla.
+			
+			
+		Flexible 
+			La información flexible es útil para muchos propósitos. Por ejemplo, la información acerca de las existencias en inventario de una parte específica le es útil a un representante de ventas para cerrar una venta, a un gerente de producción para determinar la necesidad de más inventarios y a un ejecutivo de finanzas para determinar el valor total de la inversión en inventario de la compañía.
+			
+			
+		Confiable 
+			La información confiable dependerá de algunos factores. En muchos casos, la confiabilidad de la información depende del método de recolección de datos, en otros, de la fuente de información. Un rumor de fuente anónima sobre la posibilidad de un incremento en los precios del petróleo no sería confiable	
+		
+		Pertinente 
+			La información pertinente es la realmente importante para el responsable de la toma de decisiones. Información acerca de la posibilidad de un decremento en el precio de la madera no sería pertinente para una compañía fabricante de microprocesadores de computadoras
+		
+		Simple 
+			La información debe ser simple, no excesivamente compleja. Por lo general no se precisa de información sofisticada y detallada. Un exceso de información puede provocar sobrecarga de información, caso éste en el que un responsable de la toma de decisiones tiene tanta información que le es imposible identificar la verdaderamente importante
+			
+		Oportuna
+			La información oportuna es la que recibe justo cuando se le necesita. Conocer las condiciones climáticas imperantes la semana anterior no servirá de nada para decidir el atuendo de hoy.
+		
+		Verificable 
+			La información debe ser verificable. Esto significa la posibilidad de comprobar que es correcta, quizá mediante la consulta de muchas fuentes al respecto.
+			
+		Accesible 
+			La información debe ser de fácil acceso para los usuarios autorizados, quienes deben obtenerla en el formato adecuado y el momento correcto para satisfacer sus necesidades. 
+			
+		Segura 
+			La información debe estar protegida contra el acceso a ella de usuarios no autorizados.
+			
+Resuemn
+	Este texto destaca la importancia de la información en la sociedad actual, señalando que es un recurso con valor económico y estratégico, y que su gestión adecuada puede mejorar la competitividad de las empresas. También se indica que la tecnología de la información es fundamental para la creación de sistemas que faciliten el acceso a la información. Asimismo, se mencionan los atributos que debe tener la información para ser valiosa en la toma de decisiones empresariales. En resumen, el texto destaca el papel de la información en el mundo actual y su importancia para el desarrollo socioeconómico.
+	
+	Los atributos de la información son las características que hacen que la información sea valiosa y útil para las organizaciones al tomar decisiones. Los principales atributos son:
+	Precisión: la información debe ser precisa y estar libre de errores o sesgos.
+	Relevancia: la información debe ser relevante y aplicable al problema o situación en cuestión.
+	Actualidad: la información debe ser actual y estar al día.
+	Complejidad: la información debe ser completa y abarcar todos los aspectos relevantes del problema.
+	Confiabilidad: la información debe ser confiable y provenir de fuentes confiables.
+	Accesibilidad: la información debe estar disponible y accesible para aquellos que la necesitan.
+	Claridad: la información debe ser clara y comprensible para aquellos que la utilizan.
+	Al considerar estos atributos al administrar y utilizar la información, las organizaciones pueden tomar mejores decisiones y mejorar su competitividad en el mercad
+	
+-------------------------------------------------------------------		
+UNIDAD 2 - Lectura 3
+-------------------------------------------------------------------
+	La información es un recurso estratégico para todas las empresas. Pero, su valor no suele estar reconocido, y por ende, no suele potenciarse ni gestionarse eficazmente, poniendo en peligro el desenvolvimiento y la supervivencia de dichas organizaciones. Es por ello necesario hacer un análisis de la percepción de la información como recurso estratégico para el desarrollo de las empresas.
+	El análisis de los sistemas de información empresariales, donde se describen y se determina, en base a factores como la globalización, la tecnología y la competencia, revelan la importancia de la información actualizada y oportuna para la toma de decisiones, con el fin de crear estrategias que garanticen el correcto funcionamiento de la organización. La creciente globalización, el proceso de internacionalización de la empresa, el incremento de la competencia en los mercados de bienes y servicios, la rapidez en el desarrollo de las tecnologías de información, el aumento de la incertidumbre en el entorno y la reducción de los ciclos de vida de los productos, originan que la información se convierta en un elemento clave para la gestión, así como para la supervivencia y crecimiento de la organización empresarial.
+	Es imperioso dentro de las empresas, desarrollar estudios que profundicen en los factores a tener en cuenta a la hora de diseñar, implantar y usar los sistemas de información para la dirección en sus funciones de planificación estratégica y de control y supervisión de las tareas operativas y en la definición de los sistemas de procesamiento de datos, de ello depende el éxito o fracaso de la disposición de información adecuada a las necesidades gerenciales y de la empresa, y de la toma de decisiones en pro de la organización.
+
+
+	La Información y la Toma de Decisiones
+		La empresa tiene como objeto de su existencia el alcanzar una serie de objetivos. Para alcanzar dichos objetivos es necesario llevar a cabo una serie de acciones. Esta actuación se reduce a meros procesos transformadores de insumos, como resultado de los cuales se obtienen unos productos cuya principal cualidad es la de ser útiles o aptos para otros entes, transformadores o consumidores. Es una característica principal de la gestión de la empresa la del proceso de convertir la información en acción. Se entiende que detrás de toda acción existe una decisión, decisión que tiene que estar basada en el análisis riguroso de una información adecuada. Por tanto, la información aparece como elemento esencial para la toma de decisiones.
+		
+	La Información como recurso estratégico de las Organizaciones 
+		En un mundo globalizado e interconectado, el buen manejo de la información ofrece una ventaja sobre los competidores. Esta debe considerarse como una materia prima para sacar el mejor provecho en el ámbito corporativo. Las empresas lo saben, y por eso hacen grandes inversiones para contar con sistemas de información que faciliten los procesos operativos. Aunque este es un recurso que no se puede palpar, es determinante a la hora de tomar decisiones claves para el funcionamiento de cualquier compañía. El “no ver la información” ha propiciado que muchas empresas subestimen este recurso. Han cometido el error de utilizarla solo para alcanzar cierto nivel de optimización y cumplimiento de las metas.
+		
+RESUEN	
+	El texto destaca la importancia de la información como recurso estratégico para el desarrollo y supervivencia de las empresas. Se señala que la información actualizada y oportuna es crucial para la toma de decisiones y la creación de estrategias que garanticen el correcto funcionamiento de la organización. Además, se menciona que la globalización, la competencia, la tecnología y la incertidumbre en el entorno hacen que la información sea un elemento clave para la gestión y el crecimiento empresarial.
+
+	En cuanto a la toma de decisiones, se indica que la información es esencial para dicho proceso, y su utilidad dependerá del grado de necesidad, oportunidad, contenido y forma de presentación. El costo de la información es medible y depende del grado de exactitud y tiempo necesario para obtenerla. Se plantea la necesidad de fijar un nivel de exactitud "suficiente" que maximice la utilidad de la información frente a su costo. Se destaca también la importancia de la dimensión temporal en la utilidad de la información: a mayor prontitud, mayor utilidad. Finalmente, se explica que el valor de la información necesaria para la toma de decisiones es igual al valor mínimo de los resultados esperados tras dicha decisión.		
+	
+	
+-------------------------------------------------------------------		
+UNIDAD 2 - Lectura 4
+-------------------------------------------------------------------
+	Es común escuchar que las bibliotecas o cualquier otra unidad de información tiene como misión o propósito satisfacer las necesidades de información del sector de la sociedad que le compete atender (investigadores, obreros, amas de casa, estudiantes, etc.); pero en realidad ¿conocemos tales necesidades?; es factible pensar que cada biblioteca o unidad de información debe haber hecho un estudio para poder identificar las necesidades de información de su comunidad, para poder, primero, hablar de que las conoce y posteriormente, que este conocimiento le sirva para diseñar los servicios bibliotecarios y de información adecuados para satisfacerlas.
+	En el plano de las organizaciones, la información es un recurso estratégico para todas las empresas. Pero, su valor no suele estar reconocido, y por ende, no suele potenciarse ni gestionarse eficazmente, poniendo en peligro el desenvolvimiento y la supervivencia de dichas organizaciones. Es por ello necesario hacer un análisis de la percepción de la información como recurso estratégico para el desarrollo de las empresas.
+	
+	Identificación de Necesidades de Información
+		La necesidad de información, se puede definir como la sensación de carencia de algo; es decir, es «aquello que un individuo debe poseer para su trabajo, investigación, educación etc.». En este concepto se encuentran implicadas valoraciones muy personales, pues. lo que para uno es una Información importante. para otro puede ser irrelevante. Según Reitz (2012) una necesidad de información es “una brecha en el conocimiento de una persona que se experimenta en el nivel consciente como una pregunta, da lugar a una búsqueda de una respuesta. Si la necesidad es urgente, la búsqueda puede llevarse a cabo con la diligencia hasta que el deseo se ha cumplido”. Fases del proceso de identificación de necesidades de información: 1) Identificación de necesidades. Requerimiento de información según instancias decisoria Las verdaderas decisiones gerenciales y de gestión requieren juicios personales sustentados en datos reales por lo que precisan de una información optima, basadas en un sistema de información integrado que permita a las instancias calcular rápidamente los requerimientos, analizar los indicadores de eficiencia y hacer proyecciones a través de modelos realistas y datos confiables. 2) Categorización de las necesidades. Es la clasificación mediante una reflexión profunda. • Cada categoría debe incluir aquellas necesidades que puedan abordarse de un modo similar en la fase de Planificación, esto es, que puedan tratarse mediante un mismo plan de acción, aunque requieran de alguna especificidad. Por ejemplo cuando planificamos el Presupuesto Comercial.
+		
+		
+	3) Priorización de necesidades. Todas las categorías establecidas no pueden abordarse al mismo tiempo por falta de disponibilidad (tiempo, recursos materiales y humanos, etc.), y porque no todas se consideran igualmente importantes o urgentes. Ello exige un nuevo tratamiento conducente a su priorización. Procedimiento: a) Cada miembro del grupo elige, según su propio criterio las necesidades. b) Posteriormente y también de forma individual y en su tiempo, las ordena, en orden de importancia e impacto corporativo
+	
+	c) Una vez que cada miembro del grupo ha decidido sus prioridades, se procede a construir de nuevo los pequeños grupos y aponer en común las prioridades de cada uno de sus componentes, hasta llegar a las prioridades consensuadas de cada grupo. d) Cuando los grupos ya disponen de sus propias prioridades consensuadas, se pasa al proceso de construcción de prioridades del gran grupo, es decir, a la priorización de las categorías para toda la organización.
+	
+	Identificación de Usuarios de Sistemas de Información
+	
+	Identificación de Usuarios de Sistemas de Información 
+	Un usuario de un sistema de información (SI), se denomina así al que puede ordenar, mover y reestructurar un sistema. Esto varía según los roles y permisos otorgados, y el área donde se dedique a trabajar. Existen más de un tipo de usuarios de SI, sin embargo, no todos se ocupan de las mismas actividades. Pero sí, todos con un mismo objetivo, que es mantener un sistema completamente estable y funcionando. Ahora bien, la definición de usuario desde un punto de vista informático, es aquella persona que trabaja detrás de un computador. Siendo muy importante para la producción de contenidos, y la gestión de éstos en un SI. 
+	Un usuario según el sistema de información, se define como un conjunto de permisos y recursos agrupados para un operador en específico, siendo parte esencial del sistema. 
+	Los roles de usuario se clasifican según los permisos, tal como se muestran a continuación: 
+	Usuario final directo. Este tipo de usuario mantiene una interacción directa con el equipo del sistema, siendo este el principal responsable de la alimentación de datos. Todas las actividades realizadas por este usuario, afectan todo el sistema, y como lo dice su nombre todo se maneja de forma directa. 
+	Usuario final indirecto. El usuario final directo, no opera el sistema, sin embargo, es el encargado de emplear reportes y otras informaciones generadas por el mismo. La responsabilidad otorgada a este usuario, varía según el área donde la persona está encargada. 
+	
+	Administradores. 
+		Un usuario administrador, supervisa e interviene en el desarrollo del sistema. Los permisos habilitados para este, le otorga la responsabilidad de organizar las actividades del proceso. Este usuario es muy importante dentro del sistema de información. Por este motivo tiene permisos que le permiten auditar cuando quiera los procesos y archivos. Directivos. Incorpora al sistema, usos estratégicos para fortalecer la información y los planes de la organización. Además, es el encargado de evaluar los diferentes riesgos que pueden ocasionarse por fallos en el SI. Gerentes y Altos Ejecutivos. Estos usuarios pueden monitorear todas las actividades en general, incluyendo entre sus roles el control de todo el sistema, teniendo la capacidad de gerenciar los procesos institucionales. Este tipo de usuario resulta ser el apoyo de todo el sistema, para que el funcionamiento e interacción se mantenga constante y estable.
+	Operarios. Los operarios pueden acceder a todas las informaciones críticas almacenadas en el sistema, y tienen la capacidad de enviar o archivarlas donde quieran, con la intención de organizarlas. Su presencia es valiosa para la toma de decisiones, permitiendo una mejora y un impacto directo positivo en el desarrollo del negocio. Analista. El analista es el profesional que se encarga de estudiar cada detalle de la información, pasando a ser el responsable del desarrollo de las apps, gracias a su habilidad para el diseño de algoritmos. Su análisis es indispensable para el sistema, permitiendo modificaciones importantes que fortalecen la estructura, además que también brinda el apoyo técnico a los usuarios de las aplicaciones existentes. Programador. El programado es el usuario encargado de depurar y dar mantenimiento a los códigos de fuentes. Su objetivo principal es permitir el desarrollo de tareas determinadas. En otras palabras, un programador envía instrucciones al hardware del ordenador para promover, desarrollar y ejecutar actividades. 
+	
+	Diseñador de bases de datos. Por último, se encuentran los diseñadores de bases de datos, cuya función es estructurar pruebas y poner en funcionamiento conjuntos de algoritmos y datos, utilizando todos los permisos para la gestión de base de datos, incluyendo en su rol, velar por la protección y seguridad de la base de datos.
+	
+	Requerimientos de Información Las necesidades humanas son manifestaciones de reacciones que tiene el individuo, ya sea por causas básicas o fisiológicas o de más alto nivel, en las cuales intervienen los factores ambientales externos.
+	
+RESUEN
+	El texto se enfoca en la importancia de identificar las necesidades de información de una comunidad o una organización. Se menciona que cada biblioteca o unidad de información debe hacer un estudio para conocer las necesidades de su comunidad y diseñar servicios bibliotecarios adecuados para satisfacerlas. En el ámbito de las organizaciones, se destaca que la información es un recurso estratégico importante, pero su valor no suele estar reconocido y no se gestiona eficazmente, lo que puede poner en peligro el desenvolvimiento y la supervivencia de dichas organizaciones. El texto también habla sobre el proceso de identificación de necesidades de información, que incluye la identificación de necesidades, la categorización de las necesidades y la priorización de las mismas. Además, se menciona la importancia de identificar los usuarios de los sistemas de información y sus diferentes roles y permisos en la gestión de la información.
+	
+	
+
+
+-------------------------------------------------------------------		
+UNIDAD 3 - Lectura 1
+-------------------------------------------------------------------
+Sistemas de Información
+	Concepto
+		Cuando se habla de un sistema de información (SI) se refiere a un conjunto ordenado de mecanismos que tienen como fin la administración de datos y de información, de manera que puedan ser recuperados y procesados fácil y rápidamente
+		
+		
+	Estos recursos pueden ser:
+		• Recursos humanos. Personal de variada índole y destrezas.
+		• Datos. Cualquier tipo de información masiva que precisa de organizarse.
+		• Actividades. Procedimientos, pasos a seguir, estaciones de trabajo, etc.
+		• Recursos informáticos. Aquellos determinados por la tecnología.
+		
+	Una empresa en evolución puede beneficiarse del uso de diferentes tipos de sistemas de información que ayudan a cada unidad a tomar decisiones estructuradas y mejorar las habilidades para resolver problemas.
+		Clasificación de los Sistemas de Información.
+			SISTEMAS DE PROCESO ELECTRÓNICO DE DATOS (EDPS). Representan la adaptación del tratamiento clásico manual de los datos al ordenador. Es un subsistema que alimenta a los demás.
+			SISTEMAS DE PROCESOS DE TRANSACCIONES (TPS). Representan la informatización de los procesos transaccionales de compra y venta.
+			SISTEMAS DE INFORMACIÓN PARA LA GESTIÓN (MIS). Sistemas dedicados al control operativo en sus diversos ámbitos: logístico, comercial, RRHH. etc. Son los primeros sistemas de información. Están orientadas a la gestión del día a día
+			SISTEMAS DE AUTOMATIZACIÓN DE OFICINAS (OAS). Sistemas que se dedican a la informatización de tareas de generación de documentos, archivos, presentaciones. etc. Su principal finalidad es incrementar la productividad de los trabajadores en la oficina.
+			SISTEMAS DE SOPORTE A LA DECISIÓN (DSS). Permiten el proceso y la modelización de la información para el apoyo a la toma de decisiones. Permiten trabajar con problemas estructurados y semi estructurados además se caracterizan por ser simples, robustos y fáciles de controlar.
+			SISTEMAS EXPERTOS (ES). Sistemas de consulta diseñados para simular el comportamiento de expertos humanos ante situaciones que generan una gran incertidumbre. Captan la experiencia de los humanos y la almacenan mediante reglas y datos, a partir de sistemas de inteligencia artificial, así se consiguen sacar conclusiones en materias especializadas.
+			SISTEMAS DE INFORMACIÓN PARA LA DIRECCIÓN (EIS). Sistemas asociados al nivel estratégico, están formados por los avances de todos los sistemas anteriores. Están formados por la integración de los sistemas DSS y ES, con la capacidad de mejorar el análisis de información. Su principal objetivo es la definición correcta de un problema y su presentación de forma correcta en el momento adecuado.
+	
+	Objetivos básicos de un sistema de información
+		Automatización de procesos operativos:
+			Los Sistemas de Información que logran la automatización de procesos operativos dentro de una organización, son llamados frecuentemente Sistemas Transaccionales, ya que su función primordial consiste en procesar transacciones tales como pagos, cobros, pólizas, entradas, salidas, etc
+		
+		Proporcionar información que sirva de apoyo al proceso de toma de decisiones:
+			Los Sistemas de Información que apoyan el proceso de toma de decisiones son los Sistemas de Soporte a la Toma de Decisiones, Sistemas para la Toma de Decisión de Grupo, Sistemas Expertos, de Soporte a la Toma de Decisiones y Sistema de Información para Ejecutivos
+			
+		Lograr ventajas competitivas a través de su implantación y uso:
+			Por otra parte, el tercer tipo de sistema, de acuerdo con su uso u objetivos que cumplen, es el de los Sistemas Estratégicos, los cuales se desarrollan en las organizaciones con el fin de lograr ventajas competitivas, a través del uso de la tecnología de información.
+			
+		Entorno de un sistema de información	
+			Todo sistema está situado dentro de un cierto entorno, ambiente o contexto, que lo circunda, lo rodea o lo envuelve total y absolutamente. A veces, es útil discriminar el entorno global de un sistema y separarlo en entorno próximo y entorno lejano.
+			
+			El entorno próximo es aquel accesible por el sistema (puede influir en él y ser influenciado por él); mientras que el entorno lejano es aquel inaccesible por el sistema (no puede influir en él pero es influenciado por él).
+			
+		Hay tres actividades en un sistema de información que producen los datos necesarios para que las organizaciones tomen decisiones, controlen las operaciones, analicen problemas y creen nuevos productos o servicios. 
+			Estas actividades son: entrada, procesamiento y salida (vea la figura 1). 
+			La entrada captura o recolecta los datos en crudo desde el interior de la organización o a través de su entorno externo. 
+			El procesamiento convierte esta entrada en bruto en un formato significativo. 
+			La salida transfiere la información procesada a las personas que harán uso de ella, o a las actividades para las que se utilizará. Los sistemas de información también requieren retroalimentación: la salida que se devuelve a los miembros apropiados de la organización para ayudarles a evaluar o corregir la etapa de entrada.
+			
+	Actividades de un sistema de información
+		Entrada de Información:
+			Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información. Las entradas pueden ser manuales o automáticas. Las manuales son aquellas que se proporcionan en forma directa por el usuario, mientras que las automáticas son datos o información que provienen o son tomados de otros sistemas o módulos. Esto último se denomina interfaces automáticas.
+			Las unidades típicas de entrada de datos las computadoras son las terminales, las cintas magnéticas, las unidades de diskette, los códigos de barras, los escáner, la voz, los monitores sensibles al tacto, el teclado y el mouse, entre otras.
+			Ejemplos de Entradas de información:
+			• Datos generales del cliente: nombre, dirección, tipo de cliente, etc.
+			• Políticas de créditos: límite de crédito, plazo de pago, etc.
+			• Facturas (interface automático).
+			• Pagos, depuraciones, etc.
+	Almacenamiento de Información:
+		El almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad el sistema puede recordar la información guardada en la sección o proceso anterior. Esta información suele ser almacenada en estructuras de información denominadas archivos. La unidad típica de almacenamiento son los discos magnéticos o discos duros, los discos flexibles o diskettes y los discos compactos (CD-ROM).
+		Ejemplos de Almacenamiento de información:
+		• Movimientos del mes (pagos, depuraciones).
+		• Catálogo de clientes.
+		• Facturas.
+	Procesamiento de Información:
+		Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida. Estos cálculos pueden efectuarse con datos introducidos recientemente en el sistema o bien con datos que están almacenados. Esta característica de los sistemas permite la transformación de datos fuente en información que puede ser utilizada para la toma de decisiones, lo que hace posible, entre otras cosas, que un tomador de decisiones genere una proyección financiera a partir de los datos que contiene un estado de resultados o un balance general de un año base.
+		Ejemplos de Proceso de información:
+		• Cálculo de antigüedad de saldos.
+		• Cálculo de intereses moratorios.
+		• Cálculo del saldo de un cliente.
+	
+	Salida de Información:
+		La salida es la capacidad de un Sistema de Información para sacar la información procesada o bien datos de entrada al exterior. Las unidades típicas de salida son las impresoras, terminales, diskettes, cintas magnéticas, la voz, los graficadores y los plotters, entre otros. Es importante aclarar que la salida de un Sistema de Información puede constituir la entrada a otro Sistema de Información o módulo. En este caso, también existe una interface automática de salida. Por ejemplo, el Sistema de Control de Clientes tiene una interface automática de salida con el Sistema de Contabilidad, ya que genera las pólizas contables de los movimientos de procesos de los clientes.
+		Ejemplos de Salida de información:
+		• Reporte de pagos.
+		• Estado de cuentas.
+		• Pólizas contables.
+		• Consulta de saldos en pantalla de una terminal.
+		
+	Sistemas de Información Transaccionales
+		El Diccionario de Informática y Tecnología (Alegsa,2016) define una transacción, dentro de un sistema transaccional, como “un evento o proceso que genera o modifica la información que se encuentra eventualmente almacenada en un sistema de información”
+		Los sistemas de información en ambientes transaccionales, también llamados operacionales o sistemas de procesamiento de transacciones, tienen como objetivo el procesamiento de datos en grandes volúmenes a partir de los subsistemas de producción, mercadeo, finanzas, recursos humanos, y otras áreas funcionales, mediante la validación detallada de informes orientados al nivel operativo de la empresa. Además el procesamiento automatizado de datos voluminosos permite ahorros en recursos y tiempo y es la primera opción tecnológica como sistema de información moderno en las empresas
+		
+		
+	Objetivos
+		Un sistema de procesamiento informático de transacciones como aquel que dispone, modifica y recupera información con origen en las transacciones del nivel operativo, capaz de garantizar la confiabilidad y consistencia de los datos registrados y generados, como por ejemplo, la transferencia de dineros entre clientes de un mismo banco, a condición que el descuento monetario de la cuenta que emite sea igual al incremento monetario de la cuenta del receptor. El Sistema de Procesamiento de Transacciones también debe ser capaz de enmendar errores y deshacer operaciones, igualmente, de administrar y controlar múltiples transacciones, como la reserva de un asiento de avión antes de que se efectúe la transacción monetaria a cambio del boleto.
+		
+	Propiedades de los sistemas transaccionales
+		• Automatizan tareas operativas en una organización, permitiendo ahorrar en personal. 
+		• Suelen dirigirse especialmente al área de ventas, finanzas, marketing, administración y recursos humanos. 
+		• Suelen ser los primeros sistemas de información que se implementan en una organización. 
+		• Se suelen utilizar para cargar grandes bases de datos. 
+		• Los beneficios de este tipo de sistemas en una organización son rápidamente visibles. 
+		• Estos sistemas son optimizados para almacenar grandes volúmenes de datos, pero no para analizar los mismos.
+	
+		Propiedades para que la información sea válida
+			• Atomicidad: que la transacción se debe ejecutar totalmente o no ejecutarse en absoluto.· 
+			• Conservación de la coherencia: una ejecución correcta de la transacción debe llevar a la base de datos de un estado coherente a otro estado coherente (válido). 
+			• Aislamiento: Una transacción no debe hacer visibles sus actualizaciones de la base de datos a otras transacciones sino hasta que haya sido confirmada (terminada por completo). 
+			• Durabilidad: una vez que una transacción cambie a la base de datos y los cambios sean confirmados, éstos nunca deben perderse por fallas subsecuentes.
+		
+		Características de un Sistema Transaccional
+			Para que un sistema informático pueda ser considerado como un sistema transaccional, debe superar el test ACID. 
+				- Rapidez: deben ser capaces de responder rápidamente, en general la respuesta no debe ser mayor a un par de segundos. 
+				- Fiabilidad: deben ser altamente fiables, de lo contrario podría afectar a clientes, al negocio, a la reputación de la organización, etc. En caso de fallas, debe tener mecanismos de recuperación y de respaldo de datos. 
+				- Inflexibilidad: no pueden aceptar información distinta a la establecida. Por ejemplo, el sistema transaccional de una aerolínea debe aceptar reservas de múltiples agencias de viajes. Cada reserva debe contener los mismos datos obligatorios, con determinadas características.
+				
+		Sistema de Información Transaccional se clasifica:
+			1) Por ser la primera cara de una empresa con el usuario, sea éste último un trabajador del propio negocio o un cliente.
+			2) Porque su funcionamiento es en línea y permite realizar las operaciones cotidianas del negocio.
+			3) Por administrar las transacciones, por lo general en línea, captura la información que se produce y cuando ocurre una transacción, no la procesa sino que la entrega a otro sistema
+			4) Es la cara que ve el cliente (Front – End).
+			
+		Ventajas de Sistema de Información Transaccional 
+			1) Es capaz de controlar y administrar múltiples transacciones, determinando las prioridades. 
+			2) Controlar las transacciones para mantener la seguridad y consistencia de los datos involucrados. 
+			3) Beneficios visibles y palpables. 
+			4) Automatizan tareas operativas de la organización. 
+			5) Se logran ahorros significativos de mano de obra, debido a que automatizan tareas operativas de la organización. 
+			6) Son el 1er tipo de S.I.T que se implanta en las organizaciones ya que empieza apoyando las tareas a nivel operativo de la organización. 
+			7) Tienen la propiedad de ser recolectores de información, a través de estos se cargan las grandes bases de información para su explotación posterior. 
+			8) Son fáciles de justificar ante la dirección general ya que sus beneficios son visibles y palpables.
+		Desventajas Sistema de Información Transaccional 
+			1) Su principal desventaja es su limitación ya que su capacidad de generar informes es limitada. Ofrecen registros básicos lo cual es un problema para los administradores quienes necesitan informes más sofisticados para poder comprender y analizar los datos. 
+			2) Son intensivos en entradas y salidas de información, sus cálculos y procesos son poco sofisticados.
+			
+		Tipos de Sistema de Información Transaccional
+			Sistemas de ventas y marketing: son los que realizan transacciones referentes a administración de ventas, investigación de mercados, productos nuevos, sistema de comisiones por venta, fijación de precios. 
+			Sistemas de manufactura y producción: sistemas por los cuales se realiza programación, compras, sistemas de ingeniería, control de calidad, control de máquina. 
+			Sistemas de finanzas y contabilidad: por los cuales se realizan presupuestos, facturación, contabilidad de costos, cuentas por cobrar y pagar. Sistemas de recursos Humanos: a través de esto se registra el personal, se realiza la nómina, el expediente de los empleados. Otros tipos: cualquier organización se realicen transacciones automatizadas, por ejemplo un el sistema de una compañía de seguros.
+-------------------------------------------------------------------		
+UNIDAD 3 - Lectura 3
+-------------------------------------------------------------------		
+	Sistemas de Información para la Administración y Dirección
+		Un Sistema de Información Administrativa (SIA) es el conjunto de elementos que examina y recupera los datos provenientes del ambiente que captura, filtra datos a partir de las transacciones y operaciones efectuadas dentro de la administración, es la combinación de equipos de comunicación y otros dispositivos diseñados para manejar datos, cuando es totalmente automatizado recibe, procesa y almacena los datos, transfiere la información, conforma la información que requiere y produce informes y copias según sea el requerimiento.
+		El SIA es el proceso de transformar los datos en información de calidad, los cuales permiten a los administradores tomar decisiones, resolver problemas y cumplir con sus funciones/operaciones en forma eficiente y eficaz.
+		
+	Características de los Sistemas de Información Administrativa.
+		Comprensibilidad: debe ser elaborado en forma correcta y contener términos y símbolos adecuados para que el receptor lo interprete debidamente.
+		Confiabilidad: es necesario que sea preciso, congruente con el hecho real y comprobable desde la fuente y todo el proceso de transmisión.
+		Relevancia: debe ser esencial para el área de responsabilidad de actuación de la administración.
+		Integridad: contiene los hechos que el tomador de decisiones necesita para resolver problemas.
+		Concisión: debe omitir materias ajenas al asunto, resumir la información clave y dejar a un lado los detalles y los datos que no tienen relación con el sistema de información administrativa.
+		Oportunidad: disponibilidad en el momento en que sea necesaria para la actuación del administrador, pues anticipada podría ser olvidada o mal usada y retrasada no tiene valor.
+		Calidad: es el grado de precisión con el cual la información retrata la realidad, a un costo razonable, para su procesamiento y distribución.
+		
+	Componentes básicos de un Sistema de Información Administrativa.
+		1) Entradas: datos obtenidos de fuentes internas y externas; donde la fase de entrada es permanente, los datos nuevos se suman continuamente al sistema cuando se realiza el procesamiento.
+		2) Procesamiento: fase durante la cual los datos obtenidos son transformados, organizados y archivados electrónicamente.
+		3) Salidas: relatos, diagramas, cuadros, resúmenes escritos compilados y producidos durante la fase de procesamiento; una vez que las salidas son utilizadas para tomar decisiones estas deben ser producidas en un formato que permita al usuario final tener un acceso rápido.
+		4) Retroalimentación: mecanismo de verificación y ajuste, que ayuda a los administradores a determinar qué información generada es necesaria. Los informes pueden ser comparados con pronósticos, patrones y otros medios. Los resultados y las salidas son por si solos retroalimentación.
+		
+	Por el contrario, consiste en aplicar varias técnicas, ser muy tenaz y paciente para reunir las diversas perspectivas de los sistemas. El analista tratará de averiguar:
+		1) ¿Qué se está haciendo?
+		2) ¿Por qué se está haciendo?
+		3) ¿Cómo se está haciendo?
+		4) ¿Quién lo está haciendo?
+		
+	Los gerentes toman decisiones estratégicas, decisiones tácticas y decisiones de implantación que consisten en:
+		• Descubrir las oportunidades de la compañía en el mercado.
+		• Evaluar las metas y estrategias.
+		• Desarrollar los sistemas de mercadotecnia, producción, finanzas y otros sistemas, los cuales estén relacionados con el sistema total de operaciones.
+		• Lograr mayor eficacia y eficiencia.
+		• Prevenir desastres.
+		
+	Tipos de Sistema de Información Administrativa		
+		Nivel Estratégico:
+		• Sistema de apoyo a ejecutivos (ESS)
+		Nivel Administrativo:
+		• Sistemas de información gerencial (MIS) y
+		• Sistemas de Apoyo a la toma de decisiones (DSS)
+		Nivel de Conocimiento:
+		• Sistemas de trabajo del conocimiento (KWS) y
+		• Sistemas de oficina
+		Nivel Operativo:
+		• Sistemas de procesamiento de transacciones (TPS)
+	Sistemas Operativos:
+		Apoyan a los gerentes operativos en el seguimiento de las actividades y transacciones elementales de la organización como ventas, ingresos, depósitos de efectivo, nómina, decisiones de crédito y flujo de materiales en una fábrica.
+		El objetivo principal de los sistemas a este nivel es responder a las preguntas de rutina y seguir el flujo de las transacciones a través de la organización: apoyar el proceso de transacciones del negocio, el proceso de control industrial, las comunicaciones y colaboraciones de la empresa y actualizar las bases de datos de la empresa:
+		• Sistemas de control de proceso
+		• Sistemas transaccionales
+		• Sistemas de colaboración empresarial.
+		
+	Sistema de Nivel de Conocimiento
+		Son sistemas de información basados en conocimiento que apoyan la creación, organización y difusión del conocimiento empresarial a los empleados y administradores a través de la compañía. El propósito de estos sistemas es ayudar a las empresas comerciales a integrar el nuevo conocimiento en los negocios y ayudar a la organización a controlar el flujo del trabajo de oficina
+		
+		
+	Sistema de Nivel Estratégico
+		Ayudan a los directores a enfrentar y resolver aspectos estratégicos y tendencias a largo plazo, tanto en la empresa como en el contexto externo. Su función principal es compaginar los cambios del entorno externo con la capacidad organizacional existente.
+		Por ejemplo:
+		• Sistemas de apoyo a Ejecutivos
+		
+	Sistema de Información para apoyar funciones empresariales.
+		Los sistemas de información también apoyan las principales funciones empresariales como:
+		- Ventas y marketing,
+		- Manufactura,
+		- Finanzas,
+		- Contabilidad y
+		- Recursos Humanos.
+		Una organización típica tiene sistemas a nivel operativo, administrativo, del conocimiento y estratégico para cada área funcional
+		
+	Sistemas de Apoyo a las Decisiones (DSS	
+		Un Sistemas de Apoyo a las Decisiones (DSS por sus siglas en inglés Decision Support System), es un sistema informático que sustenta el proceso de toma de decisiones, lo cual implica la utilización de datos y modelos para la generación, la estimación, la evaluación y/o la comparación sistemática de alternativas, ayudando a los responsables de la toma de decisión a reunir inteligencia, generar opciones y tomar decisiones.
+	
+		Un DSS - Sistemas de Apoyo a las Decisiones es un sistema de información basado en computadoras que es interactivo, flexible y adaptable, especialmente desarrollado para dar solución a un problema de decisiones, posee herramientas que permiten obtener oportunamente la información requerida durante el proceso de la toma de decisiones, en un ambiente de incertidumbre.
+		
+		Los sistemas que hoy apoyan el proceso de toma de decisiones están orientados a los altos ejecutivos y personas que tienen esta responsabilidad dentro de la organización. Estos son conocidos como DSS(Decisión Support System), EIS(Executive Information Systems) y numerosos sistemas expertos que cada día proveen información en tiempo real y de manera gráfica y resumida.
+		
+	Tipos de los Sistemas de Información para la toma de decisiones
+		EIS (Executive Information Systems):
+			Las principales características de los sistemas de información para ejecutivos (EIS) son las siguientes:
+			- Están diseñados para cubrir las necesidades específicas y particulares de la alta administración de la empresa.
+			- Extraen, filtran, comprimen y dan seguimiento a información crítica del negocio.
+			- Implica que los ejecutivos puedan interactuar en forma directa con el sistema sin el apoyo o auxilio de intermediarios
+			- Es un sistema desarrollado con altos estándares en sus interfaces hombre-máquina, caracterizado por gráficas de alta calidad, información tabular y en forma de texto.
+			- Pueden acceder a información que se encuentra en línea, extrayéndose en forma directa de las bases de datos de la organización.
+			- El sistema está soportado por elementos especializados de hardware, tales como monitores o videos de alta resolución y sensibles al tacto, ratón e impresoras con tecnología avanzada.
+		EIS es comúnmente desarrollado con altas expectativas de éxito, sin embargo terminan fracasando, y las razones principales son
+			a) Acceso. Es obvio que si un sistema se encuentra disponible significa que los usuarios tendrán acceso a él, de una manera no complicada y desde puntos clave. Si esto no sucede, el sistema no servirá de nada.
+			b) Uso. Un indicador importante es su frecuencia de uso. Si un sistema no es usado, o simplemente, los usuarios potenciales no lo emplean, esto se reflejará en el éxito del sistema.
+			c) Satisfacción. Si el sistema no puede satisfacer a sus usuarios, éstos no usarán el sistema.
+			d) Impacto Positivo. Un sistema es exitoso si tiene un impacto benéfico en los ejecutivos y la organización, al hacer los primeros, mejores decisiones la organización recibe más beneficios.
+			e) Difusión. Otro punto que indica el éxito es la propagación del sistema. El número de personas que usa el sistema aumenta después de que los usuarios iniciales lo han probado. En el pasado, la falta de aplicaciones adecuadas para apoyar el concepto era otra de las grandes limitantes, pero actualmente las soluciones presentes en el mercado tienen la capacidad de integrarse fácilmente con otras aplicaciones.
+			f) Las nuevas soluciones son más flexibles a las necesidades de los usuarios y generalmente giran en torno de estructuras basadas en los hechos.
+		DSS (Decisión Support System)
+			Los DSS son herramientas de mucha utilidad en inteligencia empresarial (Business Intelligence), permiten realizar el análisis de la diferente variable de negocio para apoyar el proceso de toma de decisiones de los directivos:
+			- Permite extraer y manipular información de una manera flexible.
+			- Ayuda en decisiones no estructuradas.
+			- Permite al usuario definir interactivamente la información que necesita y cómo combinarla.
+			- Suele incluir herramientas de simulación, modelación, etc.
+			- Puede combinar información de los sistemas transaccionales internos de la empresa con los de otra empresa externa.
+			Un DSS da soporte a las personas que tienen que tomar decisiones en cualquier nivel de gestión, ya sean individuos o grupos, tanto en situaciones semi estructurados como en no estructuradas, a través de la combinación del juicio humano e información objetiva:
+				- Soporta varias decisiones interdependientes o secuenciales.
+				- Ofrece ayuda en todas las fases del proceso de toma de decisiones -inteligencia, diseño, selección, e implementación- así como también en una variedad de procesos y estilos de toma de decisiones.
+				- Es adaptable por el usuario en el tiempo para lidiar con condiciones cambiantes.
+				- Genera aprendizaje, dando como resultado nuevas demandas y refinamiento de la aplicación, que a su vez da como resultado un aprendizaje adicional.
+				- Generalmente utiliza modelos cuantitativos (estándar o hechos a la medida).
+				
+	Características de un sistema de información para la toma de decisiones
+		• Son intensivos en cálculos y escasos en entradas y salidas de información. Así, por ejemplo un modelo de indicadores de gestión requiere poca información de entrada, genera poca información como resultado, pero puede realizar muchos cálculos durante el proceso y accesos a la base de datos o repositorio de datos.
+		• Están diseñados a la medida de cada organización, lo que significa que es responsabilidad de los ejecutivos y usuarios involucrados en la toma de decisiones. Permite que el usuario desarrolle de manera directa los modelos sin la intervención de profesionales de informática.
+		• Son considerados como soluciones que hacen parte del plan de mejoramiento organizacional y como estrategia para lograr una ventaja competitiva.
+		• Son desarrollados con altos estándares en sus interfases hombre-máquina, caracterizado por gráficas de alta calidad, información tabular y en forma de texto.
+		• El protocolo de comunicación entre el ejecutivo y el sistema permite interactuar sin un entrenamiento previo.
+		• El sistema esta soportado por elementos especializados de hardware, tales como monitores o videos de alta resolución y sensibles a; tacto, ratón e impresoras con tecnología avanzada.
+		
+		
+-------------------------------------------------------------------		
+UNIDAD 4 - Lectura 1
+-------------------------------------------------------------------	
+	Los ERP son una solución robusta para aquellas empresas que buscan una solución universal a la centralización de su información. 
+	La implementación de un sistema de ERP por lo general es larga y compleja, ya que implica rediseñar los esquemas de trabajo. Su implementación es de alto riesgo, ya que envuelve complejidad, tamaño, altos costos, un equipo considerable de desarrollo, además de inversión de tiempo.
+	El término ERP se refiere a Enterprise Resource Planning, que significa Sistema de Planificación de Recursos Empresariales. Estos programas se hacen cargo de distintas operaciones internas de una empresa, desde producción a distribución o incluso recursos humanos.
+	
+	El objetivo de los sistemas ERP es integrar los departamentos. Donde antes teníamos un programa especializado para cada uno, ahora, podemos asegurar la existencia de una única base de datos centralizada donde se gestione la información en tiempo real y con eficiencia. 
+	De este modo, los ERP suelen estar integrados por diferentes módulos, correspondientes a cada departamento. Los componentes más comunes son los de compras, ventas, inventario, logística, facturación, contabilidad, recursos humanos (RRHH) y CRM (customer relationship management). 
+	Los sistemas ERP ayudan a las empresas en sus tareas de administración y toma de decisiones, automatizando todos sus procesos.
+	
+	
+	Objetivos principales de los sistemas ERP
+		• Optimización de los procesos empresariales.
+		• Acceso a toda la información de forma confiable, precisa y oportuna (integridad de datos).	
+		• La posibilidad de compartir información entre todos los componentes de la organización.
+		• Eliminación de datos y operaciones innecesarias de reingeniería.
+	
+	El propósito fundamental de un ERP es otorgar apoyo a los clientes del negocio, tiempos rápidos de respuesta a sus problemas, así como un eficiente manejo de información que permita la toma oportuna de decisiones y disminución de los costos totales de operación.
+	
+	Características principales de los sistemas ERP
+		Los sistemas ERP son soluciones integrales que permiten controlar todos los procesos de una empresa de manera interrelacionada y evitar la duplicación de información, reduciendo el margen de error y malversaciones. 
+		Además, son modulares, lo que significa que se pueden instalar según los requerimientos de cada departamento de la empresa, como ventas, finanzas, recursos humanos, entre otros. 
+		Por último, son adaptables, lo que les permite configurarse y parametrizarse para cumplir con las necesidades específicas de cada empresa, incluyendo herramientas de programación y personalización de procesos.
+		
+		Integrales: porque permiten controlar los diferentes procesos de la compañía entendiendo que todos los departamentos de una empresa se relacionan entre sí,
+		Modulares: los cuales pueden instalarse de acuerdo con los requerimientos del cliente.
+		Adaptables: la configuración o parametrización de los procesos de acuerdo con las salidas que se necesiten de cada uno.
+		
+		
+	Otras características destacables de los sistemas ERP son:
+		• Base de datos centralizada.
+		• Los componentes del ERP interactúan entre sí consolidando todas las operaciones.
+		• En un sistema ERP los datos se ingresan sólo una vez y deben ser consistentes, completos y comunes.
+		• Las empresas que lo implanten suelen tener que modificar alguno de sus procesos para alinearlos con los del sistema ERP. Este proceso se conoce como Reingeniería de Procesos, aunque no siempre es necesario.
+		• Aunque el ERP pueda tener menús modulares configurables según los roles de cada usuario, es un todo. Esto significa: es un único programa (con multiplicidad de bibliotecas, eso sí) con acceso a una base de datos centralizada. No debemos confundir en este punto la definición de un ERP con la de una suite de gestión.
+		• La tendencia actual es a ofrecer aplicaciones especializadas para determinadas empresas. Es lo que se denomina versiones sectoriales o aplicaciones sectoriales especialmente indicadas o preparadas para determinados procesos de negocio de un sector (los más utilizados).
+		
+	Cómo implantar un sistema ERP
+		Las metodologías de implantación de los ERP en la empresa no siempre son todo lo simples que se desearía, dado que entran en juego múltiples facetas.
+		
+		Cadena de Abastecimiento SCM
+			La historia de la SCM
+				Las cadenas de suministros existen desde la antigüedad y datan del primer producto o servicio que se creó y vendió
+		Concepto de SCM
+			La administración de la cadena de suministros (SCM) es la gestión del flujo de bienes, datos y finanzas relacionados con un producto o servicio, desde la adquisición de las materias primas hasta la entrega del producto en su destino final
+			
+		Tipos de SCM Cadena de Suministros
+			Cadena de suministro directa
+				Consiste en una compañía, un suministrador y un cliente involucrados en las diferentes áreas de la empresa tanto integrando los productos, servicios, finanzas e información, es decir, relacionados con todos los niveles de la cadena.
+				
+			Cadena de suministro extendida 
+				Incluye a los suministradores de los proveedores inmediatos y a los clientes inmediatos, todos involucrados en los flujos que relacionan productos, servicios, finanzas e informaciones.
+				
+-------------------------------------------------------------------		
+UNIDAD 4 - Lectura 2
+-------------------------------------------------------------------	
+Sistema basado en el cliente CRM
+	Concepto
+		CRM es la sigla utilizada para "Customer Relationship Management" (Gestión de la Relación con el Cliente). Pero, la definición de CRM va más allá: es una gestión de ventas, marketing, atención al cliente y todos los puntos de contacto.
+		Estamos en la era del cliente, de la transformación digital, de las nuevas tecnologías. En ese escenario, la relación también evoluciona, llevando a un nuevo concepto también conocido como experiencia del cliente. El concepto de CRM implica estar centrado en el cliente. Es estrategia, es un proceso, es herramienta y tecnología.
+	
+	Funciones de un CRM El CRM almacena información de clientes actuales y potenciales, nombre, dirección, teléfono, etc. , y sus actividades y puntos de contacto con la empresa, incluyendo visitas a sitios, llamadas telefónicas, e-mails, entre otras interacciones
+		La plataforma no es solo una lista de contactos elaborada, ella reúne e integra datos valiosos para preparar y actualizar a tus equipos con información personal de los clientes, historial y preferencias de compras.
+		Una plataforma de CRM:
+		- Rastrea activamente y administra la información de los clientes.
+		- Conecta a todo tu equipo en cualquier dispositivo.
+		- Captura de manera inteligente los e-mails de los clientes.
+		- Simplifica tareas repetitivas para que puedas hacer un acompañamiento de leads más efectivo.
+		- Proporciona recomendaciones e perspectivas instantáneos.
+		- Expande y personaliza conforme tu empresa crece.
+		
+	Tipos de CRM Existen, básicamente, dos tipos de CRM:
+		• CRM Local, también conocido como CRM On-Premise, es el tipo de CRM que es alojado en un servidor físico en la empresa y exige manutención de un equipo de TI propio. En ese caso, es necesario instalar el software de CRM en el servidor o en una computadora que sea utilizada como tal.
+		• El CRM en la Nube, o CRM Cloud, se basa en cloud computing. Se trata de un CRM online y por eso, no está instalado en una computadora y no requiere que tu empresa cuente con un equipo de TI dedicado a la manutención de la solución.
+	
+	CRM y Ventas
+		Cuando se piensa en CRM para ventas, estamos hablando de la parte de un CRM que se propone a ayudar a tu empresa a vender más en menos tiempo. De manera inteligente, el CRM realiza tareas simples de forma automatizada para que tu equipo pueda enfocarse en las etapas importantes para la conversión de ventas
+		
+	RM y las Etapas del Embudo de Ventas
+		El término embudo de ventas, representa todo el proceso de concreción de un negocio, desde el momento de la captación hasta la conversión final.	
+	
+	CRM y Marketing
+		Estamos acostumbrados a asociar CRM a las ventas, pero el marketing también es esencial en la relación con el cliente. Al integrar procesos de marketing y ventas, puede acompañar el recorrido del cliente por todo el embudo.
+		
+	Automatización de Marketing
+		La automatización de marketing es la utilización de herramientas y soluciones promovidas por las nuevas tecnologías digitales para automatizar todos los procesos de marketing digital, eliminando tareas manuales que implican muchos esfuerzos y permitiendo la supervisión de todas las acciones que generan puntos de contacto.
+		
+	CRM y Atención al Cliente
+		Atención al cliente es todo el soporte que le ofreces a tus clientes antes, durante y después de la compra.
+		
+	CRM y Posventas
+		Posventa es la etapa dentro de la atención al cliente que reúne todas las estrategias pensadas para mejorar la experiencia después de una conversión.
+	
+				
+-------------------------------------------------------------------		
+UNIDAD 4 - Lectura 3
+-------------------------------------------------------------------
+	e-Business
+		El negocio electrónico, o e-business, se refiere al uso de la tecnología digital e Internet para ejecutar los principales procesos de negocios en la empresa. 
+		El e-business incluye las actividades para la administración interna de la empresa y para la coordinación con los proveedores y otros socios de negocios. También incluye el comercio electrónico, o e-commerce. 
+		El e-commerce es la parte del e-business que trata sobre la compra y venta de bienes y servicios a través de Internet.
+		
+	Características de un e-business
+		- Los objetivos están ligados al plan de negocios que tenga la empresa. 
+		- Mejoran los procesos de negocio en relación al tiempo, costo y servicio. 
+		- Tienen la capacidad de llegar a cualquier lugar sin límites físicos o de horario. 
+		- Es utilizado por todo tipo de empresas, micro, pequeñas, medianas y grandes.
+		
+	Categoría del e-business
+		- E-learning: Educación, capacitación y aprendizaje en línea. 
+		- E-procurement: proceso de gestión electrónica de la adquisición y cumplimiento de las compras. 
+		- E-banking: validación de tarjetas, depósitos, pagos electrónicos y demás servicios que ofrece la banca por internet. 
+		- E-marketplace: negocios electrónicos por medio de redes digitales en los que el comprador y el vendedor realizan intercambio de productos o servicios.
+	
+	Ventajas y desventajas del e-business
+		Entre las ventajas del e-business encontramos por supuesto, los bajos costos de operación que representa a la empresa. Las facilidades de monitoreo de los procesos. Mayores posibilidades de inversión, así como la automatización de diferentes procedimientos.
+		No obstante, algunos de los puntos que pudieran considerarse como desventaja son principalmente los fraudes electrónicos; la alta competencia que se puede encontrar en el mercado, lo cual hace necesario el uso de estrategias enfocadas correctamente para lograr objetivos específicos; y la desconfianza que pueden tener los usuarios ante el uso de la tecnología.
+		
+	E-commerce
+		El e-commerce o comercio electrónico, por lo tanto, se entiende como uno de los tipos de e-business, 
+		enfocado especialmente a la comercialización de productos y servicios en internet.
+		
+	Diferencia entre e-business y el e-commerce
+		Es importante no confundir 
+			e-business  es un término que involucra todo tipo de negocio que ha optimizado sus procesos a través del uso de la tecnología; incluyendo todo tipo de sector, desde el educativo hasta el industrial.
+			e-commerce considera procesos internos de producción, administración de inventario, recursos humanos, desarrollo de productos y más. No sólo el proceso de venta y compra de los productos y servicios.
+			
+	
+	Tipos de comercio electrónico
+		Comercio electrónico B2B
+			Comercio electrónico B2B
+				B2B significa Business to Business o, en español, Negocio a Negocio. Como su nombre lo indica es el tipo de negocio en el cuál las operaciones comerciales se realizan entre empresas con presencia en Internet.
+				Aquí no interviene la audiencia o el público consumidor, las operaciones se enfocan en vendedores, proveedores, compradores e intermediarios.
+				En este tipo de comercio los vendedores buscan compradores, los compradores buscan proveedores o bien los intermediarios concretan acuerdos comerciales entre vendedores y compradores.
+				
+		Comercio electrónico B2C
+			B2C significa Business to Consumer, en español es del Negocio al Consumidor. Es aquel que se realiza a través de sitios virtuales, 
+			en los que el público adquiere un producto o servicio de la empresa de su interés.
+			
+		Comercio electrónico P2P
+			P2P, Peer to Peer o, en su traducción, Red entre Iguales o de Igual a Igual es el modelo en el que los consumidores intercambian información.
+			Aquí el comercio es creado y manejado por los usuarios que venden sus productos de manera directa a otras personas.
+			Definitivamente los usuarios necesitan de una plataforma para poner orden en los acuerdos y transacciones de los operadores. Dichas plataformas toman una comisión por esta clase de servicios.
+			
+		Comercio electrónico C2C
+			C2C o Consumer to Consumer, en español Consumidor a Consumidor. Es el tipo de comercio en el que las personas que ya no utilizan algún objeto buscan venderlo a otras personas, operando desde luego en plataformas conectadas a Internet.
+			Los mercadillos del barrio o ventas de cochera han sido transportados al ámbito digital. Aquí el público consumidor ejerce operaciones comerciales entre él mismo.
+			
+		Comercio electrónico G2C
+			Las siglas de esta clase de comercio significan Goverment to Consumer o, bien, del Gobierno al Consumidor. Los gobiernos digitales de determinados países han sabido aprovechar el comercio en línea.
+			Pensemos en las facilidades que otorgan los gobiernos para que los ciudadanos realicen sus trámites y pagos a través de alguna plataforma digital.
+			Esto es comercio, puesto que se paga por un documento o servicio y porque se puede acceder a la plataforma en línea en cualquier momento.
+			
+		Comercio electrónico B2G
+			La abreviatura B2G significa Business to Goverment que en español es de Negocios a Gobierno.
+			Como en el nombre lo indica, este tipo de comercio electrónico se enfoca en los procesos de negociación entre empresas y gobierno a través de la tecnología digital o Internet.
+			Su acción se ejerce en portales digitales que tienen que ver con la administración pública, a través de estos, las organizaciones gubernamentales se ponen en contacto con las empresas para la adquisición de productos o servicios
+			
+		Comercio electrónico B2E
+			Las siglas de este tipo de comercio significan Business to Employee, en español, de Negocio a Empleado.
+			Tal como el nombre lo indica se centra en la relación comercial entre una empresa y sus trabajadores.
+			Su enfoque es el de propiciar ofertas a sus empleados desde su tienda en línea, a partir de propuestas llamativas que sirvan para crear un mejor desempeño laboral.
+			
+				
+-------------------------------------------------------------------		
+UNIDAD 4 - Lectura 4
+-------------------------------------------------------------------
+	E-Procurement
+		E-procurement es la automatización de procesos internos y externos relacionados con el requerimiento, compra, suministro, pago y control de productos utilizando el Internet como medio principal en la comunicación cliente-proveedor. Mediante esta tecnología tanto proveedor 
+		como cliente tienen la información en tiempo real tanto de necesidades del cliente como estado de los pedidos por parte del proveedor. Simplifica enormemente todos los procesos de gestión de inventarios y stock.
+	
+	Principales características 
+		• Despliegue de la información tanto de inventarios, estado de los pedidos, pagos, cobros, facturación a través de la red. 
+		• Actualización en tiempo real de toda esta información. 
+		• Acceso desde cualquier sitio a los datos. 
+		• Acceso restringido para personal no autorizado.
+		
+	Modelos de e-procurement
+		• Centrada en el proveedor: adoptado por empresas proveedoras que colocan en un portal su catálogo de productos y ofrecen a sus clientes la posibilidad de consultar el catálogo, encargar productos y servicios, entre otras funcionalidades.
+		• Centrada en el comprador: proporciona un sistema bajo su control y un único catálogo, multiinformación del proveedor en la que lleva a cabo sus actividades de contratación electrónica con la posibilidad de integración con otros sistemas de la empresa. Este modelo permite que la empresa compradora tenga un gran control sobre el sistema, pero es de extrema importancia que haya una conexión cercana con los proveedores, ya que éstos necesitan ofrecer información acerca de los productos, condiciones de venta y demás informaciones utilizadas en la decisión de compra.
+		• Centrado en el mercado electrónico: soporta múltiples clientes y múltiples proveedores, la búsqueda de una relación de muchos a muchos, con soluciones exploradas para una tercera entidad intermedia, cuyo modelo de negocio pasa por el cobro de un valor de suscripción y de tasas aplicadas a las transacciones.
+	
+	En cuanto a los productos comercializados, a través del e-procurement, se pueden dividir en compras directas e indirectas:
+		- Compras directas: son aquellas compras orientadas al proceso de producción como lo es la compra de materias primas y partes necesarias para la fabricación de productos finales.
+		- Compras indirectas: son las compras que no están orientadas a la producción y, generalmente, tratan de suministros de mantenimiento, reparación y operaciones (MRO).
+		
+	
+	Consideraciones para aplicar sistemas de e-procurement
+		- Reorganización general del proceso de compras y otros procesos de organización afectada por la contratación electrónica.
+		- Preparación de catálogos con la cantidad correcta de productos y productos de buena calidad.
+		- Participación de proveedores en la etapa inicial.
+		- Integración de la contratación electrónica con el sistema back-end.
+		- Gestión de catálogo adecuado, en relación al contenido y la acogida en el sitio web del proveedor o mercado en el que se encuentre inmerso.
+		- La integración del sistema adecuado con otros sistemas comerciales pertinentes, como Enterprise Resource Planning (ERP), ya que esto puede ser proporcionado por otra compañía. El sistema no sólo debe interactuar con los sistemas internos de información preexistente, sino que también debe cooperar con el exterior, principalmente con proveedores y clientes.
+		- Racionalizar la gestión de los proveedores, reduciendo el número de proveedores con los que la empresa lleva a cabo la gestión de compras. El objetivo es consolidar proveedores y contratos para lograr una reducción significativa de los costos de compras y mejores contratos.
+		
+	Existen cuatro tipos de áreas de integración con e-procurement, entre los que se pueden nombrar los siguientes:
+		- El primero (y el más común) es la integración en los entornos centrales de ERP (Enterprise Resource Planning) / MRP enfocados en los principales datos financieros e inventario.
+		- El segundo se centra en las integraciones relacionadas con adquisiciones de sistemas de administración de proveedores (VMS), aplicaciones de monitoreo / medición / licencias de software, herramientas de viajes y T&E, sistemas de administración de contratos, aplicaciones de administración de proveedores y herramientas de automatización de facturación electrónica.
+		- El tercero es para aplicaciones comerciales más generalizadas fuera de compras que son relativamente similares en todas las industrias. Esto puede incluir CRM (Customer Relationship Management), recursos humanos, inventario especializado, gestión de almacenes, gestión de activos, reclamaciones / garantía y conjuntos de herramientas relacionadas.
+		- El cuarto es específico de la industria, como en los sistemas minoristas / puntos de venta (POS).
+		
+RESUMENES
+	Los CRM (Customer Relationship Management) son sistemas de gestión de relaciones con clientes que se enfocan en la recopilación y análisis de información sobre los clientes para mejorar la relación con ellos. Permiten un mejor seguimiento y gestión de los contactos con los clientes, automatizan la gestión de ventas y permiten la personalización de los servicios y productos ofrecidos.
+
+	Los ERP (Enterprise Resource Planning) son sistemas de planificación de recursos empresariales que integran todos los procesos de negocio de una organización en una única plataforma. Incluyen módulos para la gestión de finanzas, inventarios, compras, recursos humanos, producción, ventas y distribución, entre otros. Los ERP proporcionan una visión global del negocio y permiten una mayor eficiencia y control en la gestión de la empresa.
+
+	Los e-Business, por su parte, son sistemas que utilizan las tecnologías de la información y la comunicación para la realización de operaciones comerciales en línea, como la venta de productos y servicios a través de Internet. Incluyen herramientas de marketing digital, comercio electrónico, automatización de procesos y análisis de datos, entre otros. Los e-Business permiten a las empresas llegar a nuevos mercados, reducir costos y mejorar la experiencia del cliente.
+	
+	La tecnología de la información y la comunicación (TIC) es un término que engloba los diferentes dispositivos, aplicaciones, sistemas y redes que se utilizan para procesar, almacenar, recuperar, transmitir y difundir información.
+
+	En otras palabras, las TIC son un conjunto de tecnologías que se utilizan para la comunicación, el procesamiento y la gestión de la información en una organización, en la sociedad y en el mundo en general. Esto incluye desde las computadoras, dispositivos móviles, redes de comunicación, software y aplicaciones, hasta la inteligencia artificial, la robótica, la realidad virtual y aumentada, entre otras tecnologías emergentes.
+
+	Las TIC han transformado profundamente la forma en que las personas y las organizaciones interactúan y realizan sus actividades diarias, y han dado lugar a nuevas oportunidades de negocio, innovación y desarrollo en diversos campos.
+	
+	
+	
+	
+Este término se reservaba para nombrar el desarrollo económico y tecnológico, lo material:
+	Civilización
+		Desde el siglo XVIII, se impuso una diferencia entre civilización y cultura.
+		El primer término se reservaba para nombrar el desarrollo económico y tecnológico, lo material; el segundo para referirse a lo espiritual, es decir, el cultivo de las facultades intelectuales.
+
+Este término se utilizaba inicialmente, para referirse a lo espiritual, es decir, el cultivo de las facultades intelectuales
+	Cultura
+	
+Se usa sociológicamente el concepto de cultura cuando nos referimos a la suma de conocimientos compartidos por una sociedad, su cosmovisión, que incluye artes y ciencias
+
+	Verdadero. El concepto de cultura se usa en sociología para referirse a la suma de conocimientos compartidos por una sociedad, su cosmovisión, que incluye artes y ciencias.
+	
+Los términos evolución social y cambio social son sinonímicos, intercambiables y con la misma connotación
+	Falso. Aunque ambos términos están relacionados y pueden ser utilizados en contextos similares, no son sinónimos ni intercambiables. La evolución social se refiere a un cambio gradual y continuo en las estructuras, instituciones y comportamientos de una sociedad a lo largo del tiempo, mientras que el cambio social se refiere a una transformación más radical y rápida en la sociedad.
+	
+Puede encontrarse entre las características del cambio social: 
+	Una característica del cambio social es que es colectivo, pues se trata de un proceso social que afecta a una sociedad en su conjunto. Por lo tanto, la opción correcta es: "Es colectivo, pues es un proceso social".
+	
+Comte, en su obra “Curso de Filosofía Positiva” expone la ley de los tres estadios o fases del espíritu humano, ¿Cuál de las siguientes ideas se corresponde con la fase metafísica?
+	La opción que se corresponde con la fase metafísica según la ley de los tres estadios de Comte es: "El espíritu humano explica la realidad que le rodea recurriendo a fuerzas invisibles". En la fase metafísica, el hombre trata de explicar los fenómenos a través de entidades abstractas o fuerzas invisibles, sin recurrir aún al método científico. Esta fase se sitúa entre la teológica y la positiva.
+	
+Consiste en una transformación rápida y muchas veces violenta de las Instituciones sociales. Esto es el concepto de
+	revolucion
+	
+Esta clase de cambio social es propia de las sociedades flexibles y abiertas, en las que el control social se ejerce atendiendo a los deseos y opiniones de los distintos grupos sociales.
+	Cambio social derivado
+	
+El caso de los emigrantes que vinieron a las Américas de Europa, es un ejemplo de
+	El caso de los emigrantes que vinieron a las Américas de Europa podría ser un ejemplo de asimilación, ya que estos grupos pueden haber adoptado y adaptado ciertas características de la cultura de la sociedad de acogida mientras mantenían algunas de sus propias tradiciones y valores. También podría ser un ejemplo de acomodación, ya que los grupos podrían haber mantenido su propia cultura y tradiciones, pero a su vez, haber adaptado ciertas prácticas o comportamientos para encajar en la sociedad de acogida.
+	
+Desde un punto de vista sociológico, podemos decir que las élites son:
+	Las élites son sectores dominantes de la sociedad en los que tiende a recaer el poder. Por lo tanto, la opción correcta es: "Sectores dominantes de la sociedad en los que tiende a recaer el poder".
+	
+Llamamos socialización al proceso a través del cual la persona humana en sociedad internaliza y aprende la cultura de una determinada sociedad o grupo social implicando ello sus conocimientos, creencia, valores y normas
+	Verdadero
+	
+Podemos decir que el cambio social consiste en una transformación en un corto periodo de tiempo en la cual un mismo observador nota las trasformaciones y conoce los resultados 
+	Verdadero
+
+Se puede decir que con este proceso social los miembros del grupo social actúan mutuamente con el objetivo de buscar soluciones y encontrándolas a los efectos de reducir o eliminar problemas o conflictos sociales. Estamos hablando de:
+	Ninguna de las opciones es correcta. La descripción parece referirse al proceso de cooperación, en el que los miembros de un grupo trabajan juntos para resolver problemas o conflictos sociales.
+
+
+Los actos y acciones independentistas en las naciones de América en el Siglo XIX son un ejemplo de evolución social
+	Falso. Los actos y acciones independentistas en las naciones de América en el Siglo XIX son un ejemplo de revolución o cambio social, no de evolución social. La evolución social se refiere a cambios graduales y a largo plazo en una sociedad, mientras que una revolución o cambio social implica una transformación más rápida y a menudo violenta de las instituciones sociales.
+	
+Es el mecanismo Socio-Cultural básico por el cual un conjunto social asegura su continuidad:
+	Socializacion
+	
+Entre los factores considerados por Bruce Cohen como principales para el cambios social y cultural podemos encontrar
+	Todas las opciones son correctas UNIDAD 4
+	
+El proceso de  cooperación:
+	Consiste en la relación social que produce beneficios mutuos por causa de dicha interacción teniendo por fin un objeto compartido.
+	
+Son principios orientadores que permiten guiar el comportamiento y la actitud
+	Valores
+
+En este proceso fundamental para la interacción social, el individuo toma los elementos culturales del ambiente en que se desarrolla y los integra a su personalidad y conducta para adaptarse al grupo social
+
+En este proceso fundamental para la interacción social, el individuo toma los elementos culturales del ambiente en que se desarrolla y los integra a su personalidad y conducta para adaptarse al grupo social
+	La respuesta correcta es "Socialización".
+	
+Marx señala que los factores estructurales del cambio social son de dos tipos diferentes:
+	Estructurales y superestructurales
+	UNIDAD 3
+	
+Marx concibe la propiedad de los medios de producción como:
+	Marx concibe la propiedad de los medios de producción como el origen de las clases sociales y de los conflictos de clase.
+	UNIDAD 3
+	
+Existen tres actitudes básicas frente a los conflictos sociales:
+Grupo de opciones de respuesta
+	Mediación, regulación, represión
+	UNIDAD 3
+	
+Las ideologías pueden mantener la estructura social, y también ayudan a evitar el cambio social
+	Verdadero. Las ideologías pueden funcionar como mecanismos de control social, reforzando la estructura social existente y evitando o resistiendo el cambio social. Por ejemplo, una ideología que promueve la obediencia a la autoridad y la lealtad a la tradición puede reforzar las jerarquías y la estabilidad social existente, y desalentar la innovación y el cambio radical.
+	UNIDAD 3
+	
+Según esta teoría, la sociedad está constituida por una serie de partes interdependientes, cada una de las cuales contribuye a la eficacia de la sociedad
+Grupo de opciones de respuesta
+	TEORIA DE SISTEMAS
+	
+Según esta teoría, la sociedad está constituida por una serie de partes interdependientes, cada una de las cuales contribuye a la eficacia de la sociedad
+
+	Teoría del equilibrio
+	
+Conflicto será conflicto social cuando trascienda lo individual y proceda de la propia estructura de la sociedad, afirma:
+	Lewis Coser
+	
+
+Son las personas o grupos que detentan del poder:
+	Élites
+	
+
+
+
+EXAMEN FINAL 
+--------------------------------------------------
+
+
+El deseo de tener más información es sólo el reflejo de que existe una necesidad o deficiencia de información en la organización.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. El deseo de tener más información puede ser un indicio de que hay una necesidad o deficiencia de información en la organización. En algunas situaciones, el deseo de obtener más información puede ser simplemente curiosidad o interés, pero en la mayoría de los casos, es una señal de que se necesita más información para tomar decisiones efectivas o para realizar tareas de manera eficiente. Por lo tanto, es importante que las organizaciones identifiquen y satisfagan las necesidades de información de sus miembros y tomen medidas para mejorar la calidad y cantidad de la información disponible.
+
+
+
+
+
+User
+Una plataforma de CRM:
+Grupo de opciones de respuesta
+
+Rastrea activamente y administra la información de los clientes.
+
+Conecta a todo tu equipo en cualquier dispositivo
+
+Captura de manera inteligente los e-mails de los clientes.
+
+Todas las opciones son correctas
+
+ChatGPT
+Todas las opciones son correctas. Una plataforma de CRM (Customer Relationship Management) se utiliza para rastrear, administrar y analizar la información de los clientes, lo que incluye capturar correos electrónicos de los clientes y conectar a todo el equipo de la organización en cualquier dispositivo.
+
+
+
+
+
+User
+Los operarios pueden acceder a todas las informaciones críticas almacenadas en el sistema y su presencia es valiosa para la toma de decisiones.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. El acceso a la información crítica debe estar restringido solo a los usuarios autorizados, y no todos los operarios necesitan acceso a toda la información. Además, la toma de decisiones suele ser responsabilidad de los gerentes y líderes de la organización, no de los operarios.
+
+
+
+
+
+User
+Los sistemas cerrados se caracterizan por lo siguiente:
+Grupo de opciones de respuesta
+
+Todas las opciones son correctas
+
+En algunos casos puede haber intercambio de energía
+
+Se hallan claramente separados del entorno
+
+Se trata, por lo tanto, de sistemas autónomos, que no requieren de nada que no esté dentro del sistema mismo
+
+ChatGPT
+Se hallan claramente separados del entorno.
+
+
+
+
+
+User
+Una organización puede ser grande y sencilla o pequeña y compleja.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. El tamaño de una organización no siempre está relacionado con su complejidad. Una organización pequeña puede tener una estructura compleja, mientras que una organización grande puede tener una estructura sencilla. La complejidad de una organización depende de su estructura, procesos, sistemas y cultura organizacional, entre otros factores.
+
+
+
+
+Un dato por sí mismo tiene mucha importancia y relevancia.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso. Un dato por sí solo no tiene importancia ni relevancia, sino que es el contexto en el que se utiliza y se relaciona con otros datos lo que le da significado y valor.
+
+
+
+
+
+User
+Existe una integración entre los departamentos de la organización y los distintos módulos del sistema ERP.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. La integración entre los departamentos de la organización y los distintos módulos del sistema ERP es una característica fundamental de este tipo de sistemas, ya que permite que la información sea compartida entre los diferentes departamentos y procesos de la organización de manera eficiente y en tiempo real.
+
+
+
+
+
+User
+En la salida de la información pueden utilizarse dispositivos como USB, impresoras, sistemas de voz, entre otros.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. Los dispositivos mencionados son comúnmente utilizados para la salida de información.
+
+
+
+
+
+User
+La información se comparta con todos los usuarios que necesiten utilizarla, eso es posible gracias a los sistemas de información.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. Los sistemas de información permiten compartir la información de manera eficiente y efectiva entre los diferentes usuarios que la necesiten en la organización.
+
+
+
+
+
+User
+Muchos usuarios no utilizan el sistema , porque el sistema no satisfacen sus necesidades.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero
+
+
+
+Una consideración importante en la aplicación de los sistemas e- procurement, es la participación de los proveedores en la etapa inicial.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. La participación temprana de los proveedores es importante en la implementación de los sistemas e-procurement, ya que pueden ofrecer información valiosa sobre los procesos de adquisición y contribuir al éxito del proyecto en general. Además, la participación temprana puede ayudar a establecer relaciones sólidas con los proveedores y mejorar la eficiencia en el proceso de adquisición.
+
+
+
+
+SISTEMAS DE PROCESO ELECTRÓNICO DE DATOS (EDPS). Es
+un subsistema que alimenta a los demás.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso. Los sistemas de proceso electrónico de datos (EDPS) no son un subsistema que alimenta a los demás, sino que son sistemas que procesan y manipulan datos electrónicamente para generar información útil para la toma de decisiones en la organización.
+
+
+
+
+
+User
+estas seguro ?
+SISTEMAS DE PROCESO ELECTRÓNICO DE DATOS (EDPS). Representan la adaptación del tratamiento clásico manual de los datos al ordenador. Es un subsistema que alimenta a los demás.
+
+ChatGPT
+Sí, estoy seguro. La afirmación es verdadera, ya que los sistemas de proceso electrónico de datos (EDPS) son una evolución del tratamiento manual de los datos y se utilizan para automatizar y agilizar los procesos de la organización. El EDPS es el núcleo o subsistema principal que alimenta a los demás sistemas de información de la organización.
+
+
+
+Ejemplos de Proceso de información:
+Grupo de opciones de respuesta
+
+Cálculo del saldo de un cliente.
+
+Cálculo de antigüedad de saldos.
+
+Cálculo de intereses moratorios.
+
+Todas las opciones son correctas
+
+ChatGPT
+Todas las opciones son ejemplos de procesos de información, ya que implican el procesamiento y cálculo de datos para obtener información relevante.
+
+
+
+
+
+User
+Se denomina Negocio al Consumidor a las siglas B2C.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. B2C significa Business-to-Consumer, es decir, la relación comercial entre una empresa y un consumidor final.
+
+
+
+
+
+User
+El e-commerce o comercio electrónico, está enfocado especialmente a la comercialización de productos y servicios en internet.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. El comercio electrónico se refiere a la compra y venta de productos y servicios a través de medios electrónicos, especialmente en internet.
+
+
+
+
+
+User
+La modularidad es una ventaja de los sistema ERP.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. La modularidad es una de las ventajas de los sistemas ERP, ya que permite la integración de los distintos módulos que conforman el sistema de forma modular, es decir, cada módulo puede funcionar de manera independiente o integrarse con otros módulos según las necesidades de la organización. Esto permite una mayor flexibilidad y adaptación a los requerimientos de la empresa.
+
+
+
+
+
+User
+Se llaman subsistemas a los sistemas que son construidos como bloques de otros sistemas.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. Los subsistemas son sistemas que forman parte de un sistema mayor, y que a su vez están compuestos por otros subsistemas o componentes más pequeños.
+
+
+
+
+
+User
+E-procurement esta tecnología permite al proveedor como al cliente tener la información en tiempo real.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. El uso de tecnologías como e-procurement permite a proveedores y clientes compartir información en tiempo real, lo que puede mejorar la eficiencia y transparencia en la gestión de las compras y adquisiciones.
+
+
+
+
+
+User
+Los sistemas de información para ejecutivos (EIS) , se desarrollan con expectativas de éxitos, y muchas veces terminan fracasando.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. Aunque algunos sistemas de información para ejecutivos pueden fracasar, no es una expectativa común de su desarrollo. Como cualquier otro sistema de información, su éxito depende de varios factores, como la calidad de los datos, la implementación adecuada, la capacitación de los usuarios, entre otros.
+
+
+
+
+
+User
+Por lo general se precisa de información sofisticada y detallada.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Esta afirmación es demasiado general y no está clara a qué contexto se refiere. Sería necesario más información para dar una respuesta precisa. Por favor, proporcione más detalles o contexto para que pueda ayudar mejor.
+
+
+
+Los sistemas abiertos permiten el intercambio de información entre el adentro del sistema y el afuera o medio exterior.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+
+
+--------------------------------------------------------------
+Efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida es la función del procesamiento de información.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. El procesamiento de información implica la transformación de datos crudos en información útil mediante una serie de operaciones predefinidas, como cálculos y análisis.
+
+
+
+
+
+User
+Menor valor económico tendrá la información si podemos disponer de ella, antes de tomar la decisión.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso. El valor económico de la información puede ser mayor si se dispone de ella antes de tomar la decisión, ya que esto puede permitir tomar decisiones más oportunas y acertadas.
+
+
+
+
+
+User
+Los sistemas de información estratégicos son una evolución de los sistemas de información.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. Los sistemas de información estratégicos no son una evolución de los sistemas de información, sino que son una categoría o tipo específico de sistemas de información que se enfocan en brindar información para la toma de decisiones estratégicas a nivel de dirección y alta gerencia de la organización.
+
+
+
+
+
+User
+Un atributo de la información es que debe ser completa, contener todos los datos importantes.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. La información debe ser completa, es decir, que contenga todos los datos importantes y necesarios para el análisis y la toma de decisiones. La falta de información puede llevar a decisiones equivocadas o incompletas.
+
+
+
+
+
+User
+La fiabilidad es una característica muy importante en los sistemas transaccionales, en caso de fallas estos deben tener mecanismos de recuperación y respaldo de datos.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. La fiabilidad es una característica crítica en los sistemas transaccionales, ya que cualquier falla en el procesamiento de una transacción puede generar errores y pérdidas significativas de información. Por lo tanto, es importante que estos sistemas tengan mecanismos de recuperación y respaldo de datos para garantizar que la información no se pierda y que las transacciones se procesen de manera segura y confiable.
+
+
+
+
+
+User
+Una de las características de la información es que debe ser rápida y sencilla.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. La velocidad y la simplicidad no son características necesarias de la información en sí misma, sino que dependen del contexto y de las necesidades de los usuarios que la utilizan. La información puede ser compleja y presentarse en diferentes formatos y niveles de detalle, y aun así ser valiosa y útil para la toma de decisiones.
+
+
+
+
+
+User
+Concuerdo contigo, pero bajo este contexto esto es lo que nos dice la unidad 
+
+Para que la información cumpla con sus objetivos es necesario que posea ciertas características: 
+		Debe ser relevante: tiene que ser importante y la que necesitamos. 
+		Debe estar actualizada: debe utilizarse en el momento de ser generada. 
+		Debe ser comparable: que permita ser confrontada con datos similares. 
+		Debe ser confiable: debe permitir que los usuarios puedan depender de ella al tomar sus decisiones. 
+		Debe ser económica: debe ser más barata la obtención que la ganancia de su explotación 
+		Debe ser rápida: el acceso a la información debe realizarse de forma rápida y sencilla. 
+		Debe ser de calidad: es importante que la información carezca de errores y sea completa. 
+		Debe ser objetiva: no cabe opción a subjetividades. 
+		Debe ser completa: el tener la información incompleta es peor que no tener nada. 
+		Debe ser aplicable: la información debe ser adecuada para la toma de una decisión, además de ser importante y pertinente.
+
+ChatGPT
+Tienes razón, la información debe ser completa para poder ser útil y confiable. Además, todas las características que mencionas son importantes para asegurar la calidad y utilidad de la información en la toma de decisiones. La rapidez y la sencillez son importantes, pero no a costa de la calidad y la completitud de la información.
+
+
+
+
+
+User
+Las formas de entrada más habituales de registros y datos son:
+Grupo de opciones de respuesta
+
+Códigos de barra
+
+El teclado
+
+Todas las opciones son correctas
+
+Sistemas de voz
+
+ChatGPT
+Todas las opciones son correctas.
+
+
+
+
+
+User
+El seguimiento de todos y cada uno de los procesos de producción están relacionados con los Sistemas de Control de Procesos de Negocios.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. Los sistemas de control de procesos de negocios (BPCS, por sus siglas en inglés) son sistemas que se utilizan para controlar y monitorear los procesos de producción, desde la materia prima hasta el producto final. Estos sistemas proporcionan información en tiempo real sobre el estado de los procesos y permiten a los gerentes y supervisores tomar decisiones informadas sobre la producción y el control de calidad.
