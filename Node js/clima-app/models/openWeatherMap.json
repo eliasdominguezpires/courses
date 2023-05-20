@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -23.2362,
+        "lat": -58.391
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "nevada ligera",
+            "icon": "13n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 33.49,
+        "feels_like": 20.89,
+        "temp_min": 33.49,
+        "temp_max": 33.49,
+        "pressure": 988,
+        "humidity": 97,
+        "sea_level": 988,
+        "grnd_level": 988
+    },
+    "visibility": 62,
+    "wind": {
+        "speed": 33.69,
+        "deg": 331,
+        "gust": 49.73
+    },
+    "snow": {
+        "1h": 0.28
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1684347705,
+    "sys": {
+        "sunrise": 1684316392,
+        "sunset": 1684343940
+    },
+    "timezone": -7200,
+    "id": 0,
+    "name": "",
+    "cod": 200
+}

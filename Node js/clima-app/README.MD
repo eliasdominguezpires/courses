@@ -10,4 +10,5 @@ https://docs.mapbox.com/playground/geocoding/?search_text=Pilar&proximity=ip&typ
 
 
 https://home.openweathermap.org/
-https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API_KEY}
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&units=imperial&lang=es&appid={API_KEY}
+https://openweathermap.org/current#geo
