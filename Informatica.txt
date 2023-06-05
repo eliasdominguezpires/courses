@@ -20,3 +20,7 @@ Java EE
 	Jira
 	
 R2DBC: oracle, postgrestSQL, MariaDB
+
+
+Paradigmas de Programación: 
+	es una propuesta de TI que es adoptada por una comunidad de programadores cuyo núcleo central es incuestionable en cuanto a que únicamente trata de resolver uno o varios problemas claramente limitados.

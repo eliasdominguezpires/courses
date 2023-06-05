@@ -1,4 +1,5 @@
 
+
 Mail
 
 	Usser:		edominguez@opensistemas.com
@@ -14,7 +15,11 @@ https://opensistemas.atlassian.net/
 	edominguez@opensistemas.com
 	code.opensistemas
 	
-	
+localhost:4200
+
+Usuario: user.esp@shareddatahub.onmicrosoft.com
+Password: Santander123
+
 
 ------------------------------------------------------------------------------------------
 --- https://go.opensistemas.com/easy_timesheets IMPUTAR HORAS
@@ -42,3 +47,7 @@ PRE:
 
 User: PRE_REP_REGUL
 Pass: p&3W*$9a8pNo
+
+
+saile 	luxemburgues	columna
+dompir	experanto		dominar
