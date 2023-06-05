@@ -1,0 +1,235 @@
+
+--------------------------------------------------------------------------------
+--- UNIDAD 1 
+--------------------------------------------------------------------------------
+
+Lectura 1
+--------------------------------------------------------------------------------
+
+Inteligencia Artificial
+	existe un enfrentamiento entre los enfoques centrados en los humanos y los centrados en torno a la racionalidad. El enfoque centrado en el comportamiento humano debe ser una ciencia empírica, que incluya hipótesis y confirmaciones mediante experimentos. El enfoque racional implica una combinación de matemáticas e ingeniería. Cada grupo al mismo tiempo ha ignorado y ha ayudado al otro.
+	
+Sistemas que piensan como humanos : «El nuevo y excitante esfuerzo de hacer que los computadores piensen... máquinas con mentes, en el más amplio sentido literal». (Haugeland, 1985)
+	«[La automatización de] actividades que vinculamos con procesos de pensamiento humano, actividades como la toma de decisiones, resolución de problemas, aprendizaje...» (Bellman, 1978)
+	
+Sistemas que piensan racionalmente: «El estudio de las facultades mentales mediante el uso de modelos computacionales». (Charniak y McDermott, 1985)
+	«El estudio de los cálculos que hacen posible percibir, razonar y actuar». (Winston, 1992)
+	
+Sistemas que actúan como humanos:	«El arte de desarrollar máquinas con capacidad para realizar funciones que cuando son realizadas por personas requieren de inteligencia». (Kurzweil, 1990)
+	«El estudio de cómo lograr que los computadores realicen tareas que, por el momento, los humanos hacen mejor». (Rich y Knight, 1991)
+
+Sistemas que actúan racionalmente:	«La Inteligencia Computacional es el estudio del diseño de agentes inteligentes». (Poole et al., 1998)
+	«IA... está relacionada con conductas inteligentes en artefactos». (Nilsson, 1998)
+
+Comportamiento humano
+	Enfoque de Turing 1950
+		En vez de proporcionar una lista larga y quizá controvertida de cualidades necesarias para obtener inteligencia artificialmente, él sugirió una prueba basada en la incapacidad de diferenciar entre entidades inteligentes indiscutibles y seres humanos.
+		El computador supera la prueba si un evaluador humano no es capaz de distinguir si las respuestas, a una serie de preguntas planteadas, son de una persona o no.
+		
+	El computador debería poseer las siguientes capacidades:
+		- Procesamiento de lenguaje natural que le permita comunicarse satisfactoriamente en inglés.
+		- Representación del conocimiento para almacenar lo que se conoce o siente.
+		- Razonamiento automático para utilizar la información almacenada para responder a preguntas y extraer nuevas conclusiones.
+		- Aprendizaje automático para adaptarse a nuevas circunstancias y para detectar y extrapolar patrones.
+	
+	La analogía utilizada es la siguiente: en el campo de la aviación, los hermanos Wright lograron el éxito al entender los principios de la aerodinámica en lugar de intentar imitar directamente el vuelo de las aves. Es decir, en lugar de construir máquinas que volaran como palomas, se enfocaron en comprender los principios fundamentales que permiten el vuelo y aplicarlos de manera efectiva en sus diseños.
+	
+	En resumen, el texto enfatiza que es más importante comprender los principios que subyacen a la inteligencia y aplicarlos de manera efectiva en sistemas de inteligencia artificial, en lugar de simplemente imitar el comportamiento humano sin una comprensión profunda de los fundamentos
+
+	Es importante tener en cuenta que la Prueba de Turing no es el único criterio para evaluar la inteligencia artificial. La prueba fue propuesta como una forma de evaluar la capacidad de una máquina para exhibir comportamiento inteligente, pero no es el único enfoque ni el único estándar utilizado en el campo de la IA. La inteligencia artificial se evalúa y se mejora de diversas maneras, incluyendo el desempeño en tareas específicas, la eficiencia en el procesamiento de datos, el aprendizaje automático y la capacidad de adaptación a nuevas situaciones.
+	
+	desafíos en áreas como el razonamiento abstracto,
+	
+Enfoque del modelo cognitivo
+	Para poder decir que un programa dado piensa como un humano, es necesario contar con un mecanismo para determinar cómo piensan los humanos. Es necesario penetrar en el funcionamiento de las mentes humanas. Hay dos formas de hacerlo: mediante introspección (intentando atrapar nuestros propios pensamientos conforme éstos van apareciendo) y	mediante experimentos psicológicos. Una vez se cuente con una teoría lo suficientemente precisa sobre cómo trabaja la mente, se podrá expresar esa teoría en la forma de un programa de computador
+	
+	Si los datos de entrada/salida del programa y los tiempos de reacción son similares a los de un humano, existe la evidencia de que algunos de los mecanismos del programa se pueden comparar con los que utilizan los seres humanos.
+Enfoque racional
+	Este enfoque presenta dos obstáculos. No es fácil transformar conocimiento informal y expresarlo en los términos formales que requieren de notación lógica, particularmente cuando el conocimiento que se tiene es inferior al 100%. En segundo lugar, hay una gran diferencia entre poder resolver un problema «en principio» y hacerlo en la práctica. Incluso problemas con apenas una docena de datos pueden agotar los recursos computacionales de cualquier computador a menos que cuente con alguna directiva sobre los pasos de razonamiento que hay que llevar a cabo primero. Aunque los dos obstáculos anteriores están presentes en todo intento de construir sistemas de razonamiento computacional, surgieron por primera vez en la tradición lógica.
+	
+	
+
+RESUMEN IA
+	La Introducción a la Inteligencia Artificial abarca varios aspectos fundamentales que se mencionan en el texto que has proporcionado. Aquí te proporcionaré un resumen y algunas explicaciones adicionales sobre los puntos clave:
+
+	Historia y alcance: La Inteligencia Artificial (IA) es una ciencia relativamente nueva que comenzó después de la Segunda Guerra Mundial, y el término se acuñó en 1956. Actualmente, la IA abarca una amplia variedad de subcampos, desde el aprendizaje y la percepción hasta la resolución de juegos, la demostración de teoremas matemáticos, la escritura de poesía y el diagnóstico de enfermedades. La IA busca sintetizar y automatizar tareas intelectuales, siendo relevante para cualquier ámbito de la actividad intelectual humana.
+
+	Definiciones de IA: En el campo de la IA, se han propuesto diferentes definiciones. Algunas se centran en procesos mentales y razonamiento, mientras que otras se enfocan en el comportamiento. También hay definiciones que se basan en la similitud con la conducta humana y otras que se refieren a un concepto ideal de inteligencia racional. Estas definiciones reflejan los distintos enfoques y perspectivas dentro de la IA.
+
+	Comportamiento humano y enfoque de Turing: La Prueba de Turing, propuesta por Alan Turing en 1950, busca proporcionar una definición operacional de inteligencia. Esta prueba consiste en que un evaluador humano no pueda distinguir si las respuestas a una serie de preguntas provienen de una persona o de una entidad artificial. El enfoque de Turing se basa en la capacidad de un sistema para procesar lenguaje natural, representar conocimiento, razonar y aprender. También se menciona la Prueba Global de Turing, que incluye aspectos de percepción y manipulación física para evaluar la capacidad de un sistema.
+
+	Enfoque del modelo cognitivo: Este enfoque se basa en la comprensión del funcionamiento de la mente humana. Utiliza la introspección y los experimentos psicológicos para desarrollar teorías precisas sobre cómo trabaja la mente. Se busca expresar estas teorías en forma de programas de computadora que puedan imitar los mecanismos mentales humanos. La ciencia cognitiva y la IA se alimentan mutuamente en este enfoque.
+
+	Enfoque racional: Este enfoque se basa en la lógica y el razonamiento irrefutable. Busca desarrollar sistemas inteligentes a partir de programas que sigan reglas lógicas y resuelvan problemas utilizando la notación formal. Sin embargo, este enfoque presenta desafíos al transformar conocimiento informal en notación lógica y al enfrentar problemas prácticos que requieren una gran capacidad computacional.
+
+
+Resumen EXTENSO
+	La Inteligencia Artificial (IA) es un campo de estudio que ha experimentado un rápido crecimiento desde sus inicios después de la Segunda Guerra Mundial. El término "Inteligencia Artificial" se acuñó en 1956 y desde entonces ha abarcado una amplia variedad de subcampos y aplicaciones.
+
+	En la actualidad, la IA abarca áreas de propósito general, como el aprendizaje automático (machine learning) y la percepción, así como áreas más específicas como los sistemas de juego (como el ajedrez), la demostración de teoremas matemáticos, la generación de poesía y el diagnóstico de enfermedades. La IA se centra en sintetizar y automatizar tareas intelectuales, y tiene el potencial de ser relevante en prácticamente cualquier ámbito de la actividad intelectual humana.
+
+	La definición de IA ha evolucionado a lo largo del tiempo y se han propuesto varias definiciones en función de distintos enfoques. Algunas definiciones se centran en los procesos mentales y el razonamiento, mientras que otras se refieren al comportamiento observable. Además, hay definiciones que miden el éxito de la IA en términos de la similitud con el comportamiento humano, mientras que otras se basan en un concepto ideal de inteligencia racional. Estas definiciones reflejan la diversidad de perspectivas dentro del campo de la IA.
+
+	El enfoque de Turing, propuesto por Alan Turing en 1950, es uno de los enfoques más conocidos en la IA. La Prueba de Turing fue diseñada para proporcionar una definición operacional de inteligencia. Según esta prueba, un sistema de IA se considera inteligente si un evaluador humano no puede distinguir si las respuestas a una serie de preguntas provienen de una persona o de un sistema artificial. El enfoque de Turing requiere que un sistema de IA tenga habilidades como el procesamiento de lenguaje natural, la representación del conocimiento, el razonamiento automático y el aprendizaje automático.
+
+	Otro enfoque importante en la IA es el modelo cognitivo, que se basa en la comprensión del funcionamiento de la mente humana. Este enfoque utiliza la introspección y los experimentos psicológicos para desarrollar teorías precisas sobre cómo trabaja la mente. Estas teorías se pueden expresar en forma de programas de computadora que imiten los mecanismos mentales humanos. La ciencia cognitiva y la IA se cruzan en este enfoque, y ambos campos se benefician mutuamente.
+
+	Por otro lado, el enfoque racional en la IA se basa en el razonamiento lógico y la búsqueda de soluciones racionales. Se inspira en el filósofo griego Aristóteles y su enfoque de establecer un proceso de razonamiento irrefutable. Este enfoque busca construir sistemas inteligentes a partir de programas que sigan reglas lógicas y resuelvan problemas utilizando la notación formal. Sin embargo, se enfrenta a desafíos como la representación formal del conocimiento informal y la capacidad computacional necesaria para resolver problemas complejos.
+	
+	
+	El enfoque cognitivo se basa en la comprension de la mente humana, El enfoque utiliza la introspección y los experimentos psicológicos. 
+	el enfoque racional busca las soluciones racionales, el razonamiento logico.
+
+
+
+Que opinas de "Como es de esperar, existe un enfrentamiento entre los enfoques centrados en los humanos y los centrados en torno a la racionalidad. Cada grupo al mismo tiempo ha ignorado y ha ayudado al otro"
+	
+	La opinión sobre el enfrentamiento entre los enfoques centrados en los humanos y los centrados en la racionalidad en el campo de la Inteligencia Artificial puede variar según la perspectiva de cada individuo. Sin embargo, es cierto que existe un debate continuo sobre cuál debe ser el enfoque predominante en el desarrollo de sistemas de IA.
+
+	Los enfoques centrados en los humanos se centran en comprender y replicar las capacidades cognitivas y emocionales humanas en los sistemas de IA. Estos enfoques valoran la empatía, la comprensión del lenguaje natural y la capacidad de adaptación a diferentes contextos humanos. Buscan crear sistemas que interactúen de manera más natural y efectiva con las personas, centrándose en aspectos como la comunicación, la comprensión de las emociones y la toma de decisiones éticas.
+
+	Por otro lado, los enfoques centrados en la racionalidad se basan en el razonamiento lógico y en la búsqueda de soluciones racionales a los problemas. Estos enfoques valoran la capacidad de los sistemas de IA para procesar grandes cantidades de información, tomar decisiones basadas en datos y resolver problemas complejos de manera eficiente. Buscan crear sistemas que sean eficaces y precisos en la toma de decisiones, utilizando algoritmos y modelos matemáticos para optimizar el rendimiento.
+
+	Es importante destacar que estos enfoques no son mutuamente excluyentes y que ambos pueden complementarse y enriquecerse mutuamente. La combinación de la comprensión de las capacidades humanas y la aplicación de la racionalidad en el desarrollo de sistemas de IA puede conducir a avances significativos en el campo.
+
+	Además, es importante considerar que el enfoque más adecuado puede variar según el contexto y la aplicación específica de la IA. Por ejemplo, en áreas como la atención médica, es crucial considerar los aspectos humanos, como la empatía y la ética, para garantizar un uso responsable de la tecnología. Por otro lado, en campos como la toma de decisiones financieras o la optimización de procesos industriales, el enfoque racional puede desempeñar un papel fundamental para lograr resultados precisos y eficientes.
+
+	En última instancia, la colaboración y el diálogo entre los enfoques centrados en los humanos y los centrados en la racionalidad pueden ayudar a superar las limitaciones y desafíos existentes en el campo de la IA, permitiendo un desarrollo equilibrado y ético de la tecnología.
+	
+--------------------------------------------------------------------------------	
+Lectura 2
+--------------------------------------------------------------------------------
+	La lectura 2, de la unidad presenta el desarrollo de la lección Fundamentos y conceptos de la Inteligencia Artificial a través de la Historia. Y este sentido, también se desarrolla sobre las Matemáticas y las preguntas formuladas en torno al ambiente matemático, que son:
+	- ¿Qué reglas formales son las adecuadas para obtener conclusiones válidas?
+	- ¿Qué se puede computar?
+	- ¿Cómo razonamos con información incierta?
+
+Fundamentos y conceptos acerca de IA a través de la historia
+	Filosofía (428 a.C. ~ presente)	
+	- ¿Se pueden utilizar reglas formales para extraer conclusiones válidas?
+	- ¿Cómo se genera la inteligencia mental a partir de un cerebro físico?
+	- ¿De dónde viene el conocimiento?
+	- ¿Cómo se pasa del conocimiento a la acción?
+	
+	Aristóteles (384-322 a.C.) fue el primero en formular un conjunto preciso de leyes que gobernaban la parte racional de la inteligencia. Él desarrolló un sistema informal para razonar adecuadamente con silogismos, que en principio permitía extraer conclusiones mecánicamente, a partir de premisas iniciales.
+	
+	Mucho después, Ramón Lull (d. 1315) tuvo la idea de que el razonamiento útil se podría obtener por medios artificiales. Thomas Hobbes (1588- 1679) propuso que el razonamiento era como la computación numérica, de forma que «nosotros sumamos y restamos silenciosamente en nuestros pensamientos».
+	
+	La automatización de la computación en sí misma estaba en marcha; alrededor de 1500, Leonardo da Vinci (1452-1519) diseñó, aunque no construyó, una calculadora mecánica; construcciones recientes han mostrado que su diseño era funcional. La primera máquina calculadora conocida se construyó alrededor de 1623 por el científico alemán Wilhelm Schickard (1592-1635), aunque la Pascalina, construida en 1642 por Blaise Pascal (1623-1662), sea más famosa. Pascal escribió que «la máquina aritmética produce efectos que parecen más similares a los pensamientos que a las acciones animales». Gottfried Wilhelm Leibniz (1646-1716) construyó un dispositivo mecánico con el objetivo de llevar a cabo operaciones sobre conceptos en lugar de sobre números, pero su campo de acción era muy limitado.
+	
+	Ahora que sabemos que un conjunto de reglas puede describir la parte racional y formal de la mente, el siguiente paso es considerar la mente como un sistema físico.
+	Rene Descartes. proporciona la primera discusión clara sobre la distinción entre la mente y la materia y los problemas que surgen. Uno de los problemas de una concepción puramente física de la mente es que parece dejar poco margen de maniobra al libre albedrío.
+	
+	Descartes fue un defensor del dualismo. Sostenía que existe una parte de la mente (o del alma o del espíritu) que está al margen de la naturaleza, exenta de la influencia de las leyes físicas.
+	Una alternativa al dualismo es el materialismo, que considera que las operaciones del cerebro realizadas de acuerdo a las leyes de la física constituyen la mente. El libre albedrío es simplemente la forma en la que la percepción de las opciones disponibles aparece en el proceso de selección.
+	
+	Dada una mente física que gestiona conocimiento, el siguiente problema es establecer las fuentes de este conocimiento. El movimiento empírico, iniciado con el Novum Organum, de Francis Bacon se caracteriza por el aforismo de John Locke lo que actualmente se conoce como principio de inducción: las reglas generales se obtienen mediante la exposición a asociaciones repetidas entre sus elementos.
+	
+	Matemáticas (ca. 800 ~ presente)
+	
+	
+RESUMEN IA
+	La segunda lectura presenta el desarrollo de la inteligencia artificial a lo largo de la historia, centrándose en los fundamentos y conceptos relacionados con la IA. Se discuten tanto aspectos filosóficos como matemáticos.
+
+	En el ámbito filosófico, se plantean varias preguntas fundamentales sobre la inteligencia y el razonamiento. Aristóteles fue el primero en desarrollar un sistema para el razonamiento basado en silogismos, mientras que Ramón Lull y Thomas Hobbes exploraron la posibilidad de utilizar medios artificiales para el razonamiento. René Descartes discutió la distinción entre mente y materia, y propuso el dualismo como una explicación de la mente. Por otro lado, el materialismo considera que la mente es el resultado de las operaciones del cerebro. También se aborda la relación entre el conocimiento y la acción, y cómo justificar las acciones a través del razonamiento lógico.
+
+	En cuanto a las matemáticas, se destaca la importancia de una formulación matemática en tres áreas fundamentales: lógica, computación y probabilidad. George Boole definió la lógica proposicional o Booleana, y Gottlob Frege extendió esta lógica para incluir objetos y relaciones. Alfred Tarski desarrolló una teoría de referencia que relaciona la lógica con el mundo real. Además, se menciona la importancia de los algoritmos en el razonamiento matemático y se hace referencia al famoso problema de decisión planteado por David Hilbert.
+
+	Kurt Gödel demostró que existen límites en la capacidad de los procedimientos de demostración, y Alan Turing propuso la máquina de Turing como un modelo de cálculo universal. Turing también mostró que hay funciones que no se pueden calcular mediante una máquina de Turing, lo que llevó a la noción de intratabilidad de problemas. La intratabilidad se refiere a problemas cuyo tiempo de resolución crece exponencialmente con el tamaño de los casos, lo que dificulta su solución en un tiempo razonable.
+
+	En resumen, la lectura 2 presenta el desarrollo histórico de la inteligencia artificial desde una perspectiva filosófica y matemática, abordando preguntas fundamentales sobre el razonamiento, la mente, el conocimiento y la acción. También se destacan conceptos clave como la lógica, la computación y la probabilidad, así como los límites y la intratabilidad de ciertos problemas.
+	
+
+Resumen EXTENSO	
+
+	Aumento de la aplicabilidad: La inteligencia artificial se ha vuelto cada vez más aplicable en diversos campos, como la medicina, la agricultura, la industria manufacturera y el transporte. Los algoritmos de aprendizaje automático y las redes neuronales profundas han permitido avances significativos en el procesamiento de imágenes médicas, el diagnóstico de enfermedades, la optimización de la producción agrícola y la conducción autónoma de vehículos.
+
+	Avances en el procesamiento del lenguaje natural (NLP): Los modelos de lenguaje basados en inteligencia artificial, como GPT-3, han logrado un progreso impresionante en el procesamiento del lenguaje natural. Estos modelos son capaces de comprender y generar texto de manera coherente, lo que ha llevado a mejoras en chatbots, asistentes virtuales y traducción automática.
+
+	Aplicaciones en el comercio electrónico: La inteligencia artificial ha revolucionado el comercio electrónico al permitir sistemas de recomendación altamente personalizados. Estos sistemas utilizan algoritmos de aprendizaje automático para analizar el comportamiento del usuario y ofrecer recomendaciones de productos relevantes, lo que mejora la experiencia del cliente y aumenta las ventas.
+
+	Automatización de tareas: La inteligencia artificial ha permitido la automatización de muchas tareas rutinarias y repetitivas en diversas industrias. Los robots y los sistemas inteligentes pueden realizar tareas de ensamblaje en fábricas, clasificar y organizar productos en almacenes, y realizar tareas administrativas en oficinas, lo que libera a los humanos para realizar trabajos más creativos y estratégicos.
+
+	Mejoras en la atención médica: La inteligencia artificial ha mejorado significativamente la atención médica, desde el diagnóstico hasta la atención al paciente. Los algoritmos de aprendizaje automático pueden analizar grandes cantidades de datos médicos, como imágenes de resonancia magnética y registros electrónicos de salud, para ayudar a los médicos a identificar enfermedades y desarrollar planes de tratamiento más precisos.
+
+	Ética y transparencia: A medida que la inteligencia artificial se vuelve más ubicua, también surgen preocupaciones éticas y de transparencia. La comunidad científica y las organizaciones gubernamentales están trabajando en el desarrollo de estándares y regulaciones para garantizar un uso ético de la inteligencia artificial y evitar sesgos y discriminación en los algoritmos.
+
+	Desafíos y riesgos: A pesar de los avances, la inteligencia artificial todavía enfrenta desafíos y riesgos. Algunos de estos desafíos incluyen la interpretación y comprensión limitada de los contextos complejos, la falta de explicabilidad de los modelos de inteligencia artificial y la preocupación por la pérdida de empleos debido a la automatización.
+
+	En resumen, la inteligencia artificial ha experimentado avances significativos en los últimos años, encontrando aplicaciones en diversos campos y mejorando la eficiencia y la precisión en muchas tareas. Sin embargo, también es importante abordar los desafíos éticos y garantizar un uso responsable de esta tecnología en beneficio de la
+	
+
+¿Qué reglas formales son las adecuadas para obtener conclusiones válidas?
+En lógica, existen varias reglas formales que se utilizan para obtener conclusiones válidas. Algunas de estas reglas son el modus ponens, el modus tollens, la eliminación del disyuntivo y la introducción del condicional, entre otras. Estas reglas se basan en principios lógicos y permiten inferir conclusiones a partir de premisas dadas. La validez de una conclusión obtenida mediante reglas formales depende de que las premisas sean verdaderas y de que las reglas utilizadas sean lógicamente consistentes.
+
+¿Qué se puede computar?
+La computación se refiere al procesamiento de información mediante algoritmos y reglas definidas. En principio, se puede computar cualquier tarea que pueda ser descrita de manera algorítmica. Esto incluye operaciones matemáticas, manipulación de datos, resolución de problemas y toma de decisiones, entre otras actividades. Sin embargo, existen problemas que son inherentemente no computables, es decir, no existe un algoritmo que pueda resolverlos en todos los casos. Un ejemplo famoso es el problema de la parada, que consiste en determinar si un programa terminará su ejecución o entrará en un bucle infinito.
+
+¿Cómo razonamos con información incierta?
+El razonamiento con información incierta se aborda en la lógica difusa y la teoría de la probabilidad. En la lógica difusa, se permite la asignación de grados de verdad parciales a las proposiciones, en lugar de limitarse a los valores de verdad binarios (verdadero o falso) de la lógica clásica. Esto permite representar y razonar con la incertidumbre y la imprecisión presentes en muchos dominios de conocimiento. Por otro lado, la teoría de la probabilidad proporciona un marco matemático para cuantificar y manejar la incertidumbre mediante la asignación de probabilidades a eventos. Se pueden utilizar técnicas como la inferencia bayesiana para actualizar y combinar la información incierta en el proceso de razonamiento.
+
+En cuanto a las últimas tres preguntas, abordaré brevemente cada una desde una perspectiva filosófica, lógica y cuantificable:
+
+¿Se pueden utilizar reglas formales para extraer conclusiones válidas?
+Sí, las reglas formales son herramientas fundamentales en la lógica y el razonamiento deductivo. A través de la aplicación de reglas lógicas válidas, es posible obtener conclusiones que se siguen necesariamente de las premisas dadas. Estas reglas formales se basan en principios lógicos bien definidos y pueden ser cuantificadas mediante sistemas formales y la teoría de la demostración. La validez de una conclusión obtenida mediante reglas formales puede ser evaluada mediante pruebas lógicas y demostraciones rigurosas.
+
+¿Cómo se genera la inteligencia mental a partir de un cerebro físico?
+La generación de la inteligencia mental a partir de un cerebro físico es un tema complejo y multidisciplinario que abarca la filosofía de la mente, la neurociencia y la inteligencia artificial. Existen diversas teorías y enfoques
+
+¿De dónde viene el conocimiento?
+Filosóficamente, el origen del conocimiento ha sido objeto de reflexión y debate a lo largo de la historia. Dos perspectivas relevantes son el empirismo y el racionalismo.
+Empirismo: Según el empirismo, el conocimiento se origina a través de la experiencia sensorial y la observación del mundo. Aprendemos a través de nuestros sentidos y mediante la recopilación de datos y evidencias. El conocimiento se adquiere a partir de la interacción con el entorno y la percepción de los fenómenos.
+
+Racionalismo: Desde el racionalismo, se argumenta que el conocimiento se deriva de la razón y la capacidad de la mente para razonar y deducir verdades universales. Se considera que existen principios o ideas innatas en la mente humana que nos permiten acceder a conocimientos objetivos y universales.
+
+Desde una perspectiva lógica, el conocimiento se puede construir a través de la aplicación de reglas y principios lógicos, el análisis de relaciones causa-efecto, la inferencia y la coherencia lógica entre proposiciones.
+
+Cuantificablemente, el conocimiento puede provenir de la recopilación y análisis sistemático de datos, la investigación científica, la experimentación, el estudio de casos y la utilización de métodos rigurosos de recolección y análisis de información.
+
+¿Cómo se pasa del conocimiento a la acción?
+La transición del conocimiento a la acción también implica diversos aspectos que se pueden abordar desde distintas perspectivas:
+Filosófica: Desde una perspectiva filosófica, la relación entre el conocimiento y la acción puede estar influenciada por el libre albedrío, la ética y la toma de decisiones morales. Se plantea la pregunta de cómo los individuos eligen y aplican el conocimiento disponible para tomar decisiones y llevar a cabo acciones.
+
+Lógica: Desde el punto de vista lógico, se puede argumentar que la acción se deriva de la aplicación de reglas y principios racionales sobre el conocimiento disponible. La lógica y el razonamiento son herramientas para evaluar la validez y coherencia de las acciones en relación con el conocimiento adquirido.
+
+Cuantificable: En términos cuantificables, el paso del conocimiento a la acción puede involucrar el desarrollo de algoritmos, modelos y sistemas que permitan la implementación práctica del conocimiento. La utilización de métricas, indicadores y mediciones cuantitativas también puede facilitar la evaluación y el seguimiento de los resultados de las acciones basadas en el conocimiento.
+
+
+	
+--------------------------------------------------------------------------------	
+Lectura 3
+--------------------------------------------------------------------------------
+	Neurociencia (1861 ~ presente)
+	La ciencia de la economía comenzó en 1776, cuando el filósofo escocés Adam Smith (1723-1790) publicó An Inquiry into the Nature and Causes of the Wealth of Nations. Aunque los antiguos griegos, entre otros, habían hecho contribuciones al pensamiento económico, Smith fue el primero en tratarlo como una ciencia, utilizando la idea de que las economías pueden concebirse como un conjunto de agentes individuales que intentan maximizar su propio estado de bienestar económico. La mayor parte de la gente cree que la economía sólo se trata de dinero, pero los economistas dicen que ellos realmente estudian cómo la gente toma decisiones que les llevan a obtener los beneficios esperados. Léon Walras (1834-1910) formalizó el tratamiento matemático del «beneficio deseado» o utilidad, y fue posteriormente mejorado por Frank Ramsey (1931) y después por John von Neumann y Oskar Morgenstern en su libro The Theory of Games and Economic Behavior (1944).
+	
+	El trabajo en la economía y la investigación operativa ha contribuido en gran medida a la noción de agente racional que aquí se presenta, aunque durante muchos años la investigación en el campo de la IA se ha desarrollado por sendas separadas. Una razón fue la complejidad aparente que trae consigo el tomar decisiones racionales. Herbert Simon (1916-2001), uno de los primeros en investigar en el campo de la IA, ganó el premio Nobel en Economía en 1978 por su temprano trabajo, en el que mostró que los modelos basados en satisfacción (que toman decisiones que son «suficientemente buenas», en vez de realizar cálculos laboriosos para alcanzar decisiones óptimas) proporcionaban una descripción mejor del comportamiento humano real (Simon, 1947). En los años 90, hubo un resurgimiento del interés en las técnicas de decisión teórica para sistemas basados en agentes (Wellman, 1995).
+	
+	Neurociencia
+	La conclusión verdaderamente increíble es que una colección de simples células pue- de llegar a generar razonamiento, acción, y conciencia o, dicho en otras palabras, los cerebros generan las inteligencias (Searle, 1992). La única teoría alternativa es el misticismo: que nos dice que existe alguna esfera mística en la que las mentes operan fuera del control de la ciencia física.
+	
+	Psicología (1879 ~ presente)
+	
+	Mientras tanto, en Estados Unidos el desarrollo del modelo computacional llevó a la creación del campo de la ciencia cognitiva. Se puede decir que este campo comenzó en un simposio celebrado en el MIT, en septiembre de 1956 (este evento tuvo lugar sólo dos meses después de la conferencia en la que «nació» la IA). En este simposio, George Miller presentó The Magic Number Seven, Noam Chomsky presentó Three Models of Language, y Allen Newell y Herbert Simon presentaron The Logic Theory Machine. Estos tres artículos influyentes mostraron cómo se podían utilizar los modelos informáticos para modelar la psicología de la memoria, el lenguaje y el pensamiento lógico, respectivamente. Los psicólogos comparten en la actualidad el punto de vista común de que «la teoría cognitiva debe ser como un programa de computador» (Anderson, 1980), o dicho de otra forma, debe describir un mecanismo de procesamiento de información detallado, lo cual lleva consigo la implementación de algunas funciones cognitivas.
+	
+	Ingeniería computacional (1940 ~ presente)
+	Para que la inteligencia artificial pueda llegar a ser una realidad se necesitan dos cosas: inteligencia y un artefacto. El computador ha sido el artefacto elegido.
+	El computador electrónico digital moderno se inventó de manera independiente y casi simultánea por científicos en tres países involucrados en la Segunda Guerra Mundial. El equipo de Alan Turing construyó, en 1940, el primer computador operacional de carácter electromecánico, llamado Heath Robinson, con un único propósito: descifrar mensajes alemanes.
+	En 1943 el mismo grupo desarrolló el Colossus, una máquina potente de propósito general basada en válvulas de vacío.
+	El primer computador operacional programable fue el Z-3, inventado por Konrad Zuse en Alemania, en 1941. Zuse también inventó los números de coma flotante y el primer lenguaje de programación de alto nivel, Plankalkül.
+	El primer computador electrónico, el ABC, fue creado por John Atanasoff junto a su discípulo Clifford Berry entre 1940 y 1942 en la Universidad Estatal de Iowa. Las investigaciones de Atanasoff recibieron poco apoyo y reconocimiento; el ENIAC, desarrollado en el marco de un proyecto militar secreto, en la Universidad de Pensilvania, por un equipo en el que trabajaban entre otros John Mauchly y John Eckert, puede considerarse como el precursor de los computadores modernos.
+	Por supuesto que antes de la aparición de los computadores ya había dispositivos de cálculo. La primera máquina programable fue un telar, desarrollado en 1805 por Joseph Marie
+
+	Jacquard (1752-1834) que utilizaba tarjetas perforadas para almacenar información sobre los patrones de los bordados. A mediados del siglo XIX, Charles Babbage (1792-1871) diseñó dos máquinas, que no llegó a construir. La «Máquina Diferencial», se concibió con la intención de facilitar los cálculos de tablas matemáticas para proyectos científicos y de ingeniería. Finalmente se construyó y se presentó en 1991 en el Museo de la Ciencia de Londres (Swade, 1993). La «Máquina Analítica» de Babbage era mucho más ambiciosa: incluía memoria direccionable, programas almacenados y saltos condicionales; fue el primer artefacto dotado de los elementos necesarios para realizar una computación universal.
+	Ada Lovelace, colega de Babbage e hija del poeta Lord Byron, fue seguramente la primera programadora (el lenguaje de programación Ada se llama así en honor a esta programadora). Ella escribió programas para la inacabada Máquina Analítica e incluso especuló acerca de la posibilidad de que la máquina jugara al ajedrez y compusiese música.
+	La IA también tiene una deuda con la parte software de la informática que ha proporcionado los sistemas operativos, los lenguajes de programación, y las herramientas necesarias para escribir programas modernos (y artículos sobre ellos). Sin embargo, en este área la deuda se ha saldado: la investigación en IA ha generado numerosas ideas novedosas de las que se ha beneficiado la informática en general, como por ejemplo el tiempo compartido, los intérpretes imperativos, los computadores personales con interfaces gráficas y ratones, entornos de desarrollo rápido, listas enlazadas, administración automática de memoria, y conceptos claves de la programación simbólica, funcional, dinámica y orientada a objetos.
+	
+	
+RESUMEN IA
+
+La introducción a la inteligencia artificial se puede dividir en diferentes disciplinas que han contribuido a su desarrollo. Una de estas disciplinas es la economía, que comenzó a establecerse como ciencia en 1776 con la publicación de "La Riqueza de las Naciones" por Adam Smith. Smith introdujo la idea de que las economías pueden ser entendidas como un conjunto de agentes individuales que buscan maximizar su bienestar económico. Luego, Léon Walras y otros economistas desarrollaron la teoría matemática de la utilidad y la teoría de juegos, que proporcionaron un marco formal para la toma de decisiones económicas.
+
+Otra disciplina relevante es la psicología, que inició su camino científico con los trabajos de Hermann von Helmholtz y Wilhelm Wundt en el siglo XIX. Wundt estableció el primer laboratorio de psicología experimental y se enfocó en realizar experimentos controlados y utilizar la introspección para comprender los procesos mentales. El movimiento conductista, liderado por John Watson, rechazó el estudio de los procesos mentales y se centró en mediciones objetivas de percepciones y respuestas. Sin embargo, la psicología cognitiva, que se basa en la idea de que el cerebro es un procesador de información, resurgió con fuerza en la década de 1950.
+
+La ingeniería computacional también desempeña un papel fundamental en el desarrollo de la inteligencia artificial. El computador electrónico digital moderno fue inventado casi simultáneamente en varios países durante la Segunda Guerra Mundial. Alan Turing, Konrad Zuse, John Atanasoff y otros científicos realizaron importantes contribuciones en la creación de computadoras operacionales y programables. Estos avances en la tecnología informática proporcionaron el artefacto necesario para el desarrollo de la inteligencia artificial.
+
+En resumen, la inteligencia artificial se ha beneficiado del conocimiento y los avances en disciplinas como la economía, la psicología y la ingeniería computacional. Estas disciplinas han aportado conceptos, teorías y herramientas que han permitido el desarrollo de algoritmos y sistemas inteligentes.

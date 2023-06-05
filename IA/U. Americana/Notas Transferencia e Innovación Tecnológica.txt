@@ -1,0 +1,312 @@
+Transferencia e Innovación Tecnológica
+
+--------------------------------------------------------------------------------
+--- UNIDAD 1 
+--------------------------------------------------------------------------------
+
+Lectura 1
+--------------------------------------------------------------------------------
+Innovación y Transferencia.
+	la innovación como estrategia de Implementar tecnologías como productos, procesos, sistemas de marketing o métodos organizativos nuevos o mejorados. La transferencia de conocimiento como un proceso para vincular posteriormente las tecnologías derivadas de la innovación.
+
+	La palabra innovación es una de las más utilizadas y ampliamente referidas en la sociedad actual, ya sea en el ámbito laboral, educativo y de gestión en las organizaciones, por lo que es importante conceptualizar una definición, en orden cronológico podemos encontrar diferentes definiciones de varios autores
+	
+
+	• Cualquier forma de hacer las cosas de modo distinto en la vida econòmica. Schumpeter  (
+	• Introducción con èxito en el mercado de una nueva idea en forma de productos, procesos, servicios o tècnicas de gestión y organización. Pavón y Goodman ( 
+	• Mudar o alterar algo, introduciendo novedades Real Academia de la Lengua (2001)
+	• Puesta en práctica de un producto, proceso, sistema de marketing o  método organizativo, nuevo o mejorado Manual de Oslo
+	
+	Real Academia Española define a la tecnología como un “Conjunto de teorías y de técnicas que permiten el aprovechamiento práctico del conocimiento científico”
+	
+	Innovación tecnológica: es cuando la innovación se consigue mediante la utilización de la tecnología o de los conocimientos científicos y tecnológicos, o supone para la empresa la introducción de un cambio técnico en sus productos o proceso”. (Sabater, 2011)
+	
+	La investigación
+		es conjunto de procesos sistemáticos, críticos y empíricos que se aplican al estudio de un fenómeno o problema.
+	
+	Motores de Ideas	
+		• Inspiración: basada en los intereses personales del investigador. Pero no es suficiente, se requiere trabajar en el tópico o idea para pulirla y acotarla. 
+		* Oportunidad: surge cuando por facilidad podemos indagar sobre algún tema En ocasiones puede resultar que haya fondos o recursos para investigar sobre cierto tópico.
+		* Necesidad de cubrir “huecos de conocimiento”: es frecuente que el investigador que se vaya compenetrando con algún campo de conocimiento detecte temas poco estudiados o no investigados en su contexto y decida adentrarse en éstos. Resulta un “disparador” muy común de estudios.
+		* Conceptualización: detectar un fenómeno o problema de investigación que requiere indagarse en profundidad o aportarse mayor conocimiento o evidencia para conocerlo, definirlo, describirlo y/o comprenderlo.
+		* Necesidad de resolver una problemática: cuando requiere solucionarse “algo” (desde la pobreza de una nación o el calentamiento global hasta el diseño de una maquinaria más eficiente para un proceso, prevenir un brote epidémico de cierto virus, etcétera)
+	
+	La Investigación y el Desarrollo (I+D)
+		“la investigación y el desarrollo experimental (I+D) comprenden el trabajo creativo llevado a cabo de forma sistemática para incrementar el volumen de conocimientos, incluido el conocimiento del hombre, la cultura y la sociedad, y el uso de esos conocimientos para crear nuevas aplicaciones”
+		
+		Investigación básica fundamental : Actividad planificada, experimental o teórica, cuyo objetivo es la optencion de nuevos conocimientos que supongan un avance para la ciencia y la tecnologia. Puede tenero o no aplicacion comercial a largo plazo
+		
+		Investigación aplicada a la industria precompetitiva
+		Desarrollo experimental (tecnológico precompetitivo)
+		
+	Transferencia de tecnología
+		las innovaciones tecnológicas creadas en el I+D para ser útiles deben pasar desde un marco teórico y experimental a ser una aplicación práctica mediante la transferencia de tecnología.
+		
+		NormanAbrams on (1997) El movimiento de tecnología y saber hacer (know how) relativo a la tecnología entre socios ( entidades y empresas) con el objetivo  de mejorar como mínimo el conocimiento y habilidad de uno de los socios,  así como fortalecer la posición competitiva de cada uno de los socios.
+		
+		Roessner (2000) en Castro et al.(2008) surge cuando por facilidad podemos indagar sobre algún tema En  ocasiones puede resultar que haya fondos o recursos para investigar sobre cierto tópico.
+		
+		Cotec (2003) Transferencia del capital intelectual y del know how entre organizaciones con la finalidad de su utilización en la creación y el desarrollo de productos y servicios viables comercialmente.
+	
+	La transferencia de conocimiento
+		En el entorno profesional de los organismos públicos de investigación–,se ha referido a: • la administración de la propiedad industrial e intelectual creada por dichas entidades (identificación, protección, explotación y defensa de los derechos de propiedad)
+	
+	
+RESUMEN IA
+	En la lectura se abordan los conceptos fundamentales de la innovación y la transferencia tecnológica. La innovación se refiere a la implementación de nuevas ideas o mejoras en productos, procesos, sistemas de marketing o métodos organizativos. La tecnología, por su parte, se define como el conjunto de teorías y técnicas que permiten el aprovechamiento práctico del conocimiento científico.
+
+	Cuando se vincula la innovación con la tecnología, se habla de innovación tecnológica, que implica el uso de conocimientos científicos y tecnológicos para introducir cambios técnicos en productos o procesos de una empresa.
+
+	La transferencia de tecnología es el proceso de llevar la innovación tecnológica a la práctica. Puede provenir tanto de fuentes internas, como los departamentos de investigación y desarrollo de la propia empresa, como de fuentes externas, como colaboraciones con proveedores o socios externos. La transferencia de tecnología busca que las innovaciones sean útiles y aplicables en un entorno real y contribuyan al crecimiento económico y la productividad.
+
+	En cuanto a la investigación y desarrollo (I+D), se clasifica en investigación básica, investigación aplicada y desarrollo experimental. La investigación es un conjunto de procesos sistemáticos, críticos y empíricos que se aplican al estudio de un fenómeno o problema. El desarrollo implica la transformación de los resultados de la investigación en nuevas aplicaciones prácticas.
+
+	La transferencia de tecnología y conocimiento se aborda desde diferentes enfoques. En algunos contextos, se enfoca en la administración de la propiedad industrial e intelectual, mientras que en otros se considera la transferencia de dimensiones más amplias, como el saber hacer personal o las publicaciones. Además, se mencionan diversos mecanismos de transferencia, como licencias, contratos de investigación, creación de empresas, formación y movilidad de personal.
+
+	En resumen, la lectura explora la relación entre innovación, tecnología, investigación, desarrollo y transferencia de conocimiento y tecnología. Estos conceptos son fundamentales para comprender cómo se generan y aplican nuevas ideas y cómo se llevan a cabo los procesos de transferencia para su implementación en el ámbito práctico.
+	
+--------------------------------------------------------------------------------
+Lectura 2
+--------------------------------------------------------------------------------
+
+Tendencias en transferencia de tecnología
+	Para la transferencia de tecnología se debe medir primero el grado de madurez de la tecnología a transferir, para ello la NASA (Administración Nacional de Aeronáutica y el Espacio) elaboro un Sistema de medición para evaluar el nivel de madurez de una tecnología denominada Technology Readiness Level (TRL) que traducido al español significa Niveles de Madurez de la Tecnología, dicho modelo se generalizo para aplicarse a cualquier proyecto tecnológico. Los TRL constan de 9 niveles desde los principios básicos hasta el último que es las pruebas en un entorno real. Los niveles son los siguientes:
+	
+	Pasos
+	NIVEL 1 OBSERVACIÓN Y REPORTE DE PRINCIPIOS BÁSICOS
+		Este corresponde al nivel más bajo en cuanto al nivel de maduración tecnológica. Comienza la investigación científica básica. Se comienza la transición a investigación
+	NIVEL 2 CONCEPTO DE LA TECNOLOGÍA O FORMULACIÓN DE LA APLICACIÓN
+		El paso del nivel 1 al 2 consiste en la movilización de las ideas de la ciencia pura a la ciencia aplicada.
+	NIVEL 3 PRUEBA DE CONCEPTO
+		Las actividades que se llevan a cabo son fuertemente de investigación y desarrollo, que incluyen estudios analíticos y estudios a escala laboratorio para validar físicamente las predicciones de los elementos separados de la tecnología. Se incluyen pruebas de laboratorio para medir parámetros y comparación con predicciones analíticas de subsistemas críticos. El trabajo ha evolucionado de un artículo científico a trabajo experimental que verifica que el concepto funciona como esperado. Los componentes de la tecnología son validados, pero aún no hay una intención de integrar componentes a un sistema completo. Modelado y simulación pueden ser usados para complementar los experimentos físicos.
+		
+	NIVEL 4 VALIDACIÓN DE COMPONENTES O SISTEMA EN UN AMBIENTE DE LABORATORIO
+		Los componentes básicos están integrados, estableciendo que funcionarán en conjunto. Las etapas del 4 al 6 representan el puente de la investigación científica a la ingeniería.
+	NIVEL 5 VALIDACIÓN EN ENTORNO RELEVANTE
+		Los componentes tecnológicos básicos son integrados a manera de que la configuración del sistema sea similar a una aplicación final en casi todas sus características. Se dan pruebas a escala en laboratorio y un sistema operativo condicionado. La diferencia mayor entre el nivel 4 y 5 es el incremento en la fidelidad del sistema y su ambiente hacia la aplicación final. El sistema probado es casi prototipo.
+	NIVEL 6 DEMOSTRACIÓN TECNOLÓGICA
+		Prototipo piloto con ingeniería con condiciones de escalamiento que le permitirán a la tecnología llegar a un sistema operativo. El prototipo debe ser capaz de desarrollar todas las funciones requeridas por un sistema operativo.
+	NIVEL 7 PROTOTIPO COMPLETO DEMOSTRADO EN AMBIENTE RELEVANTE
+		Prototipo final con sistema operativo funcional.
+	NIVEL 8 SISTEMA FINAL COMPLETO Y EVALUADO A TRAVÉS DE PRUEBAS Y DEMOSTRACIONES
+		La tecnología ha sido probada en su forma final y bajo condiciones supuestas. En muchos casos significa el final del desarrollo del sistema.
+	Nivel 9 OPERACIÓN DE SISTEMAS (SISTEMA REAL)
+		La tecnología se encuentra en su forma final y operable en un sin número de condiciones operativas.
+		
+Actividades de transferencia de tecnología Para lograr una adecuada transferencia de tecnología y (Sabater, 2011) propone una serie de actividades para que generen un mayor impacto e intensidad de transferencia, que son: Colaboración entre empresas y centros de conocimiento (universidades, organismos de investigación y centros tecnológicos). - Alianzas estratégicas y cooperación alrededor de I+D, tecnología e innovación. - Centros de conocimiento y tecnología y saturación en ciertas áreas o regiones. - Creación de Solicitudes y concesiones de patentes, así como de pagos de regalías en concepto de licencias. - Internacionalización (globalización) de I+D, alta tecnología, conocimiento e innovación. - Relevancia de la tecnología en la competitividad empresarial (innovación tecnológica). - Externalización de los procesos de I+D+i empresariales hacia servicios “llave en mano” altamente especializados. - Normalización y certificación de actividades de I+D+i. - Eventos empresariales con contenidos de I+D, tecnología e innovación. - Aparición del concepto de I+D, tecnología e innovación en los medios de comunicación masivos. - Disponibilidad de fondos públicos para I+D+i y transferencia de tecnología.
+- Personal especializado en la gestión de gestores de I+D+i y transferencia de tecnología. - Entidades y agentes intermedios del sistema ciencia, tecnología y sociedad. - Espacios para innovar e interrelacionarse en I+D, tecnología e innovación tanto presenciales parques, clusters…) como virtuales (redes, portales…). - Transferencia de tecnología a nivel macroeconómico (entre países y en cooperación al desarrollo) empresas base científica y tecnológica.
+	
+	
+	
+RESUMEN IA 
+	El texto que proporcionaste habla sobre las tendencias en la transferencia de tecnología y describe las etapas de maduración de las tecnologías según la metodología TRL (Technology Readiness Level). Aquí hay un resumen de los puntos clave:
+
+	El grado de madurez de una tecnología a transferir se evalúa utilizando el Sistema de medición denominado Technology Readiness Level (TRL). Este sistema consta de 9 niveles que van desde los principios básicos hasta las pruebas en un entorno real.
+
+	Las etapas de maduración tecnológica según la metodología TRL son las siguientes:
+
+	Observación y reporte de principios básicos: Se inicia la investigación científica básica y se transita hacia la investigación aplicada.
+	Concepto de la tecnología o formulación de la aplicación: Se formulan las aplicaciones prácticas y se realizan pruebas y análisis para confirmar el concepto.
+	Prueba de concepto: Se llevan a cabo actividades de investigación y desarrollo, incluyendo estudios analíticos y pruebas de laboratorio para validar físicamente las predicciones de los elementos separados de la tecnología.
+	Validación de componentes o sistema en un ambiente de laboratorio: Se integran los componentes básicos y se determina si funcionan juntos como un sistema.
+	Validación en entorno relevante: Se integran los componentes tecnológicos básicos en una configuración similar a una aplicación final.
+	Demostración tecnológica: Se desarrolla un prototipo piloto con ingeniería para demostrar el potencial industrial.
+	Prototipo completo demostrado en ambiente relevante: Se demuestra que la tecnología funciona y opera a escala pre-comercial.
+	Sistema final completo y evaluado a través de pruebas y demostraciones: Se realizan pruebas finales bajo condiciones supuestas y se resuelven cuestiones operativas y de fabricación.
+	Operación de sistemas (sistema real): La tecnología se encuentra en su forma final y operable en diversas condiciones operativas.
+	Además, se mencionan diversas actividades para lograr una adecuada transferencia de tecnología, como la colaboración entre empresas y centros de conocimiento, alianzas estratégicas, solicitud de patentes, internacionalización, externalización de procesos de I+D+i, entre otros. También se destaca la importancia de contar con personal especializado en la gestión de I+D+i y transferencia de tecnología, así como la disponibilidad de fondos públicos para la investigación, desarrollo e innovación.
+
+	Espero que esta información te sea útil para comprender el texto sobre transferencia e innovación tecnológica. Si tienes alguna pregunta adicional, no dudes en hacerla.
+
+	I+D es una abreviatura que se utiliza comúnmente para referirse a la investigación y desarrollo. La "I" representa la investigación, que implica el estudio sistemático y la investigación en busca de nuevos conocimientos o la aplicación de conocimientos existentes para resolver problemas específicos. La "D" representa el desarrollo, que implica la aplicación práctica de los resultados de la investigación para crear nuevos productos, procesos o servicios, o mejorar los existentes.
+
+	En conjunto, I+D se refiere a las actividades realizadas por las organizaciones para adquirir nuevos conocimientos, explorar nuevas ideas y tecnologías, y utilizarlos para desarrollar productos innovadores o mejorar los existentes. Estas actividades suelen estar impulsadas por la necesidad de mantener la competitividad, generar avances tecnológicos y encontrar soluciones a desafíos y problemas específicos.
+
+	El término I+D se utiliza en diversos campos y sectores, como la ciencia, la tecnología, la industria, la medicina y la ingeniería, entre otros. La inversión en I+D es considerada clave para el progreso y la innovación en una sociedad, ya que impulsa el descubrimiento de nuevos conocimientos y la creación de avances que pueden tener un impacto significativo en diversos ámbitos.
+
+	
+--------------------------------------------------------------------------------
+Lectura 3
+--------------------------------------------------------------------------------
+	Incubadoras
+		Las incubadoras de empresas se crean con el objetivo de apoyar en su fase de inicio a las empresas con un fuerte contenido innovador, proveyendo un conjunto de servicios y recursos.
+	
+	Tipos de incubadoras
+		La primera es la de incubadoras con un soporte reactivo de negocio, que brindan principalmente servicios elementales y alojamiento compartido. Básicamente ofrecen soluciones inmobiliarias.
+		• En la segunda generación, a estos servicios se agrega soporte y tutoría (coaching) al desarrollo de negocios.
+		• En la tercera generación, se incrementa el apoyo para que las empresas incubadas accedan con mayor facilidad a las fuentes de financiamiento. Los programas de soporte generalmente incluyen participación por diferentes vías en la empresa asistida.
+		
+	A la vez estas generaciones se pueden clasificar en:
+		Tabla 1: Clasificación de generaciones
+			De base tecnológica
+			Múltiple, de base general o mixta
+			De micro, pequeñas y medianas empresas (MiPyMEs) para el desarrollo económico
+			
+	
+	Resumen IA
+		Las incubadoras de empresas son organizaciones creadas con el objetivo de apoyar a las empresas en su fase inicial, especialmente aquellas con un contenido innovador. Estas incubadoras proporcionan servicios y recursos que ayudan a disminuir el nivel de fracaso empresarial. El éxito de las empresas incubadas contribuye al crecimiento económico, la creación de empleo y el bienestar de la población.
+
+		Existen diferentes generaciones de incubadoras, pero se pueden clasificar en tres tipos principales:
+
+		Incubadoras de base tecnológica: se enfocan en promover la alta tecnología y el desarrollo de empresas basadas en tecnologías innovadoras, como software, biotecnología, robótica, TIC, entre otras. Apoyan a estas empresas desde la etapa de investigación y desarrollo hasta la comercialización.
+
+		Incubadoras de base general o mixta: promueven la creación de empresas en diversos sectores y no se centran en un tipo específico de negocio. Pueden abarcar empresas de gestión social, comercial, industrial, tecnológica, entre otras. Su objetivo es impulsar el crecimiento económico y el desarrollo industrial de una región.
+
+		Incubadoras para el desarrollo económico de micro, pequeñas y medianas empresas (MiPyMEs): se centran en promover la creación de empresas en regiones con problemas económicos y limitadas oportunidades de desarrollo. Estas incubadoras suelen abarcar diferentes tipos de negocios y se enfocan en grupos vulnerables, como comunidades indígenas, mujeres cabeza de familia y grupos sociales desfavorecidos.
+
+		Las etapas de incubación en una empresa varían, pero generalmente se dividen en diferentes fases, como la preincubación, la incubación propiamente dicha y la postincubación. Cada etapa tiene tiempos esperados y objetivos específicos para apoyar el crecimiento y la consolidación de las empresas.
+
+		Los Centros de Desarrollo Tecnológico (CDT) son organizaciones públicas o privadas que se dedican al desarrollo de proyectos de investigación aplicada, tecnología propia y transferencia de conocimiento. Pueden ser autónomos/independientes o dependientes de una entidad pública o privada. Su actividad principal es la investigación aplicada y el desarrollo tecnológico, y pueden ofrecer servicios científicos y tecnológicos, formación de personal, asesoría y consultoría.
+
+		Por último, los Parques Científicos, Tecnológicos y de Innovación (PCTI) son organizaciones públicas o privadas cuyo objetivo es promover la innovación, la productividad empresarial y la competitividad regional a partir del conocimiento científico y tecnológico. Estimulan la interacción entre empresas y otros actores generadores de conocimiento y tecnología en una zona geográfica específica. Ofrecen servicios de apoyo a la innovación empresarial, incubación de empresas, asesoría y divulgación científica, entre otros. Los resultados principales de los PCTI incluyen la creación de spin-offs y start-ups, modelos de negocio y comercialización de tecnologías, y el establecimiento de redes de actores.
+		
+
+
+--------------------------------------------------------------------------------
+Lectura 3
+--------------------------------------------------------------------------------
+	Estudios de casos – Incubadoras. A nivel nacional uno de los hitos importantes a nivel de innovación y transferencia tecnológica está el de la creación de la Asociación Paraguaya de Incubadoras de Empresas y Parques Tecnológicos (INCUPAR) establecida el 27 de septiembre de 2007, estableciendo entre sus propósitos en sus estatutos el de : Unir a las Incubadoras y Parques Tecnológicos del Paraguay fortaleciendo sus vínculos, facilitando el intercambio de experiencia tecnológico y la incorporación del conocimiento para el desarrollo sustentable del Paraguay, a través de la articulación de acciones entre los asociados.
+	
+	instituciones públicas y privadas que apoyan a la incubación y centros tecnológicas
+		→ Proinnova: Programa del Consejo Nacional de Ciencia y Tecnología (CONACYT) de 5 años de duración que se inició́ en 2017. Tiene como objetivo contribuir a la mejora de la productividad de la economía paraguaya a través de dos ejes fundamentales: el fomento de la innovación y el fortalecimiento del capital humano para la innovación.
+		
+		→ InnovandoPy: InnovandoPy es un programa del Ministerio de Tecnologías de la Información y Comunicación (MITIC) para promover la creatividad y el desarrollo de nuevas ideas y propuestas que mejoren la calidad de vida de las personas a través de las Tecnologías de la Información y Comunicación (TIC).
+		
+		→ Incubadora StartupLab: Dependiente de la Facultad Politécnica de la Universidad Nacional de Asunción, StartupLab se especializa en la gestación de empresas emergentes de base tecnológica.
+		
+		→ Incubadora INCUNA: Es la incubadora de empresas de la Universidad Nacional de Asunción encargada de la promoción de la investigación aplicada de estudiantes de grado o postgrado, docentes e investigadores de la universidad.
+		
+		→ Unión Industrial Paraguaya (UIP): La UIP pone especial empeño en el desarrollo de proyectos de mediano y largo plazo que permitan a la industria nacional, en especial al sector de las mipymes, contar con gente capacitada adecuadamente.
+		
+		→ Asociación de Emprendedores de Paraguay (ASEPY): Su ocupación principal es promover y defender el emprendedurismo. La idea nació en Chile y a finales del 2017 la ASEPY se funda en nuestro país con 68 miembros que en el lapso de un año se convirtieron en 1.800.
+		
+		Análisis de incubadoras en el Paraguay Un estudio denominado “Análisis situacional de las Incubadoras de Empresas en el Paraguay” elaborado por el Ministerio de Industria y Comercio en diciembre de 2019, basado en 25 incubadoras a nivel país entrega un mapeo con la información y datos importantes de la situación de las incubadoras y su impacto en la sociedad, para ello se destacarán los ítems más importantes del estudio.
+		
+		Servicios ofrecidos por las incubadoras Las incubadoras ofrecen sus servicios en diferentes formas, incluyendo actividades de formación, asesoría, mentoría o coaching. Estos servicios pueden ser dirigidos a grupos de emprendedores u ofrecidos a nivel de cada equipo o se realizan a nivel individual. (Ministerio de Industria y Comercio, 2019)
+		
+	
+	Las incubadoras están compuestas por universidades, instituciones públicas , empresas privadas y entidades sin fines de lucro, del estudio elaborado por el MIC entrega esta conformación de incubadoras en el Paraguay:
+	
+	
+	Desafíos principales de las incubadoras Los resultados del estudio arrojan las cifras de los principales desafíos en 4 indicadores evaluados y entre ellos el mayor es la falta de financiamiento, pero en segundo lugar se puede apreciar que la falta de conocimiento de los emprendedores, por lo que se concluye que la transferencia de conocimiento y no solo la de capital es uno de mayores desafíos que la incubación debe resolver.
+	
+		Falta de financiamiento
+		Falta de Mentores con experiencia
+		Falta plan de sostenibilidad
+		Falta conocimiento emprendedores
+		
+		
+EXAMEN
+	Innovar es la capacidad de introducir con éxito en el mercado una nueva idea
+	Grupo de opciones de respuesta
+	Falso Verdadero
+
+	Verdadero. Innovar se refiere a la capacidad de introducir con éxito en el mercado una nueva idea, producto, servicio o proceso que proporciona valor y genera un impacto positivo en la sociedad o en una organización. La innovación implica el desarrollo y la implementación de ideas creativas y novedosas que satisfacen las necesidades del mercado y superan las soluciones existentes.
+
+	-----------------------------
+	La transferencia de tecnología no implica movimiento de know-how, de los conocimientos tecnológicos o de la tecnología de una organización a otra, sino de servicios y productos
+	Grupo de opciones de respuesta
+
+	Verdadero o Falso
+	
+	Falso. La transferencia de tecnología implica el movimiento de conocimientos tecnológicos, know-how y tecnología de una organización a otra. No se limita únicamente a la transferencia de servicios y productos, sino que también involucra la transferencia de conocimientos técnicos, habilidades, procesos, métodos y capacidades para utilizar y aplicar la tecnología de manera efectiva. La transferencia de tecnología busca compartir y difundir el conocimiento tecnológico con el objetivo de fomentar la innovación y el desarrollo en diferentes contextos.
+
+	-----------------------------
+	Una empresa debe implementar una nueva tecnología por lo que precisa realizar una fase de evaluación de la tecnología en un entorno relevante, entonces podemos decir que esa en TRL9
+	Grupo de opciones de respuesta
+
+	Verdadero o Falso
+	
+	Falso. El nivel de TRL (Technology Readiness Level) 9 se refiere a la etapa en la cual una tecnología ya ha sido completamente validada y demostrada en su forma final en un entorno operativo. Esto implica que la tecnología ha sido probada y utilizada exitosamente en condiciones reales. Por lo tanto, no corresponde utilizar el TRL 9 para describir una fase de evaluación de la tecnología en un entorno relevante, ya que esta fase estaría en una etapa anterior de desarrollo y validación.
+	
+	-----------------------------
+	Una incubadora sirve para apoyar en la fase final de una empresa, proveyéndoles servicios no así recursos financieros
+	Grupo de opciones de respuesta
+	Verdadero o Falso
+
+	Falso. Una incubadora puede brindar apoyo a las empresas en diferentes etapas de su desarrollo, incluyendo la fase final. Sin embargo, es importante destacar que las incubadoras no solo brindan servicios, sino que también pueden proporcionar recursos financieros a las empresas incubadas. Además de servicios como asesoría, mentoría y capacitación, muchas incubadoras también ofrecen acceso a financiamiento, ya sea a través de inversiones directas o conexiones con fuentes de financiamiento externas. Por lo tanto, la afirmación de que una incubadora solo proporciona servicios y no recursos financieros es falsa.
+	-----------------------------	
+		A los tipos de incubadoras que se les da tutoría y soporte para el desarrollo de sus negocios son la 2da. Generación
+	Grupo de opciones de respuesta
+	Verdadero o Falso
+
+	Falso. La afirmación es incorrecta. La tutoría y el soporte para el desarrollo de negocios no están limitados a una generación específica de incubadoras. Las incubadoras pueden ofrecer tutoría y soporte en diferentes etapas de desarrollo de las empresas, independientemente de su generación. Las incubadoras de diferentes generaciones, como la primera, segunda, tercera, etc., pueden proporcionar servicios de tutoría y soporte a las empresas incubadas. Por lo tanto, la afirmación de que solo a los tipos de incubadoras de la segunda generación se les brinda tutoría y soporte para el desarrollo de sus negocios es falsa.
+
+	-----------------------------
+	La investigación que busca obtener un nuevo conocimiento para crear un nuevo productos o servicio es del tipo investigación básica
+	Grupo de opciones de respuesta
+	Verdadero o Falso
+
+	Verdadero. La investigación que busca obtener un nuevo conocimiento para crear nuevos productos o servicios se conoce como investigación básica o investigación fundamental. Este tipo de investigación se centra en el descubrimiento y la comprensión de principios y fenómenos científicos, sin tener necesariamente una aplicación práctica inmediata. Su objetivo principal es ampliar el conocimiento en un campo determinado y sentar las bases para futuras investigaciones aplicadas.
+
+	-----------------------------
+	En la etapa de incubación una empresa está en búsqueda de financiación
+	Grupo de opciones de respuesta
+
+	Verdadero o Falso
+
+	Verdadero. Durante la etapa de incubación, una empresa suele estar en búsqueda de financiación para desarrollar su idea de negocio y convertirla en un proyecto viable. La incubadora puede ofrecer apoyo y asesoramiento para acceder a fuentes de financiamiento, como inversionistas, programas de financiamiento público o privado, concursos de emprendimiento, entre otros. La obtención de financiación es fundamental para cubrir los costos iniciales, invertir en investigación y desarrollo, adquirir recursos y herramientas necesarias, contratar personal, y cumplir con otros requerimientos para el crecimiento y la puesta en marcha de la empresa.
+
+	-----------------------------
+	La transferencia de personal es una dimensión de transferencia de conocimiento
+	Grupo de opciones de respuesta
+
+	Verdadero o Falso
+
+	Falso. La transferencia de personal no se considera una dimensión de la transferencia de conocimiento en sí misma. La transferencia de conocimiento se refiere específicamente a la transmisión de conocimientos, información, habilidades y experiencias de una persona u organización a otra. Puede tener lugar a través de diversos medios, como la capacitación, la documentación, la colaboración y la comunicación entre individuos o grupos.
+
+
+	La transferencia de personal, por otro lado, implica el movimiento de personas de una organización a otra, ya sea temporal o permanentemente. Si bien el personal puede llevar consigo conocimientos y habilidades, la transferencia de personal en sí misma no implica necesariamente una transferencia directa de conocimiento. Es posible que el personal transfiera conocimientos y experiencia a medida que se integra en una nueva organización, pero esto no se considera una dimensión principal de la transferencia de conocimiento.
+
+	-----------------------------
+	La transición de investigación científica inicial a la investigación aplicada se de en el TRL1
+	Grupo de opciones de respuesta
+
+	Verdadero o Falso
+
+	Falso. La transición de investigación científica inicial a investigación aplicada no ocurre en el TRL1 (Technology Readiness Level 1). El TRL1 se refiere a la etapa más temprana de desarrollo tecnológico, donde la investigación científica básica se está llevando a cabo, pero aún no se ha aplicado a ninguna tecnología específica.
+
+	La transición de la investigación científica inicial a la investigación aplicada ocurre en etapas posteriores del desarrollo tecnológico, como el TRL2 o TRL3. Estas etapas implican la evaluación y validación de conceptos científicos en entornos de laboratorio o simulación para determinar su aplicabilidad y viabilidad en aplicaciones prácticas. En resumen, la transición de la investigación científica a la investigación aplicada ocurre en etapas posteriores al TRL1.
+
+	-----------------------------
+	Una incubadora que se dedicara exclusivamente al desarrollo de software es una de base múltiple o mixta
+	Grupo de opciones de respuesta
+
+	Verdadero o Falso
+
+	Falso. Una incubadora que se dedique exclusivamente al desarrollo de software se consideraría una incubadora de base tecnológica o especializada en tecnología de la información. Las incubadoras de base múltiple o mixta son aquellas que apoyan y brindan servicios a emprendimientos de diversos sectores o industrias, no limitándose exclusivamente a una área específica como el desarrollo de software.
+	-----------------------------
+	La mayoría de las incubadoras se crean con fines de lucro
+	Grupo de opciones de respuesta
+
+	Falso Verdadero
+
+	Falso. La mayoría de las incubadoras se crean con fines de lucro. Las incubadoras suelen ser entidades que buscan apoyar y fomentar el desarrollo de emprendimientos y startups, pero también buscan obtener beneficios económicos a través de diferentes mecanismos, como la participación en el crecimiento y éxito de las empresas incubadas, la generación de ingresos por servicios ofrecidos o la captación de inversores y socios comerciales. Si bien existen incubadoras sin fines de lucro y organizaciones gubernamentales que promueven la incubación como parte de su agenda de desarrollo económico, la mayoría de las incubadoras operan con el objetivo de obtener beneficios económicos.
+
+	-----------------------------
+	La venta y promoción es parte de la etapa de las incubadoras en pos-incubacion
+	Grupo de opciones de respuesta
+	Verdadero o Falso
+
+	Verdadero. Durante la etapa de pos-incubación, las incubadoras brindan apoyo a las empresas para que puedan comercializar y promocionar sus productos o servicios de manera efectiva. Esto incluye estrategias de venta, marketing y promoción para ayudar a las empresas a alcanzar a su público objetivo, generar demanda y aumentar sus ventas. La venta y promoción son actividades clave en esta etapa, ya que permiten a las empresas consolidar su posición en el mercado y lograr su crecimiento y sostenibilidad a largo plazo.
+
+	--------------------------------
+	Podemos afirmar que los Centros de Desarrollo Tecnológico son organizaciones eminentemente públicas para el desarrollo de I+D
+	Grupo de opciones de respuesta
+	Verdadero Falso
+
+	Falso. Los Centros de Desarrollo Tecnológico pueden ser tanto organizaciones públicas como privadas. Su objetivo principal es impulsar la investigación y el desarrollo tecnológico en diferentes áreas, ya sea en colaboración con empresas, universidades u otras instituciones. Estos centros pueden ser financiados y respaldados por entidades gubernamentales, pero también pueden ser establecidos por empresas privadas o incluso ser una colaboración público-privada. Por lo tanto, no se puede afirmar que sean exclusivamente organizaciones públicas para el desarrollo de I+D.
+
+	-------------------
+	El capital semilla es parte de la fase de incubación
+	Grupo de opciones de respuesta
+	Verdadero Verdadero o Falso.
+
+	El capital semilla es una forma de financiamiento que se proporciona en la etapa de incubación de una empresa. Este tipo de financiamiento se destina a impulsar el desarrollo inicial de la empresa y ayudar a cubrir los gastos iniciales, como la investigación y el desarrollo de productos o servicios, la creación de prototipos y la validación del mercado. Por lo tanto, el capital semilla es parte de la fase de incubación.
+
+	-----------------
+	El prototipo es un resultado esperado en fase de pre-incubación
+	Grupo de opciones de respuesta
+	Verdadero Falso
+
+	Falso. El prototipo es un resultado esperado en la fase de incubación, no en la fase de pre-incubación. En la fase de pre-incubación, se centra en la generación de ideas y la validación del modelo de negocio, mientras que en la fase de incubación se lleva a cabo el desarrollo del prototipo o producto mínimo viable. El prototipo es una versión inicial del producto o servicio que se crea para probar su funcionamiento y obtener retroalimentación de los clientes o usuarios antes de su lanzamiento al mercado.
