@@ -1,7 +1,7 @@
 {
   "name": "clima-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://docs.mapbox.com/playground/geocoding/?search_text=Pilar&proximity=ip&types=country%2Cregion%2Clocality%2Cplace&language=es%2Cen&access_token={API_KEY}",
   "exports": "./index.js",
   "type": "module",
   "scripts": {
@@ -15,5 +15,7 @@
     "colors": "^1.4.0",
     "dotenv": "^16.0.3",
     "inquirer": "^9.1.4"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {}
 }

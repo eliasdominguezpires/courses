@@ -24,3 +24,78 @@ R2DBC: oracle, postgrestSQL, MariaDB
 
 Paradigmas de Programación: 
 	es una propuesta de TI que es adoptada por una comunidad de programadores cuyo núcleo central es incuestionable en cuanto a que únicamente trata de resolver uno o varios problemas claramente limitados.
+	
+	
+Los patrones de diseño
+son unas técnicas para resolver problemas comunes en el desarrollo de software y otros ámbitos referentes al diseño de interacción o interfaces.
+
+
+ORM
+Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos
+
+Arquitectura de Webservices (++REST / -SOAP)/
+
+	Arquitectura de servicios web REST (Representational State Transfer):
+		Obtener información de un producto: GET /productos/123
+		Agregar un nuevo producto: POST /productos
+		Actualizar información de un producto existente: PUT /productos/123
+		Eliminar un producto: DELETE /productos/123
+		
+	(Simple Object Access Protocol):
+		Obtener información de un producto: GETProductInfo(productID)
+		Agregar un nuevo producto: AddProduct(productData)
+		Actualizar información de un producto existente: UpdateProduct(productID, productData)
+		Eliminar un producto: DeleteProduct(productID)
+		
+REST se basa en principios HTTP y utiliza URLs y métodos HTTP para acceder a recursos, mientras que 
+SOAP utiliza un enfoque más formal y está basado en XML y WSDL para definir y describir servicios web.
+
+
+
+NestJS es un framework de desarrollo de aplicaciones backend que se basa en TypeScript, 
+	import { Controller, Get } from '@nestjs/common';
+	@Controller('api')
+	export class AppController {
+	  @Get()
+	  getHello(): string {
+		return '¡Hola, mundo!';
+	  }
+	}
+	
+En NestJS, el uso de decoradores con el símbolo "@"
+
+
+Kubernetes / Containers (Jenkins, Rancher)
+	orquestación de contenedores  que permite administrar y escalar aplicaciones
+	
+	Configurar nuestro yaml
+	
+		myapp-deployment.yaml 
+		
+	comandos kubectl apply -f myapp-deployment.yaml
+	
+value, onChange
+react
+pero con angular v-model
+ngModel
+Programacion funcional
+Diferencia entre react vs angular
+es que angular es un framework
+mientas que react es una libreria
+por lo tanto, idealmente es utilizar un framework de react directamente
+https://nextjs.org/
+SSR
+https://remix.run/docs/en/v1/pages/philosophy
+https://astro.build/
+Component Islands
+https://www.gatsbyjs.com/
+https://mui.com/
+https://tailwindcss.com/
+https://blog.logrocket.com/top-10-react-ui-libraries-kits/
+boilerplate
+https://swr.vercel.app/
+v3.tanstack.com/
+https://docs.react-async.com/
+react-router-dom v5 vs v6
+@reach/router
+woute
