@@ -233,3 +233,944 @@ Otra disciplina relevante es la psicología, que inició su camino científico c
 La ingeniería computacional también desempeña un papel fundamental en el desarrollo de la inteligencia artificial. El computador electrónico digital moderno fue inventado casi simultáneamente en varios países durante la Segunda Guerra Mundial. Alan Turing, Konrad Zuse, John Atanasoff y otros científicos realizaron importantes contribuciones en la creación de computadoras operacionales y programables. Estos avances en la tecnología informática proporcionaron el artefacto necesario para el desarrollo de la inteligencia artificial.
 
 En resumen, la inteligencia artificial se ha beneficiado del conocimiento y los avances en disciplinas como la economía, la psicología y la ingeniería computacional. Estas disciplinas han aportado conceptos, teorías y herramientas que han permitido el desarrollo de algoritmos y sistemas inteligentes.
+
+
+
+
+
+	
+--------------------------------------------------------------------------------	
+Lectura 4
+--------------------------------------------------------------------------------
+Teoría de control y cibernética (1948 ~ presente)
+	Ktesibios de Alejandría (250 a.C.) construyó la primera máquina auto controlada: un reloj de agua con un regulador que mantenía el flujo de agua circulando por él, con un ritmo constante y predecible.
+
+Historia de la IA
+	1956, durante una conferencia sobre informática teórica. John McCarthy, Marvin Minsky, Allen Newell y Herbert Simon. En la conferencia, A. Newell y H. Simon presentaron un trabajo sobre demostración automática de teoremas al que denominaron Logic Theorist.
+	
+	Charles Babbage (autor de la Máquina analítica, 1842), Kurt Gödel (teorema de incompletitud, 1930), Alan Turing (máquina universal, 1936), Norbert Wiener (cibernética, 1943) y John von Newmann (arquitectura del computador, 1950).
+	
+	Ámbitos de aplicación de la IA
+		Las aplicaciones más frecuentes de la inteligencia artificial incluyen campos como la robótica, el análisis de imágenes o el tratamiento automático de textos.
+		
+	En robótica, uno de los campos de investigación actual con mayor proyección es el del aprendizaje adaptativo, en el que un sistema robotizado explora diferentes configuraciones con el objetivo de realizar un movimiento complejo (caminar, agarrar un objeto, realizar una trayectoria, jugar al golf, etc.).
+	
+	
+	
+	
+RESUMEN IA
+	En la lectura se aborda la teoría de control y cibernética, que se desarrolló a partir de 1948 hasta la actualidad. Se mencionan ejemplos históricos de sistemas autocontrolados y retroalimentados, como el reloj de agua de Ktesibios de Alejandría, el motor de vapor de James Watt y el termostato de Cornelis Drebbel. Se destaca la figura de Norbert Wiener como un importante contribuyente al desarrollo de la teoría de control, junto con otros investigadores como Arturo Rosenblueth y Julian Bigelow.
+
+	La lectura también presenta la historia de la inteligencia artificial (IA) como disciplina de investigación. Se menciona la conferencia de Dartmouth en 1956, donde científicos como John McCarthy, Marvin Minsky, Allen Newell y Herbert Simon sentaron las bases de la IA y presentaron el Logic Theorist, considerado el primer sistema de IA de la historia. Se mencionan otros hitos en el desarrollo de la IA, como la fundación del laboratorio de IA del MIT por Minsky y McCarthy, el desarrollo de sistemas expertos en los años ochenta y el lanzamiento de Deep Blue, la computadora de ajedrez de IBM.
+
+	Se resalta que actualmente el tratamiento y análisis de datos es el objetivo principal de la inteligencia artificial. Se mencionan áreas de aplicación de la IA, como la robótica, el análisis de imágenes, el procesamiento automático de texto y el desarrollo de sistemas expertos. También se menciona el campo del aprendizaje adaptativo en la robótica, donde se busca que los robots puedan explorar y aprender movimientos complejos de manera autónoma. Además, se menciona el uso de sistemas de IA en el análisis de textos, como la traducción automática y las búsquedas inteligentes en la web.
+
+	En resumen, la lectura introduce los paradigmas de la inteligencia artificial, abordando la teoría de control y cibernética, la historia de la IA y los diferentes ámbitos de aplicación de esta disciplina.
+
+		
+		
+
+--------------------------------------------------------------------------------
+--- UNIDAD 2
+--------------------------------------------------------------------------------		
+
+Lectura 1
+--------------------------------------------------------------------------------
+Agentes y su entorno
+	Un agente es cualquier cosa capaz de percibir su medioambiente con la ayuda de sensores y actuar en ese medio utilizando actuadores
+	
+	Un agente humano tiene ojos, oídos y otros órganos sensoriales además de manos, piernas, boca y otras partes del cuerpo para actuar. El término percepción se utiliza en este contexto para indicar que el agente puede recibir entradas en cualquier instante.
+	
+	En general, un agente tomará una decisión en un momento dado dependiendo de la secuencia completa de percepciones hasta ese instante. Si se puede especificar qué decisión tomará un agente para cada una de las posibles secuencias de percepciones.
+	
+	Racionalidad
+	Un agente racional es aquel que hace lo correcto; en términos conceptuales, cada elemento de la tabla que define la función del agente, se tendría que rellenar correctamente.
+	
+	Ello, junto a la descripción del entorno y de los sensores y actuadores del agente, proporcionará una especificación completa de la tarea que desempeña el agente.
+	
+	Medidas de rendimiento
+		Las medidas de rendimiento incluyen los criterios que determinan el éxito en el comportamiento del agente. Cuando se sitúa un agente en un medio, éste genera una secuencia de acciones de acuerdo con las percepciones que recibe. Esta secuencia de acciones hace que su hábitat pase por una secuencia de estados. Si la secuencia es la deseada, entonces el agente habrá actuado correctamente. Obviamente
+		
+	Factores de la racionalidad
+		La racionalidad en un momento determinado depende de cuatro factores:
+			• La medida de rendimiento que define el criterio de éxito.
+			• El conocimiento del medio en el que habita acumulado por el agente.
+			• Las acciones que el agente puede llevar a cabo.
+			• La secuencia de percepciones del agente hasta este momento.
+			
+	Omnisciencia y aprendizaje
+		Es necesario tener cuidado al distinguir entre racionalidad y omnisciencia. Un agente omnisciente conoce el resultado de su acción y actúa de acuerdo con él; sin embargo, en realidad la omnisciencia no es posible.
+		
+		El asunto es que resulta imposible diseñar un agente que siempre lleve a cabo, de forma sucesiva, las mejores acciones después de un acontecimiento, a menos que se haya encontrado la forma de predecir el futuro (o volver en el tiempo). La definición propuesta de racionalidad no requiere omnisciencia, ya que la elección racional depende sólo de la secuencia de percepción hasta la fecha.
+		
+		Los agentes con éxito dividen las tareas de calcular la función del agente en tres períodos diferentes: cuando se está diseñando el agente, y están los diseñadores encargados de realizar algunos de estos cálculos; cuando está pensando en la siguiente operación, el agente realiza más cálculos; y cuando está aprendiendo de la experiencia, el agente lleva a cabo más cálculos para decidir cómo modificar su forma de comportarse.
+		
+	Autonomía
+		Se dice que un agente carece de autonomía cuando se apoya más en el conocimiento inicial que le proporciona su diseñador que en sus propias percepciones. Un agente racional debe ser autónomo, debe saber aprender a determinar cómo tiene que compensar el conocimiento incompleto o parcial inicial.
+		
+		proporcionar a los agentes que disponen de inteligencia artificial un conocimiento inicial, así como de la capacidad de aprendizaje. Después de las suficientes experiencias interaccionando con el entorno, el comportamiento del agente racional será efectivamente independiente del conocimiento que poseía inicialmente.
+		
+		
+	Resumen IA
+		En la lectura mencionada se aborda el tema de los agentes inteligentes y su relación con la Inteligencia Artificial. Aquí hay un resumen de los puntos clave:
+
+		Un agente es cualquier cosa que pueda percibir su entorno a través de sensores y actuar en ese entorno utilizando actuadores. Puede ser tanto un agente humano con órganos sensoriales y partes del cuerpo para actuar, como un agente robot que recibe entradas sensoriales y actúa a través de mensajes y acciones físicas.
+		La percepción de un agente se refiere a su capacidad para recibir entradas en cualquier momento, y su secuencia de percepciones refleja todo lo que ha recibido hasta el momento. La toma de decisiones de un agente se basa en la secuencia completa de percepciones hasta ese momento.
+		La función del agente describe el comportamiento de un agente y se puede presentar en forma de tabla. Esta función mapea una percepción dada a una acción que el agente debe llevar a cabo.
+		La racionalidad de un agente se refiere a su capacidad para hacer lo correcto, es decir, tomar acciones que maximicen su medida de rendimiento. La medida de rendimiento define el criterio de éxito del agente en su entorno.
+		Las medidas de rendimiento pueden variar según el agente y la tarea que desempeñe. En el ejemplo de una aspiradora robot, la medida de rendimiento puede ser el grado de limpieza, el tiempo empleado o la cantidad de batería consumida.
+		La racionalidad de un agente depende de cuatro factores: la medida de rendimiento, el conocimiento del entorno, las acciones que el agente puede llevar a cabo y la secuencia de percepciones hasta el momento.
+		La racionalidad no implica omnisciencia, es decir, un agente no necesita conocer el resultado de cada acción antes de tomarla. La racionalidad se basa en la información disponible hasta el momento.
+		La recopilación de información y el aprendizaje son aspectos importantes de la racionalidad. Un agente racional no solo recopila información, sino que también aprende y modifica su comportamiento en base a la experiencia adquirida.
+		La autonomía es otro aspecto importante de los agentes inteligentes. Un agente racional debe ser capaz de aprender y compensar el conocimiento inicial proporcionado por su diseñador para mejorar su rendimiento en el entorno.
+		
+
+
+Lectura 2
+--------------------------------------------------------------------------------
+
+
+	Naturaleza del entorno
+		Naturaleza del entorno
+			En el diseño de un agente, el primer paso debe ser siempre especificar el entorno de trabajo de la forma más completa posible. El mundo de la aspiradora fue un ejemplo simple; considérese ahora un problema más complejo: un taxista automático.
+			
+	Propiedades de los entornos de trabajo
+		
+		El rango de los entornos de trabajo en los que se utilizan técnicas de IA es obviamente muy grande. Sin embargo, se puede identificar un pequeño número de dimensiones en las que categorizar estos entornos.
+		
+		
+	Totalmente observable vs. parcialmente observable.
+		Si los sensores del agente le proporcionan acceso al estado completo del medio en cada momento, entonces se dice que el entorno de trabajo es totalmente observable. Un entorno de trabajo es, efectivamente, totalmente observable si los sensores detectan todos los aspectos que son relevantes en la toma de decisiones; la relevancia, en cada momento, depende de las medidas de rendimiento. Entornos totalmente observables son convenientes ya que el agente no necesita mantener ningún estado interno para saber qué sucede en el mundo. Un entorno puede ser parcialmente observable debido al ruido y a la existencia de sensores poco exactos o porque los sensores no reciben información de parte del sistema, por ejemplo, un taxi automatizado no puede saber qué están pensando otros conductores o el estado de otras unidades en funcionamiento.
+		
+	Determinista vs. Estocástico
+		Si el siguiente estado del medio está totalmente determinado por el estado actual y la acción ejecutada por el agente, entonces se dice que el entorno es determinista; de otra forma es estocástico. En principio, un agente no se tiene que preocupar de la incertidumbre en un medio totalmente observable y determinista. Sin embargo, si el medio es parcialmente observable entonces puede parecer estocástico. Esto es particularmente cierto si se trata de
+		
+	Episódico vs. Secuencial
+		En un entorno de trabajo episódico, la experiencia del agente se divide en episodios atómicos. Cada episodio consiste en la percepción del agente y la realización de una única acción posterior. Es muy importante tener en cuenta que el siguiente episodio no depende de las acciones que se realizaron en episodios previos. En los medios episódicos la elección de la acción en cada episodio depende sólo del episodio en sí mismo. Muchas tareas de clasificación son episódicas. Por ejemplo, un agente que tenga que seleccionar partes defectuosas en una cadena de montaje basa sus decisiones en la parte que está evaluando en cada momento, sin tener en cuenta decisiones previas; más aún, a la decisión presente no le afecta el que la próxima fase sea defectuosa. En entornos secuenciales, por otro lado, la decisión presente puede afectar a decisiones futuras. El ajedrez y el taxista son secuenciales: en ambos casos, las acciones que se realizan a corto plazo pueden tener consecuencias a largo plazo. Los medios episódicos son más simples que los secuenciales porque la gente no necesita pensar con tiempo.
+		
+		Resumen:
+			En un entorno episódico, la experiencia del agente se divide en episodios independientes, donde cada episodio consiste en la percepción y la acción realizada en ese momento. Los episodios son atómicos y no dependen de las acciones tomadas en episodios anteriores. En contraste, en un entorno secuencial, las decisiones actuales pueden afectar las decisiones futuras, y las acciones a corto plazo pueden tener consecuencias a largo plazo. Los entornos episódicos son más simples, ya que la toma de decisiones no requiere considerar el tiempo.
+
+			Explicación y ejemplos:
+
+			Entorno Episódico:
+			En un entorno de trabajo episódico, la interacción del agente se divide en episodios independientes, donde cada episodio consta de la percepción y la acción realizada en ese momento. La elección de la acción en cada episodio se basa únicamente en la información disponible en ese episodio, sin tener en cuenta las decisiones tomadas en episodios anteriores. Este tipo de entorno es común en tareas de clasificación, donde cada elemento a clasificar se considera de forma individual, sin que las decisiones anteriores afecten las decisiones posteriores.
+
+			Ejemplo: Un agente que realiza inspección de calidad en una cadena de montaje. Cada producto que pasa por el agente es evaluado individualmente en cada episodio. El agente toma decisiones basadas en las características del producto actual sin tener en cuenta los productos evaluados anteriormente. No importa si un producto anterior era defectuoso, cada producto se evalúa por sí mismo y se toma una decisión basada en su estado actual.
+
+			Entorno Secuencial:
+			En un entorno de trabajo secuencial, las decisiones tomadas en el presente pueden afectar las decisiones futuras. Las acciones a corto plazo pueden tener consecuencias a largo plazo en el entorno. Este tipo de entorno es más complejo, ya que la toma de decisiones debe considerar el flujo de acciones y las posibles ramificaciones futuras.
+
+			Ejemplo: Un jugador de ajedrez o un taxista automático. En el ajedrez, cada movimiento realizado afecta las posibles jugadas futuras y puede tener un impacto en el resultado final del juego. Las estrategias a largo plazo y las consideraciones tácticas son esenciales para tomar decisiones efectivas. En el caso del taxista automático, las acciones tomadas en un momento dado pueden influir en la ruta y en las interacciones con otros vehículos, lo que a su vez puede afectar el tiempo de llegada al destino y la satisfacción del pasajero.
+
+			En resumen, la diferencia entre los entornos episódicos y secuenciales radica en si las acciones tomadas en un momento dado afectan las decisiones futuras. En un entorno episódico, cada episodio es independiente y las decisiones se toman solo en función de la información presente. En un entorno secuencial, las acciones actuales tienen implicaciones en el futuro y se deben considerar las consecuencias a largo plazo.
+			
+	Estático vs. Dinámico
+		Si el entorno puede cambiar cuando el agente está deliberando, entonces se dice que el entorno es dinámico para el agente; de otra forma se dice que es estático. Los medios estáticos son fáciles de tratar ya que el agente no necesita estar pendiente del mundo mientras está tomando una decisión sobre una acción, ni necesita preocuparse sobre el paso del tiempo. Los medios dinámicos, por el contrario, están preguntando continuamente al agente qué quiere hacer; si no se ha decidido aún, entonces se entiende que ha tomado la decisión de no hacer nada. Si el entorno no cambia con el paso del tiempo, pero el rendimiento del agente cambia, entonces se dice que el medio es semidinámico. El taxista es claramente dinámico: tanto los otros coches como el taxi se están moviendo mientras el algoritmo que guía la conducción indica qué es lo próximo a hacer. El ajedrez, cuando se juega con un reloj, es semidinámico. Los crucigramas son estáticos.
+		 
+		Resumen:
+			En un entorno estático, el entorno no cambia mientras el agente toma decisiones, lo que facilita su manejo ya que no necesita estar pendiente del mundo ni preocuparse por el paso del tiempo. En un entorno dinámico, el entorno puede cambiar mientras el agente está deliberando, lo que requiere que el agente esté continuamente consciente de los cambios y tome decisiones en consecuencia. En un entorno semidinámico, el entorno no cambia con el tiempo, pero el rendimiento del agente puede verse afectado.
+
+			Explicación y ejemplos:
+
+			Entorno Estático:
+			En un entorno estático, el entorno no cambia mientras el agente toma decisiones. El agente puede tomar su tiempo para deliberar sobre la mejor acción sin preocuparse por los cambios en el entorno durante ese proceso. Este tipo de entorno es más simple de manejar, ya que el agente no necesita estar pendiente del mundo exterior ni considerar el paso del tiempo.
+
+			Ejemplo: Resolver un crucigrama. El crucigrama se presenta estático, sin cambios en las pistas o en la distribución de las palabras a medida que el agente resuelve. El agente puede trabajar en él sin preocuparse de que las condiciones cambien mientras toma decisiones sobre las palabras que encajan.
+
+			Entorno Dinámico:
+			En un entorno dinámico, el entorno puede cambiar mientras el agente está deliberando. El agente debe estar continuamente consciente de los cambios en el entorno y adaptar sus decisiones en consecuencia. Esto requiere una mayor atención y capacidad de respuesta por parte del agente.
+
+			Ejemplo: Conducir un taxi en una ciudad congestionada. El entorno es dinámico ya que tanto los otros autos en la carretera como el propio taxi están en constante movimiento. El agente debe estar atento a los cambios en el tráfico, las señales de tránsito y los movimientos de los peatones, y tomar decisiones en tiempo real para navegar de manera segura y eficiente.
+
+			Entorno Semidinámico:
+			En un entorno semidinámico, el entorno no cambia con el tiempo, pero el rendimiento del agente puede verse afectado. Esto significa que el entorno es estático, pero el agente puede tener restricciones de tiempo o algún tipo de limitación que afecte su rendimiento.
+
+			Ejemplo: Jugar ajedrez con un reloj. El tablero de ajedrez en sí mismo es estático, pero el factor de tiempo impone un componente semidinámico. Cada jugador tiene un tiempo limitado para tomar sus movimientos, lo que puede afectar su rendimiento y la calidad de sus decisiones. El agente debe considerar el factor de tiempo en su estrategia y adaptar su juego en consecuencia.
+
+			En resumen, la diferencia entre los entornos estáticos, dinámicos y semidinámicos radica en si el entorno cambia mientras el agente toma decisiones y si el rendimiento del agente se ve afectado por el paso del tiempo o algún otro factor. En un entorno estático, el entorno no cambia y el agente no tiene limitaciones temporales. En un entorno dinámico, el entorno puede cambiar y el agente debe adaptarse en tiempo real. En un entorno semidinámico, el entorno no cambia, pero el rend
+	
+RESUMEN IA
+		
+	En esta lectura, se aborda el tema de los entornos de trabajo en el contexto de la construcción de agentes racionales en inteligencia artificial. Se presenta el ejemplo de un taxista automático como un problema más complejo en comparación con el ejemplo anterior de una aspiradora automatizada.
+
+	El entorno de trabajo del taxista automático se describe utilizando la tabla REAS, que especifica el tipo de agente, las medidas de rendimiento, el entorno, los actuadores y los sensores. Las medidas de rendimiento para el taxista automático incluyen la seguridad, velocidad, confort, maximización del beneficio, minimización del consumo de combustible, minimización del tiempo de viaje y/o coste, minimización de infracciones de tráfico y molestias a otros conductores, maximización de la seguridad, comodidad del pasajero y beneficio.
+
+	El entorno en el que se encuentra el taxi puede variar ampliamente, desde carreteras urbanas hasta autopistas de 12 carriles, con diferentes condiciones climáticas y factores ambientales. El taxi debe interactuar con el tráfico, peatones, clientes y otros elementos del entorno. Además, existen elecciones opcionales, como la ubicación geográfica del taxi y las normas de conducción (conducción por la derecha o por la izquierda).
+
+	Los actuadores disponibles para el taxi automático son similares a los de un conductor humano, como el control del motor, la dirección, los frenos, las luces y la bocina. También se requieren dispositivos de comunicación con los pasajeros y otros vehículos.
+
+	En cuanto a los sensores, el taxi automático necesita cámaras, sensores de distancia (sonar), velocímetro, GPS, tacómetro, sensores del motor y un teclado o micrófono para recibir instrucciones de los pasajeros.
+
+	Se mencionan algunas propiedades de los entornos de trabajo en la IA. Estas propiedades incluyen la observabilidad total o parcial del entorno, la naturaleza determinista o estocástica del entorno, la presencia de estrategias por parte de otros agentes, la naturaleza episódica o secuencial del entorno, y si el entorno es estático, dinámico o semidinámico.
+
+	En resumen, esta lectura proporciona una visión general del entorno de trabajo del taxista automático y explora las propiedades de los entornos de trabajo en la IA. Estas consideraciones son importantes para el diseño y la implementación de agentes racionales en diversos contextos.
+	
+Lectura 3
+--------------------------------------------------------------------------------
+
+	Discreto vs. continuo
+		La distinción entre discreto y continuo se puede aplicar al estado del medio, a la forma en la que se maneja el tiempo y a las percepciones y acciones del agente. Por ejemplo, un medio con estados discretos como el del juego del ajedrez tiene un número finito (pero grande) de estados distintos. El ajedrez tiene un conjunto discreto de percepciones y acciones. El taxista conduciendo define un estado continuo y un problema de tiempo continuo: la velocidad y la ubicación del taxi y de los otros vehículos pasan por un rango de valores continuos de forma suave a lo largo del tiempo. La conducción del taxista es también continua (ángulo de dirección, etc.). Las imágenes captadas por cámaras digitales son discretas, en sentido estricto, pero se tratan típicamente como representaciones continuas de localizaciones e intensidades variables.
+	
+	Agente individual vs. Multiagente
+		La distinción entre el entorno de un agente individual y el de un sistema multiagente puede parecer suficientemente simple. Por ejemplo, un agente resolviendo un crucigrama por sí mismo está claramente en un entorno de agente individual, mientras que un agente que juega al ajedrez está en un entorno con dos agentes.
+	
+	Estructura de los agentes: programas
+		El trabajo de la IA es diseñar el programa del agente que implemente la función del agente que proyecta las percepciones en las acciones. Se asume que este programa se ejecutará en algún tipo de computador con sensores físicos y actuadores, lo cual se conoce como arquitectura:
+	
+		Agente = arquitectura + programa
+		
+		En general, la arquitectura hace que las percepciones de los sensores estén disponibles para el programa, ejecuta los programas, y se encarga de que los actuadores pongan en marcha las acciones generadas.
+		
+	Programas
+		Los programas de los agentes reciben las percepciones actuales como entradas de los sensores y devuelven una acción a los actuadores. Hay que tener en cuenta la diferencia entre los programas de los agentes, que toman la percepción actual como entrada, y la función del agente, que recibe la percepción histórica completa. Los programas de los agentes reciben sólo la percepción actual como entrada porque no hay nada más disponible en el entorno; si las acciones del agente dependen de la secuencia completa de percepciones, el agente tendría que recordar las percepciones.
+
+		Los programas en el contexto de los agentes se refieren a la parte del agente que recibe las percepciones actuales y genera acciones correspondientes.
+		
+		Los actuadores son los componentes del agente que ejecutan las acciones determinadas por el programa. Son responsables de interactuar con el entorno y llevar a cabo las acciones físicas o efectivas.
+
+		Resumen
+			Los programas en el contexto de los agentes se refieren a la parte del agente que recibe las percepciones actuales y genera acciones correspondientes. Estos programas toman las percepciones del entorno a través de los sensores y utilizan esa información para decidir qué acciones tomar. Es importante destacar que los programas de los agentes solo consideran la percepción actual como entrada, no tienen acceso a la percepción histórica. Esto se debe a que en muchos entornos solo se dispone de la información actual, y si las acciones del agente dependieran de la secuencia completa de percepciones, el agente tendría que recordar todas las percepciones anteriores, lo cual puede ser ineficiente o innecesario.
+
+			Los actuadores son los componentes del agente que ejecutan las acciones determinadas por el programa. Son responsables de interactuar con el entorno y llevar a cabo las acciones físicas o efectivas. Los actuadores pueden ser diversos, dependiendo del tipo de agente y del entorno en el que opera. Por ejemplo, en el caso de un agente robótico, los actuadores pueden ser motores que controlan el movimiento de las extremidades del robot. En un agente virtual, los actuadores pueden ser funciones de software que interactúan con una interfaz de usuario.
+
+			En resumen, los programas de los agentes son componentes que reciben las percepciones actuales como entrada y generan acciones correspondientes. Estos programas se ejecutan en el agente y utilizan la información actual del entorno para decidir cómo interactuar con él. Por otro lado, los actuadores son los elementos físicos o funcionales del agente que ejecutan las acciones determinadas por el programa, permitiendo la interacción con el entorno.
+
+			Ejemplo: Imagina un agente aspirador robótico que limpia una habitación. El programa de este agente recibiría las percepciones actuales a través de sus sensores, que podrían ser cámaras o sensores de proximidad. Basado en la información actual, como la ubicación de la suciedad o los obstáculos, el programa del agente tomaría decisiones sobre cómo moverse y qué acciones realizar. Por ejemplo, si el sensor detecta suciedad en una determinada posición, el programa podría enviar una señal a los actuadores para que el robot se mueva hacia esa posición y active un cepillo para limpiar la suciedad. En este caso, el programa del agente recibiría la percepción actual de la ubicación de la suciedad y generaría la acción correspondiente para que los actuadores ejecuten la limpieza.
+			
+	Tipos de agente
+		Agentes reactivos simples
+			El tipo de agente más sencillo es el agente reactivo simple. Estos agentes seleccionan las acciones sobre la base de las percepciones actuales, ignorando el resto de las percepciones históricas.
+			Imagínese que es el conductor del taxi automático. Si el coche que circula delante frena, y las luces de freno se encienden, entonces lo advertiría y comenzaría a frenar. En
+			
+			
+		       +-------------------+
+               | AGENTE-REACTIVO-  |
+               |     SIMPLE        |
+               +-------------------+
+               |                   |
+               |  +-------------+  |
+Percepción --> |  | INTERPRETAR |  |
+               |  |   ENTRADA   |  |
+               |  +-------------+  |
+               |        |          |
+               |        V          |
+               |  +-------------+  |
+               |  | REGLA-       |  |
+               |  | COINCIDENCIA|  |
+               |  +-------------+  |
+               |        |          |
+               |        V          |
+               |  +-------------+  |
+               |  | REGLA-ACCIÓN |  |
+               |  +-------------+  |
+               |        |          |
+               |        V          |
+               |     ACCIÓN        |
+               +-------------------+
+			   
+		En este diagrama, se representa la estructura y el flujo de un agente reactivo simple. Aquí está la explicación de cada parte:
+
+			Percepción: Es la entrada de información que el agente recibe del entorno, como datos sensoriales o información del estado actual.
+
+			INTERPRETAR ENTRADA: Esta función se encarga de procesar la percepción actual y traducirla a un formato comprensible para el agente. Puede involucrar el análisis de datos, extracción de características o cualquier otra transformación necesaria.
+
+			REGLA-COINCIDENCIA: En esta etapa, se comparan las descripciones del estado actual (obtenidas del resultado de la función INTERPRETAR ENTRADA) con las reglas definidas en el conjunto de reglas condición-acción. Se busca una coincidencia entre el estado actual y una regla.
+
+			REGLA-ACCIÓN: Si se encuentra una coincidencia entre el estado actual y una regla, esta función se encarga de determinar la acción correspondiente asociada a esa regla. La acción puede ser un comando específico o una serie de instrucciones para llevar a cabo una acción en respuesta al estado.
+
+			ACCIÓN: Es la salida del agente, que representa la acción que se tomará en respuesta a la percepción actual. Puede ser un comando enviado a los actuadores o cualquier otra forma de respuesta al entorno.
+
+	
+RESUMEN IA
+	En la lectura 3 se aborda la naturaleza de los entornos de trabajo en la inteligencia artificial. Se menciona la distinción entre entornos discretos y continuos, que puede aplicarse al estado del medio, al manejo del tiempo, a las percepciones y acciones del agente. Por ejemplo, el ajedrez es un juego con un medio de estados discretos y un conjunto discreto de percepciones y acciones, mientras que la conducción de un taxi implica un medio con un estado continuo y un problema de tiempo continuo.
+
+	Además, se discute la diferencia entre un entorno de agente individual y un entorno multiagente. Se plantea la pregunta de qué entidades deben considerarse agentes y se destaca que la distinción clave radica en si el comportamiento de una entidad está mejor descrito por la maximización de una medida de rendimiento que depende del comportamiento de otra entidad. Por ejemplo, en el ajedrez, el oponente intenta maximizar su medida de rendimiento, lo cual minimiza la medida de rendimiento del agente. Por lo tanto, el ajedrez se considera un entorno multiagente competitivo. En contraste, en un entorno de conducción de taxis, evitar colisiones maximiza la medida de rendimiento de todos los agentes, lo que lo convierte en un entorno multiagente parcialmente cooperativo y parcialmente competitivo.
+
+	Se menciona que los entornos más complejos son aquellos que son parcialmente observables, estocásticos, secuenciales, dinámicos, continuos y multiagente. En la práctica, la mayoría de las situaciones reales se consideran estocásticas debido a su complejidad.
+
+	Luego se habla sobre la estructura de los agentes y cómo trabajan internamente. Se menciona que el programa de un agente es el encargado de tomar las percepciones actuales como entrada y generar una acción para los actuadores. La arquitectura del agente se refiere al entorno en el que se ejecuta el programa y proporciona acceso a los sensores y actuadores.
+
+	Se describen los agentes reactivos simples como el tipo más sencillo de agente, que selecciona acciones basadas únicamente en las percepciones actuales y no tiene en cuenta las percepciones históricas. Se utiliza un ejemplo de un conductor de taxi automático para ilustrar cómo un agente reactivo simple tomaría decisiones basadas en las percepciones actuales y reglas de condición-acción. Sin embargo, se señala que los agentes reactivos simples tienen una inteligencia limitada y pueden enfrentar problemas en entornos parcialmente observables.
+
+	También se menciona que los bucles infinitos son comunes en agentes reactivos simples en entornos parcialmente observables, pero se pueden evitar si los agentes pueden seleccionar acciones de manera aleatoria. Se destaca que el comportamiento aleatorio puede ser racional en algunos entornos multiagente, pero en entornos de agente individual, generalmente se obtienen mejores resultados con agentes deterministas más sofisticados.
+
+	En resumen, la lectura 3 aborda la naturaleza de los entornos de trabajo en la inteligencia artificial, incluyendo la distinción entre entornos discretos y continuos, y entre entornos de agente individual y multiagente. También se explora la estructura de los agentes y se present
+	
+		  +-----------------------+
+		  |                       |
+		  |        Sensores       |
+		  |                       |
+		  +-----------+-----------+
+					  |
+					  |
+					  V
+		  +-----------------------+
+		  |                       |
+		  |        Agente         |
+		  |                       |
+		  +-----------+-----------+
+					  |
+					  |
+					  V
+		  +-----------------------+
+		  |                       |
+		  |       Actuadores      |
+		  |                       |
+		  +-----------------------+
+	
+	
+
+Lectura 4
+--------------------------------------------------------------------------------
+	En este punto abordaremos sobre la estructura de los agentes, las acciones a realizar, programas a implementar, de igual modo como estos se dividen en diferentes tipos en los que podemos nombrar a los: Agentes reactivos simples, Agente basado en objetivos, Agentes basados en utilidad, Agentes que aprenden.
+
+	Tipos y Estructuras de Agentes.
+		Agente basado en objetivos
+			Hay que tener en cuenta que la toma de decisiones de este tipo es fundamentalmente diferente de las reglas de condición–acción descritas anteriormente, en las que hay que tener en cuenta consideraciones sobre el futuro (como «¿qué pasará si yo hago esto y esto?» y «¿me hará esto feliz?»).
+			
+			+----------------------------------+
+			|           Agente                 |
+			|----------------------------------|
+			|                                  |
+			|   +--------------------------+   |
+			|   |     Programa del Agente |   |
+			|   +--------------------------+   |
+			|                                  |
+			|   +--------------------------+   |
+			|   |     Estado Actual       |   |
+			|   +--------------------------+   |
+			|                                  |
+			|   +--------------------------+   |
+			|   |     Objetivo            |   |
+			|   +--------------------------+   |
+			|                                  |
+			|   +--------------------------+   |
+			|   |     Acciones Posibles   |   |
+			|   +--------------------------+   |
+			|                                  |
+			|   +--------------------------+   |
+			|   |     Evaluación de Acciones   |
+			|   +--------------------------+   |
+			|                                  |
+			+----------------------------------+
+			
+			Programa del Agente: Es el conjunto de reglas y conocimiento que guía las decisiones y acciones del agente. El programa tiene en cuenta el estado actual, el objetivo y la evaluación de las acciones posibles para determinar qué acciones tomar.
+
+			Estado Actual: Representa la descripción del entorno o situación en la que se encuentra el agente en un momento dado. Proporciona información sobre las condiciones actuales del entorno, como la posición, el estado de otros objetos, etc.
+
+			Objetivo: Describe la meta o el resultado deseado que el agente intenta lograr. Proporciona información sobre la situación deseada en la que el agente quiere encontrarse.
+
+			Acciones Posibles: Son las acciones que el agente puede realizar en respuesta a su estado actual. Estas acciones se seleccionan en función del objetivo y se evalúan para determinar su utilidad o eficacia en la consecución del objetivo.
+
+			Evaluación de Acciones: Es el proceso de evaluar las acciones posibles en función de su capacidad para acercar al agente a su objetivo. Se utilizan criterios de evaluación, como la eficiencia, la seguridad, la fiabilidad, etc., para determinar qué acciones son más adecuadas para alcanzar el objetivo.
+
+			          +----------------------+
+                      |     Percepciones     |
+                      +----------------------+
+                                |
+                                v
+                      +----------------------+
+                      |     Agente basado    |
+                      |     en objetivos     |
+                      +----------------------+
+                                |
+                                v
+                      +----------------------+
+                      |       Metas          |
+                      +----------------------+
+                                |
+                                v
+            +---------------------------------------+
+            |       Programa del Agente             |
+            +---------------------------------------+
+                   |                   |
+                   v                   v
+    +----------------------+  +----------------------+
+    |   Acciones Posibles  |  |    Resultados de     |
+    |                      |  |    las Acciones     |
+    +----------------------+  +----------------------+
+                   |                   |
+                   v                   v
+    +----------------------+  +----------------------+
+    |   Selección de       |  |    Actualización     |
+    |   Acciones           |  |    del Estado        |
+    +----------------------+  +----------------------+
+
+	Agentes basados en utilidad
+		La definición completa de una función de utilidad permite tomar decisiones racionales en dos tipos de casos en los que las metas son inadecuadas. Primero, cuando haya objetivos conflictivos, y sólo se puedan alcanzar algunos de ellos (por ejemplo, velocidad y seguridad), la función de utilidad determina el equilibrio adecuado. Segundo, cuando haya varios objetivos por los que se pueda guiar el agente, y ninguno de ellos se pueda alcanzar con certeza, la utilidad proporciona un mecanismo para ponderar la probabilidad de éxito en función de la importancia de los objetivos.
+		
+	Agentes que aprenden
+	
+		Los agentes que aprenden son capaces de adquirir conocimiento y mejorar su desempeño a través de la experiencia. 
+		
+		
+		Elemento de actuación: Es responsable de recibir estímulos del entorno y seleccionar acciones externas en función de esos estímulos. Este componente se encarga de la toma de decisiones y ejecución de acciones.
+
+		Elemento de aprendizaje: Recibe críticas o retroalimentación sobre la actuación del agente y determina cómo modificar el elemento de actuación para mejorar los resultados en el futuro. Este componente es responsable de realizar mejoras y ajustes en el agente.
+
+		Crítica: Proporciona información al elemento de aprendizaje sobre el desempeño del agente con respecto a un nivel de actuación fijo. La crítica es necesaria porque las percepciones por sí solas no indican el éxito del agente. Por ejemplo, en un programa de ajedrez, la crítica puede indicar si un movimiento fue bueno o malo en términos de ganar o perder el juego.
+
+		Generador de problemas: Sugerirá acciones exploratorias al agente para que este pueda descubrir acciones mejores a largo plazo. Es similar a la idea de llevar a cabo experimentos para obtener información nueva e informativa. Por ejemplo, un agente de conducción autónoma podría probar diferentes superficies de carretera y condiciones para mejorar su desempeño.
+		
+		Aprendizaje supervisado: El agente recibe un conjunto de ejemplos etiquetados, donde se le indica cuál es la acción correcta para cada situación. Utiliza estos ejemplos para aprender un modelo o función que le permita tomar decisiones acertadas en situaciones similares en el futuro.
+
+		Aprendizaje no supervisado: El agente recibe datos sin etiquetas y su objetivo es encontrar patrones o estructuras ocultas en los datos. A través de técnicas como el agrupamiento o la reducción de dimensionalidad, el agente puede descubrir información útil o características relevantes del entorno.
+
+		Aprendizaje por refuerzo: El agente aprende mediante la interacción con un entorno y la retroalimentación en forma de recompensas o castigos. A medida que el agente toma acciones, recibe una señal de recompensa que indica cuán bueno o malo fue su desempeño. Utilizando algoritmos de aprendizaje por refuerzo, el agente ajusta su comportamiento para maximizar las recompensas a largo plazo.
+		
+		  +-----------------------+
+		  |                       |
+		  |        Sensores       |
+		  |                       |
+		  +-----------+-----------+
+					  |
+					  |
+					  V
+		  +-----------------------+
+		  |                       |
+		  |        Agente         |
+		  |                       |
+		  +-----------+-----------+
+					  |
+					  |
+					  V
+		  +-----------------------+
+		  |                       |
+		  |   Técnica de Aprendizaje  |
+		  |                       |
+		  +-----------+-----------+
+					  |
+					  |
+					  V
+		  +-----------------------+
+		  |                       |
+		  |      Conocimiento     |
+		  |       Adquirido       |
+		  +-----------------------+
+					  |
+					  |
+					  V
+		  +-----------------------+
+		  |                       |
+		  |       Actuadores      |
+		  |                       |
+		  +-----------------------+
+
+
+
+En resumen, los agentes tienen una gran variedad de componentes, y estos componentes se pueden representar de muchas formas en los programas de agentes, por lo que, parece haber una gran variedad de métodos de aprendizaje. Existe, sin embargo, una visión unificada sobre un tema fundamental. El aprendizaje en el campo de los agentes inteligentes puede definirse como el proceso de modificación de cada componente del agente, lo cual permite a cada componente comportarse más en consonancia con la información que se recibe, lo que por tanto permite mejorar el nivel medio de actuación del agente.
+
+RESUMEN IA
+
+	El texto proporciona información sobre los diferentes tipos y estructuras de agentes en el campo de la Inteligencia Artificial. A continuación, se proporciona un diagrama que ilustra las partes y componentes de un agente que aprende.
+
+	lua
+	Copy code
+			   +-------------------+
+			   |                   |
+			   |  Elemento de      |
+			   |  Actuación        |
+			   |                   |
+			   +---------^---------+
+						 |
+						 | Acciones
+						 |
+						 |
+	+--------------------|--------------------+
+	|                    |                    |
+	|                    |                    |
+	|                    |                    |
+	|    Elemento de     |    Elemento de     |
+	|    Crítica         |    Aprendizaje     |
+	|                    |                    |
+	|                    |                    |
+	+---------|----------+----------^---------+
+			  |                     |
+			  |                     |
+			  | Retroalimentación   | Mejoras
+			  | de la actuación     | del agente
+			  |                     |
+			  |                     |
+			  |                     |
+	+---------v----------+----------v---------+
+	|                    |                    |
+	|  Entorno           |   Generador de     |
+	|                    |   Problemas        |
+	|                    |                    |
+	+--------------------|--------------------+
+						 |
+						 |
+						 |
+			+------------|------------+
+			|            |            |
+			|            |            |
+			|            |            |
+			|            |            |
+			v            v            v
+	Elemento de Actuación: Es responsable de seleccionar las acciones externas del agente en respuesta a las percepciones del entorno.
+	Elemento de Crítica: Proporciona retroalimentación sobre la actuación del agente, evaluando qué tan bien se está desempeñando en relación con un nivel de actuación fijo.
+	Elemento de Aprendizaje: Se encarga de mejorar el elemento de actuación en base a la retroalimentación recibida, modificando su funcionamiento para proporcionar mejores resultados en el futuro.
+	Entorno: Representa el mundo o el entorno en el que el agente opera y del cual recibe percepciones.
+	Generador de Problemas: Sugiere acciones que permiten al agente explorar y adquirir nuevas experiencias informativas.
+	El diagrama muestra la interacción entre estos componentes en un agente que aprende. El elemento de actuación selecciona acciones basándose en las percepciones del entorno. La crítica evalúa la actuación del agente y proporciona retroalimentación al elemento de aprendizaje. A su vez, el elemento de aprendizaje modifica el elemento de actuación para mejorar el rendimiento del agente en base a la retroalimentación recibida. El generador de problemas sugiere acciones exploratorias para adquirir información nueva y mejorar el conocimiento del agente.
+
+	En resumen, el agente aprende modificando sus componentes para comportarse más acorde con la retroalimentación recibida, lo que lleva a un mejor desempeño en general.
+	
+
+EXAMEN
+	
+	La racionalidad en un momento determinado depende de 4 factores.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+
+--------------
+
+Cuando un agente se apoya más en el conocimiento inicial que le proporciona su diseñador que en sus propias percepciones, decimos que carece de:
+Grupo de opciones de respuesta
+
+Orden
+
+Programas
+
+Autonomía
+
+Unión
+
+LinkedList
+
+ChatGPT
+Autonomía. Cuando un agente se apoya más en el conocimiento inicial proporcionado por su diseñador que en sus propias percepciones, se dice que carece de autonomía. La autonomía se refiere a la capacidad del agente para tomar decisiones y realizar acciones basadas en su propia percepción del entorno y en su propio procesamiento de la información, en lugar de depender únicamente del conocimiento predefinido..
+
+---------------
+
+
+Un agente es cualquier cosa capaz de percibir su:
+Grupo de opciones de respuesta
+
+Signo
+
+Cola
+
+Medioambiente
+
+Memoria
+
+Pila
+
+ChatGPT
+Medioambiente. Un agente es cualquier cosa capaz de percibir su entorno. El entorno es el contexto en el que el agente existe y en el que interactúa, y puede consistir en diversos elementos, como objetos físicos, personas, señales, eventos, etc. El agente utiliza sus sensores para percibir y recibir información del entorno, lo que le permite tomar decisiones y realizar acciones en consecuencia.
+
+
+-----------------------
+
+La omnisciencia realmente no es posible en un agente.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+
+Verdadero. La omnisciencia, que se refiere a tener un conocimiento completo y total de todas las situaciones y eventos, no es posible en un agente real. Los agentes están limitados por la información que pueden percibir a través de sus sensores y por su capacidad para procesar y comprender esa información. Incluso con tecnologías avanzadas, los agentes tienen restricciones en términos de percepción y procesamiento de información, lo que impide que sean omniscientes. Por lo tanto, la afirmación de que la omnisciencia no es posible en un agente es verdadera.
+
+
+-------------------------
+
+El entorno de trabajo de un agente se compone de cuatro elementos, conocidos por el acrónimo:
+Grupo de opciones de respuesta
+
+SORT
+
+LIFO
+
+SOAR
+
+REAS
+
+FIFO
+
+Respuesta correcta 
+REAS
+
+
+------------------------
+
+El historial completo de lo que el agente ha recibido por sus sensores se conoce como:
+Grupo de opciones de respuesta
+
+Secuencia de percepciones 
+Ultrapercepción
+Método
+Array de percepciones
+Pila
+
+respuesta
+Secuencia de percepciones.
+-------------------------------
+
+La función del agente es una:
+Grupo de opciones de respuesta
+
+Elemento del entorno
+
+Implementación completa de ejecución
+
+Quíntupla
+
+Descripción matemática abstracta
+
+Combinación de sensores
+
+
+respuesta
+Quíntupla
+
+Función del agente. Unidad II, Lectura 1, p.5
+
+
+--------------------------
+En un entorno estático, el mismo puede cambiar durante la deliberación del agente.
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+
+Falso. En un entorno estático, no hay cambios durante la deliberación del agente.
+
+
+------------------------------------------
+Un entorno de trabajo en el que la experiencia del agente se divide en episodios atómicos es de tipo:
+Grupo de opciones de respuesta
+
+Monoagente
+
+Lineal
+
+Secuencial
+
+Episódico
+
+Determinista
+
+Episódico. En un entorno de trabajo episódico, la experiencia del agente se divide en episodios atómicos o discretos. Cada episodio representa una interacción completa entre el agente y el entorno, y el agente toma decisiones basadas en la información disponible dentro de cada episodio sin tener en cuenta los episodios anteriores o futuros.
+
+----------------------------------------------
+
+El tipo de agente más sencillo es el agente basado en objetivos
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso. El tipo de agente más sencillo es el agente reactivo simple. El agente basado en objetivos es un tipo de agente más complejo, que tiene la capacidad de establecer metas y realizar acciones en función de esas metas. A diferencia del agente reactivo simple, el agente basado en objetivos tiene una representación interna del estado objetivo y utiliza esa información para guiar su comportamiento.
+
+--------------------------
+Los programas de los agentes reciben las percepciones actuales como entradas de los:
+Grupo de opciones de respuesta
+
+Focos de producción
+
+Funciones
+
+Puntos de rendimiento
+
+Sensores
+
+Actuadores
+
+ChatGPT
+Los programas de los agentes reciben las percepciones actuales como entradas de los sensores. Los sensores son los componentes del agente que captan información del entorno y la convierten en datos que el programa del agente puede utilizar para tomar decisiones y realizar acciones. Por lo tanto, los programas de los agentes utilizan las percepciones proporcionadas por los sensores como entrada para procesar y generar respuestas adecuadas.
+
+------------------------------
+En un entorno secuencial, la decisión de un agente:
+Grupo de opciones de respuesta
+
+Puede afectar a las decisiones futuras
+
+Puede afectar a otros agentes terceros
+
+No influye en el proceso del algoritmo
+
+No puede afectar a decisiones futuras
+
+Se divide en episodios
+
+ChatGPT
+En un entorno secuencial, la decisión de un agente puede afectar a las decisiones futuras. En este tipo de entorno, las acciones tomadas por el agente en un momento dado pueden tener consecuencias y repercusiones en el futuro. Esto significa que las decisiones del agente pueden influir en su propio estado y en el estado del entorno, lo que a su vez puede influir en las decisiones que tomará en momentos posteriores. Por lo tanto, en un entorno secuencial, las decisiones de un agente tienen la capacidad de afectar las decisiones y resultados futuros.
+
+----------------------
+
+El ajedrez es un ejemplo de medio con estados discretos.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. El ajedrez es un ejemplo de un medio con estados discretos. En el ajedrez, el tablero está compuesto por casillas discretas que representan las posiciones de las piezas. Cada casilla puede tener un estado discreto, ya sea ocupada por una pieza o vacía. Además, las acciones que se pueden tomar en el ajedrez, como mover una pieza de una casilla a otra, también son discretas. El juego progresa de manera discreta de un estado a otro, y cada estado tiene un conjunto finito de posibles acciones y resultados. Por lo tanto, el ajedrez se considera un medio con estados discretos.
+
+
+------------------------
+
+Los sub campos de la IA centrados en encontrar secuencias de acciones que permiten a los agentes alcanzar metas son:
+Grupo de opciones de respuesta
+
+Getter y setter
+
+Búsqueda y planificación
+
+Sensación y acción
+
+Reacción y contención
+
+Pila y cola
+
+ChatGPT
+Búsqueda y planificación.
+
+----------------------------
+
+Si el medio es determinista, pero excepto para las acciones de otros agentes, se dice que el medio es:
+Grupo de opciones de respuesta
+
+Episódico
+
+Multiagente
+
+Totalmente observable
+
+Estratégico
+
+Lineal
+ 
+
+ChatGPT
+estocastico
+
+
+------------------------------
+
+El elemento de crítica en un agente que aprende provee información al nivel de actuación.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero.
+
+
+--------------------------------
+
+En el agente que aprende, el nivel de actuación se informa por medio del elemento de crítica.
+Grupo de opciones de respuestag
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero
+
+
+-----------------
+
+El generador de problemas es un elemento presente en el agente reactivo simple.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso
+
+
+
+
+------------------------
+
+Los agentes reactivos simples seleccionan acciones sobre la base de sus percepciones actuales, ignorando el resto del historial de percepciones.
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero
+
+
+--------------------------------------------------------------------------------
+--- UNIDAD 3
+--------------------------------------------------------------------------------		
+
+Lectura 1
+--------------------------------------------------------------------------------
+	
+	Este módulo describe una clase de agente basado en objetivos llamado agente resolvente-problemas. Los agentes resolventes-problemas deciden qué hacer para encontrar secuencias de acciones que conduzcan a los estados deseables. Comenzamos definiendo con precisión los elementos que constituyen el «problema» y su «solución», y daremos diferentes ejemplos para ilustrar estas definiciones.
+	
+	Agente resolvente-problemas
+		Se supone que los agentes inteligentes deben maximizar su medida de rendimiento. Esto puede simplificarse algunas veces si el agente puede elegir un objetivo y trata de satisfacerlo.
+		
+		El primer paso para solucionar un problema es la formulación del objetivo, basado en la situación actual y la medida de rendimiento del agente.
+			Consideraremos un objetivo como un conjunto de estados del mundo (exactamente aquellos estados que satisfacen el objetivo). La tarea del agente es encontrar qué secuencia de acciones permite obtener un estado objetivo. Para esto, necesitamos decidir qué acciones y estados considerar.
+			
+		Un algoritmo de búsqueda toma como entrada un problema y devuelve una solución de la forma secuencia de acciones. Una vez que encontramos una solución, se procede a ejecutar las acciones que ésta recomienda. Esta es la llamada fase de ejecución.
+		
+			Un sencillo agente resolvente de problemas. Primero formula un objetivo y un problema, busca una secuencia de acciones que deberían resolver el problema, y entonces ejecuta las acciones una cada vez. Cuando se ha completado, formula otro objetivo y comienza de nuevo. Notemos que cuando se ejecuta la secuencia, se ignoran sus percepciones: se supone que la solución encontrada trabajará bien.
+			
+	Problemas y soluciones bien definidos
+		Un problema puede definirse, formalmente, por cuatro componentes:
+		- El estado inicial en el que comienza el agente. Por ejemplo, el estado inicial para nuestro agente en Rumanía se describe como En(Arad).
+		- Una descripción de las posibles acciones disponibles por el agente. La formulación más común utiliza una función sucesora. Dado un estado particular x, SUCESOR- FN(x) devuelve un conjunto de pares ordenados (acción, sucesor), donde cada acción es una de las acciones legales en el estado x y cada sucesor es un estado que puede alcanzarse desde x, aplicando la acción. Por ejemplo, desde el estado En(Arad), la función sucesora para el problema de Rumanía devolverá:
+	
+	Para encontrar una solución al problema de viajar desde Arad a Bucarest en Rumanía, puedes utilizar algoritmos de búsqueda como el algoritmo de búsqueda en anchura (BFS) o el algoritmo de búsqueda en profundidad (DFS). Estos algoritmos explorarán el espacio de estados en busca de una secuencia de acciones que conduzca al objetivo deseado.
+
+		Aquí te presento una posible implementación del algoritmo de búsqueda en anchura (BFS) para encontrar una solución al problema:
+
+		Define el problema: El problema consiste en viajar desde Arad a Bucarest en Rumanía, considerando las ciudades intermedias y las conexiones entre ellas.
+
+		Inicializa una cola para el algoritmo BFS y agrega el estado inicial, que es estar en Arad, a la cola.
+
+		Inicializa un conjunto para almacenar los estados visitados y agrega el estado inicial a este conjunto.
+
+		Mientras la cola no esté vacía, realiza los siguientes pasos:
+
+		Saca el primer estado de la cola.
+		Verifica si es el estado objetivo (estar en Bucarest). Si es así, has encontrado una solución.
+		De lo contrario, genera todas las acciones posibles desde el estado actual y obtén los estados resultantes.
+		Para cada estado resultante, si no ha sido visitado previamente, agrégalo a la cola y al conjunto de estados visitados.
+		Si la cola se vacía y no se ha encontrado una solución, significa que no hay un camino desde Arad a Bucarest.
+
+		Este algoritmo de búsqueda en anchura garantiza que encuentres la solución más corta en términos de la cantidad de acciones necesarias para llegar al objetivo. Sin embargo, ten en cuenta que para problemas más grandes, el algoritmo puede requerir mucho tiempo y recursos computacionales.
+
+		Otra opción es utilizar algoritmos de búsqueda informada como el algoritmo A* que utilizan heurísticas para guiar la búsqueda hacia la solución de manera más eficiente. Sin embargo, para utilizar A*, necesitarías tener información adicional, como la distancia estimada desde cada ciudad hasta Bucarest, lo cual no está presente en la información que has proporcionado.
+
+		En resumen, puedes implementar el algoritmo de búsqueda en anchura (BFS) para encontrar una solución al problema de viajar desde Arad a Bucarest. Esto te permitirá explorar las posibles acciones y estados para encontrar el camino más corto.
+		
+	El test objetivo, el cual determina si un estado es un estado objetivo.
+	
+	Una función costo del camino que asigna un costo numérico a cada camino. El agente resolvente de problemas elige una función costo que refleje nuestra medida de rendimiento. Para el agente que intenta llegar a Bucarest, el tiempo es esencial, así que el costo del camino puede describirse como su longitud en kilómetros.
+	
+	
+	
+
+RESUMEN IA
+	La lectura proporcionada trata sobre la resolución de problemas mediante la búsqueda en agentes resolventes de problemas. Se define un agente resolvente de problemas como aquel que decide qué hacer para encontrar secuencias de acciones que conduzcan a estados deseables.
+
+	El agente resolvente de problemas formula un objetivo basado en la situación actual y la medida de rendimiento del agente. El objetivo se define como un conjunto de estados del mundo que satisfacen el objetivo. El agente busca una secuencia de acciones que permita alcanzar un estado objetivo, utilizando la formulación del problema que consiste en decidir qué acciones y estados considerar.
+
+	Para la resolución de problemas, se utiliza un algoritmo de búsqueda que toma como entrada un problema y devuelve una solución en forma de secuencia de acciones. Una vez que se encuentra una solución, el agente la ejecuta siguiendo las acciones recomendadas por la solución. Este enfoque de "formular, buscar, ejecutar" se utiliza para diseñar agentes resolventes de problemas.
+
+	Se destaca que los agentes resolventes de problemas funcionan en entornos estáticos, donde la formulación y búsqueda del problema se realizan sin tener en cuenta los cambios en el entorno. También se asume que el agente conoce el estado inicial y que el entorno es determinista. Las soluciones a los problemas son secuencias de acciones y se ejecutan sin prestar atención a las percepciones.
+
+	La lectura también menciona los componentes que definen un problema, como el estado inicial, las acciones disponibles, el test objetivo y la función costo del camino. Una solución de un problema es un camino válido desde el estado inicial a un estado objetivo, y se busca encontrar una solución óptima con el costo más pequeño del camino.
+
+	En resumen, la lectura introduce los conceptos fundamentales de la resolución de problemas mediante la búsqueda en agentes resolventes de problemas y proporciona ejemplos ilustrativos para comprender estos conceptos.
+	
+	
+--------------------------------------------------------------------------------
+--- UNIDAD 3
+--------------------------------------------------------------------------------		
+
+Lectura 2
+--------------------------------------------------------------------------------
+
+	Formulación de problemas
+		Además de abstraer la descripción del estado, debemos abstraer sus acciones. Una acción de conducir tiene muchos efectos. Además de cambiar la localización del vehículo y de sus ocupantes, pasa el tiempo, consume combustible, genera contaminación, y cambia el agente.
+		La abstracción es útil si al realizar cada una de las acciones en la solución es más fácil que en el problema original; La elección de una buena abstracción implica quitar tantos detalles como sean posibles mientras que se conserve la validez y se asegure que las acciones abstractas son fáciles de realizar.
+		
+	Ejemplos de problemas
+		Un problema del mundo-real es aquel en el que la gente se preocupa por sus soluciones, y está sujeto al nivel de detalle inmenso que implica estar ubicado en la "realidad". Estos tienden a no tener una sola descripción,
+		
+		El puzzle deslizante de 8, en la figura anterior se muestra un ejemplo, consiste en un tablero de 3 x 3 con ocho fichas numeradas y un espacio en blanco. Una ficha adyacente al espacio en blanco puede deslizarse a éste. La meta es alcanzar el estado objetivo especificado, tal como se muestra a la derecha de la figura. La formulación estándar es como sigue:
+			- Estados: la descripción de un estado especifica la localización de cada una de las ocho fichas y el blanco en cada uno de los nueve cuadrados.
+			- Estado inicial: cualquier estado puede ser un estado inicial. Nótese que cualquier objetivo puede alcanzarse desde exactamente la mitad de los estados iniciales posibles.
+			- Función sucesor: ésta genera los estados legales que resultan de aplicar las cuatro acciones (mover el blanco a la Izquierda, Derecha, Arriba y Abajo).
+			- Test objetivo: comprueba si el estado coincide con la configuración objetivo que se muestra en la figura. (son posibles otras configuraciones objetivo).
+			- Costo del camino: el costo de cada paso del camino tiene valor 1, así que el costo del camino es el número de pasos.
+			
+	Problemas de mundo-real
+			- Estados: cada estado está representado por una localización (por ejemplo, un aeropuerto) y la hora actual.
+			- Estado inicial: especificado por el problema.
+			- Función sucesor: devuelve los estados que resultan de tomar cualquier vuelo programado (quizá más especificado por la clase de asiento y su posición) desde el aeropuerto actual a otro, que salgan a la hora actual más el tiempo de tránsito del aeropuerto.
+			- Test objetivo: ¿tenemos nuestro destino para una cierta hora especificada?
+			- Costo del camino: esto depende del costo en dinero, tiempo de espera, tiempo del vuelo, costumbres y procedimientos de la inmigración, calidad del asiento, hora, tipo de avión, kilometraje del aviador experto, etcétera.
+	
+	Tipos diferentes de problemas de mundo-real
+		
+		
+--------------------------------------------------------------------------------
+--- UNIDAD 3
+--------------------------------------------------------------------------------		
+
+Lectura 3
+--------------------------------------------------------------------------------		
+		
+	Un nodo es una estructura de datos usada para representar el árbol de búsqueda.
+	
+	Un estado corresponde a una configuración del mundo. Así, los nodos están en caminos particulares, según lo definido por los punteros del nodo padre, mientras que los estados no lo están. En la figura siguiente se representa la estructura de datos del nodo.
+	
+	
+	La complejidad en tiempo y espacio siempre se considera con respecto a alguna medida de la dificultad del problema. En informática teórica, la medida es el tamaño del grafo del espacio de estados, porque el grafo se ve como una estructura de datos explícita que se introduce al programa de búsqueda. (El mapa de Rumanía es un ejemplo de esto.) En IA, donde el grafo está representado de forma implícita por el estado inicial y la función sucesor y frecuentemente es infinito, la complejidad se expresa en términos de tres cantidades:
+	b, el factor de ramificación o el máximo número de sucesores de cualquier nodo; d, la profundidad del nodo objetivo más superficial; y
+	m, la longitud máxima de cualquier camino en el espacio de estados.
+	
+	Factor de ramificación (b):
+		El factor de ramificación se refiere al máximo número de sucesores que tiene cualquier nodo en el grafo del espacio de estados. En otras palabras, cuántas opciones o caminos diferentes existen desde un estado dado. En el contexto del mapa de Rumanía, el factor de ramificación sería el número máximo de ciudades a las que se puede llegar desde cualquier ciudad en un solo paso.
+	
+	Profundidad del nodo objetivo más superficial (d):
+		La profundidad del nodo objetivo más superficial se refiere a la distancia o cantidad de pasos necesarios para llegar desde el estado inicial hasta el estado objetivo. En nuestro ejemplo, sería la cantidad mínima de ciudades que se deben visitar para llegar desde Arad hasta Bucarest.
+	
+	Longitud máxima de cualquier camino en el espacio de estados (m):
+		La longitud máxima de cualquier camino se refiere a la máxima cantidad de ciudades que se pueden visitar en cualquier ruta posible desde Arad hasta Bucarest. Es importante tener en cuenta que esta medida puede incluir rutas subóptimas o no directas.
+		
+
+RESUMEN IA
+
+La sección que has compartido es un extracto de un texto sobre la búsqueda de soluciones en inteligencia artificial. El contenido explica el proceso de búsqueda en un espacio de estados para resolver problemas y también menciona la importancia de medir el rendimiento de una solución aplicada a un problema. A continuación, te presento un resumen de los puntos clave:
+
+- La búsqueda en inteligencia artificial se refiere a resolver problemas a través de la exploración de un espacio de estados.
+- El espacio de estados representa todas las posibles situaciones que pueden ocurrir en la solución del problema.
+- Se utiliza un árbol de búsqueda explícito generado a partir del estado inicial y la función sucesor para representar las opciones de búsqueda.
+- La estrategia de búsqueda determina qué nodos se expanden y en qué orden.
+- Un nodo en el árbol de búsqueda contiene información como el estado, el nodo padre, la acción aplicada, el costo del camino y la profundidad.
+- La búsqueda se realiza expandiendo nodos y comprobando si alcanzan un estado objetivo.
+- La complejidad en tiempo y espacio se considera en función del tamaño del espacio de estados, el factor de ramificación, la profundidad del objetivo y la longitud máxima del camino.
+- La medición del rendimiento de una solución se evalúa en términos de completitud (si encuentra una solución cuando existe), optimización (si encuentra la solución óptima), complejidad en tiempo (cuánto tarda en encontrar una solución) y complejidad en espacio (cuánta memoria se necesita).
+
+Este extracto proporciona una introducción básica a la búsqueda de soluciones en inteligencia artificial. Si tienes alguna pregunta específica o necesitas más información sobre algún aspecto en particular, estaré encantado de ayudarte.
+
+
+
+--------------------------------------------------------------------------------
+--- UNIDAD 3
+--------------------------------------------------------------------------------		
+
+Lectura 4
+--------------------------------------------------------------------------------	
+Estrategias de búsqueda no informada
+	
+	
+	El texto proporcionado es un extracto de un material de estudio o libro que aborda el tema de las estrategias de búsqueda no informada en Inteligencia Artificial. El extracto se enfoca en la búsqueda primero en anchura, búsqueda de costo uniforme, búsqueda primero en profundidad y búsqueda de profundidad limitada.
+
+	En la búsqueda primero en anchura, se expande primero el nodo raíz y luego se expanden todos los sucesores del nodo raíz antes de expandir cualquier nodo del próximo nivel. Esta estrategia es completa y óptima en problemas donde todos los costos son iguales, pero tiene una alta complejidad en tiempo y memoria en problemas con un factor de ramificación alto.
+
+	La búsqueda de costo uniforme expande el nodo con el camino de costo más pequeño en lugar del nodo más superficial. Es óptima en cualquier función de costo y garantiza completitud y optimización si se cumple la condición de que cada paso tenga un costo mayor o igual a una constante positiva.
+
+	La búsqueda primero en profundidad expande siempre el nodo más profundo en la frontera actual del árbol de búsqueda. Requiere menos memoria que la búsqueda primero en anchura, pero puede ser no óptima y no completa. La búsqueda de profundidad limitada es una variante de la búsqueda primero en profundidad que establece un límite de profundidad predeterminado para evitar caminos infinitos. Sin embargo, también puede ser no completa y no óptima dependiendo del límite establecido.
+
+	En resumen, el texto proporciona una introducción a las estrategias de búsqueda no informada en Inteligencia Artificial, específicamente las estrategias de búsqueda primero en anchura, búsqueda de costo uniforme, búsqueda primero en profundidad y búsqueda de profundidad limitada. También menciona las características, ventajas y desventajas de cada una de estas estrategias.
+	

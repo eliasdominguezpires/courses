@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diagrama de Agentes</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 400px;
+        }
+        
+        .agent {
+            width: 200px;
+            height: 200px;
+            border: 1px solid black;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .sensor {
+            background-color: lightblue;
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+        
+        .program {
+            background-color: lightgreen;
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+        
+        .actuator {
+            background-color: lightyellow;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="agent">
+            <h2>Agente</h2>
+            <div class="sensor">
+                <h3>Sensor</h3>
+                <p>Percepción actual</p>
+            </div>
+            <div class="program">
+                <h3>Programa</h3>
+                <p>Toma la percepción actual y genera acciones</p>
+            </div>
+            <div class="actuator">
+                <h3>Actuador</h3>
+                <p>Ejecuta las acciones</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

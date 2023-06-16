@@ -310,3 +310,599 @@ EXAMEN
 	Verdadero Falso
 
 	Falso. El prototipo es un resultado esperado en la fase de incubación, no en la fase de pre-incubación. En la fase de pre-incubación, se centra en la generación de ideas y la validación del modelo de negocio, mientras que en la fase de incubación se lleva a cabo el desarrollo del prototipo o producto mínimo viable. El prototipo es una versión inicial del producto o servicio que se crea para probar su funcionamiento y obtener retroalimentación de los clientes o usuarios antes de su lanzamiento al mercado.
+	
+	
+	
+--------------------------------------------------------------------------------
+--- UNIDAD 2
+--------------------------------------------------------------------------------
+
+Lectura 1
+--------------------------------------------------------------------------------
+	Ciencia, tecnología e Innovación
+		Ciencia
+			generar nuevos conocimientos u organizar el existente a través de la elaboración de hipótesis (cosas a demostrar), preguntas a responder, realización de esquemas de las experiencias conocidas o por demostrar, establecimiento de leyes y principios generales y específicos sobre un aspecto determinado de la naturaleza, la sociedad y sus diferentes actividades.
+			
+		Tecnología
+			Conjunto de conocimientos técnicos, científicamente ordenados, que permiten diseñar y crear bienes y servicios que facilitan la adaptación al medio ambiente y satisfacer tanto las necesidades esenciales como los deseos de la humanidad
+			
+		Innovación
+			Puesta en práctica de un producto, proceso, sistema de marketing o método organizativo, nuevo o mejorado.
+			
+		La integración de estos 3 conceptos deriva una interacción sistémica al respecto (Tartabull Contreras, 2020) manifiesta que esta sinergia genera continuamente nuevos procesos productivos, tanto materiales como organizativos (Tecnología) y sociales junto a más conocimientos y su generalización (ciencia), dicha sinergia es la que se denomina C+T+i o CTI.
+		
+		Las CTI implican una disrupción es decir un cambio o ruptura con lo anterior o sea el surgimiento de algo nuevo y así la tecnología e innovación disruptiva serán aquellas que implican una ruptura en relación con los procesos, productos y servicios anteriores, extendiéndose su efecto hasta los demás procesos sociales en los cuales los hombres intervienen.
+		
+		
+
+	Sistemas de Ciencia, Tecnología e Innovación en el Paraguay.
+		El Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) es el conjunto de organismos, instituciones públicas y privadas, personas físicas y jurídicas dedicadas o relacionadas a estimular y promover la investigación científica y tecnológica; generar, difundir y transferir el conocimiento; fomentar la innovación, la educación en este ámbito; así como promover el desarrollo y gestión de tecnologías nacionales. (Ley No. 2279/03).
+		
+	Plan Nacional de Desarrollo 2030 – Paraguay
+		EL Plan Nacional de Desarrollo (PND) Paraguay es un documento estratégico, este documento reza en entre sus propósitos:
+		Construir una nación al 2030 inspirada en la siguiente visión: El Paraguay es un país competitivo, ubicado entre los más eficientes productores de alimentos a nivel mundial, con industrias pujantes e innovadoras, que empleen fuerza laboral capacitada, proveedor de productos y servicios con tecnología, hacia una economía del conocimiento; con índices de desarrollo social en el rango más alto de Sudamérica. (www.stp.gov.py/pnd).
+		
+	El PND cuenta con 3 Ejes estratégicos que son:
+		1. Reducción de pobreza y desarrollo social
+		2. Crecimiento económico inclusivo
+		3. Inserción de Paraguay en el mundo
+	A su vez los ejes estratégicos tienen cuatro líneas transversales que son
+		(i) la igualdad de oportunidades,
+		(ii) la gestión pública eficiente y transparente,
+		(iii) el ordenamiento y desarrollo territorial, y
+		(iv) la sostenibilidad ambiental.
+		
+		Estrategias del PND con enfoque en CTI
+			De los ejes estratégicos del PND destacan la Estrategia 2.2 Competitividad e innovación y la Estrategia 2.3 – Regionalización y diversificación productiva, como los ejes que tienen un alto enfoque en CTI, al respecto cada estrategia propone lo siguiente:
+			
+RESUMEN IA
+	El texto proporcionado se refiere a la Unidad II del curso "Transferencia e Innovación Tecnológica". Se mencionan los niveles de gestión de la ciencia y tecnología, así como los planes y políticas nacionales relacionados con la gestión de la ciencia, tecnología e innovación (CTI). Se presenta una tabla que define los conceptos de ciencia, tecnología e innovación, destacando la interacción sistémica entre ellos.
+
+	En el contexto de Paraguay, se menciona el Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI), que engloba a organismos, instituciones y personas dedicadas a la investigación científica y tecnológica, la generación y transferencia de conocimiento, la promoción de la innovación y el desarrollo de tecnologías nacionales.
+
+	Se hace referencia al Plan Nacional de Desarrollo 2030 de Paraguay, que busca construir una nación competitiva y con un alto desarrollo social. Dentro de este plan, se destacan los ejes estratégicos relacionados con la reducción de la pobreza, el crecimiento económico inclusivo y la inserción de Paraguay en el mundo. También se enfatiza la importancia de la economía del conocimiento, la innovación y el desarrollo tecnológico en el plan.
+
+	Se mencionan estrategias específicas del Plan Nacional de Desarrollo con enfoque en CTI, como la promoción de la competitividad, la seguridad jurídica, el desarrollo de un gobierno transparente y eficiente, la mejora de la infraestructura de transporte y telecomunicaciones, y el fomento de la creación de empresas y el desarrollo empresarial.
+	
+
+Lectura 2
+--------------------------------------------------------------------------------
+
+	“La política que marca la ruta de CTI en el Paraguay es la denominada Política Nacional de Ciencia, Tecnología e Innovación, al respecto la misma se describe como: La Política Nacional de CTI, busca generar dinámicas y sinergias entre el sector académico, productivo, gubernamental y la sociedad civil para promover el fortalecimiento del Sistema Nacional de Ciencia, Tecnología, Innovación y Calidad, mediante el aumento de las capacidades, para generar conocimiento endógeno y promover su aprovechamiento a fin de dar respuesta a las necesidades sociales y productivas del país.” (Secretaría Técnica de Planificación de la Presidencia, 2017)
+
+Objetivos de la Política Nacional de Ciencia, Tecnología e Innovación
+	El objetivo general de la Política Nacional de CTI es crear, mantener y aumentar las capacidades nacionales en investigación, desarrollo tecnológico e innovación, para poder apoyar las estrategias competitivas del sector productivo y a las políticas nacionales de desarrollo social, económico y ambiental.
+	
+	La Política Nacional de CTI cuenta con 5 Objetivos que son:
+		1. Consolidar una Gobernanza sostenible del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) del Paraguay
+		2. Desarrollar capacidades nacionales para la generación de conocimiento en ciencia y tecnología
+		3. Orientar de los conocimientos y capacidades generadas en la I+D a la atención de desafíos económicos, sociales y ambientales del Paraguay
+		4. Fortalecer la innovación como base para la creación y sostenimiento de las ventajas competitivas del país
+		5. Fomentar la apropiación social del conocimiento técnico y científico como factor de desarrollo sostenible
+	
+	Objetivo Estratégico 1:
+		- Consolidar una Gobernanza sostenible del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) del Paraguay
+		- Lograr una inversión en I+D equivalente al 0, 50% del PBI
+	Objetivo Estratégico 2:
+		- Desarrollar capacidades nacionales para la generación de conocimiento en ciencia y tecnología Contar con 1,5 investigadores EJC cada 1000 integrantes de la PEA
+		- Incorprar al menos 150 doctores por millón de habitantes de la PEA	
+		- Quintuplicar el número de publicaciones científicas por cada 100.000 habitantes.
+	Objetivo Estratégico 3:
+		- Orientar de los conocimientos y capacidades generadas en la I+D a la atención de desafíos económicos, sociales y ambientales del Paraguay
+		- Quintuplicar el número de patentes otorgadas a residentes en el país
+		- Lograr financiamiento de la I+D por parte del sector empresas equivalente al 35% del total
+	Objetivo Estratégico 4:
+		- Fortalecer la innovación como base para la creación y sostenimiento de las ventajas competitivas del país
+		- Duplicar la participación de productos de media y alta tecnología en la matriz de exportación
+	Objetivo Estratégico 5:
+		- Fomentar la apropiación social del conocimiento técnico y científico como factor de desarrollo sostenible
+		- Duplicar los valores de apropiación social de la Ciencia y Tecnología, medidos a través de la Encuesta de Percepción Pública sobre la Ciencia y Tecnología.
+		
+	Gestión de la Política de CTI, seguimiento y evaluación.
+		Los instrumentos, programas y proyectos implementados por actores públicos y privados de las políticas de CTI, serán monitoreados y evaluados por parte del CONACYT, de manera a verificar su eficacia y eficiencia.
+		
+RESUMEN 	
+	La lectura aborda la Política de CTI (Ciencia, Tecnología e Innovación) en Paraguay. La Política Nacional de Ciencia, Tecnología e Innovación busca generar dinámicas y sinergias entre los sectores académico, productivo, gubernamental y de la sociedad civil para promover el fortalecimiento del Sistema Nacional de Ciencia, Tecnología, Innovación y Calidad. Su objetivo es incrementar las capacidades para generar conocimiento endógeno y promover su utilización para atender las necesidades sociales y productivas del país.
+
+	La Política Nacional de CTI tiene cinco objetivos estratégicos:
+
+	Consolidar la gobernanza sostenible del Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) del Paraguay.
+	Desarrollar capacidades nacionales para la generación de conocimiento en ciencia y tecnología.
+	Orientar el conocimiento y las capacidades generadas en I+D hacia el abordaje de los desafíos económicos, sociales y ambientales de Paraguay.
+	Fortalecer la innovación como base para crear y sostener las ventajas competitivas del país.
+	Fomentar la apropiación social del conocimiento técnico y científico como factor de desarrollo sostenible.
+	Cada objetivo tiene metas específicas y estrategias para alcanzarlas. Algunas de las metas son aumentar la inversión en I+D al 0,50% del PBI, incrementar el número de investigadores por cada 1.000 habitantes económicamente activos (PEA), incorporar un número determinado de graduados de doctorado por cada millón de habitantes de la PEA, multiplicar el número de publicaciones científicas por cada 100.000 habitantes y duplicar la participación de los productos de media y alta tecnología en la matriz exportadora.
+
+	Los lineamientos de la Política Nacional de CTI incluyen la alineación con las políticas de desarrollo sostenible de Paraguay, involucrar a todos los actores del sistema nacional de ciencia, tecnología e innovación, tener vigencia permanente para orientar acciones de corto, mediano y largo plazo, y promover el equilibrio entre la libertad de investigación y las necesidades nacionales. La política también pone énfasis en el aprendizaje, la capacitación y el desarrollo de capacidades creativas y productivas, particularmente en las micro, pequeñas y medianas empresas (MIPyMEs). Se implementará a través de instrumentos financieros y no financieros, sujetos a evaluación y seguimiento por parte del Consejo Nacional de Ciencia y Tecnología (CONACYT) y otros actores del sistema.
+
+	La gestión de la política de CTI implica el seguimiento y evaluación de los instrumentos, programas y proyectos implementados por actores públicos y privados. El CONACYT evaluará su eficacia y eficiencia, y se recopilarán datos, estadísticas e indicadores para dar seguimiento a los resultados de los instrumentos implementados.
+	
+	
+
+Lectura 3
+--------------------------------------------------------------------------------
+
+Agenda Digital
+	Como planes vinculados a CTI se destaca la Agenda Digital que es Plan de Acción de la Estrategia de Transformación Digital. Este plan es un eje prioritario del Gobierno Nacional por su impacto positivo en la vida de las personas, ya que con buen uso de la tecnología se pueden alcanzar más rápido soluciones a problemas históricos del país a un costo mucho menor.
+	
+	“La Agenda Digital es la hoja de ruta que nos permitirá dar grandes saltos con el aprovechamiento de tecnologías de información y comunicación TIC) en la relación del Estado con la ciudadanía y las empresas, la Economía Digital, y el avance de la Conectividad del país.”
+	
+	Agenda Digital cuenta con 4 componentes que son:
+		1. Gobierno Digital
+		2. Economía Digital
+		3. Conectividad
+		4. Fortalecimiento Institucional
+		
+	Programa Prociencia
+		Que tiene como objetivo. fortalecer las capacidades nacionales para la investigación científica y desarrollo tecnológico, de modo a contribuir con el aumento de la capacidad productiva, la competitividad y mejorar las condiciones de vida en el Paraguay
+		
+	Estructura del Programa Prociencia
+		Fomento a la investigacion Cientifica. Fondos concursables de Proyectos
+		Fortalecimiento del capital Humano para la I+DE
+		Sistema de Investigadores del Paraguay
+		Iniciacion y apropiacion social de la C&T
+		Planificación, monitoreo y evaluación
+		
+	Programa PROCIT
+		Conacyt impulsa el Programa de Apoyo al Desarrollo de la Ciencia, Tecnología e Innovación, con financimiento del Banco Interamericano de Desarrollo - BID, consiste en un préstamo suscrito con el Gobierno del Paraguay en fecha 10 de abril de 2006, ratificado por Ley No. 3405 del Poder Legislativo de la Nación en fecha 26 de diciembre de 2007.
+		
+		Sus principales componentes son:
+			I. Promoción de proyectos de investigación e innovación
+			Subcomponentes
+				a) Proyectos de investigación en universidades y centros educativos.
+				b) Proyectos de innovación tecnológica en empresas
+			II. Fortalecimiento y desarrollo de recursos Humanos
+			Subcomponentes
+				a) Fortalecimiento de postgrados nacionales
+				b) Becas para estudio de postgrado en el país
+				c) Becas de corta duración no conducentes a títulos y apoyo complementario a becarios en el exterior
+			III. Fortalecimiento y articulación del Sistema Nacional de Innovación
+			Subcomponentes
+				a) Fortalecimiento de capacidades de gestión de la innovación y vinculación entre actores del Sistema Nacional de Innovación Paraguayo
+				b) Conectividad e infraestructura de tecnologías de información y comunicación (TIC) para universidades y acceso a información científica
+				c) Difusión del programa y las actividades de ciencia,
+				
+	Programa PRONI
+		Con el objetivo de fortalecer y expandir la comunidad científica del país, el Conacyt implementa a partir del 2011 el Programa Nacional de Incentivo a los Investigadores (PRONII). Esta iniciativa busca fomentar la carrera del investigador en el Paraguay, mediante su categorización, evaluación de su producción científica y tecnológica, así como a través del otorgamiento de incentivos económicos.
+		Objetivos:
+		- Fortalecer, consolidar y expandir la comunidad científica del país.
+		- Categorizar, mediante procesos de evaluación periódica, por niveles jerárquicos a los investigadores de acuerdo a su producción científica, su relevancia internacional y su impacto en la formación de otros investigadores
+		- Establecer un sistema de incentivos económicos a los investigadores que haga posible, facilite y estimule la dedicación a la producción científica en todas áreas del conocimiento, que serán otorgados por procedimientos concursables.
+		
+		
+RESUMEN IA
+	Planes y Programas en CTI
+		En esta lectura, abordaremos los planes y programas relacionados con la Ciencia, Tecnología e Innovación (CTI) en Paraguay, que contribuyen a una mejor gestión y manejo de las ciencias y tecnologías a nivel nacional.
+
+		Agenda Digital
+		Uno de los planes destacados en relación con CTI es la Agenda Digital, que es un Plan de Acción de la Estrategia de Transformación Digital. Este plan es una prioridad para el Gobierno Nacional debido a su impacto positivo en la vida de las personas, ya que permite encontrar soluciones más rápidas a los problemas históricos del país a un costo menor.
+
+		La Agenda Digital se divide en 4 componentes principales:
+		1. Gobierno Digital.
+		2. Economía Digital.
+		3. Conectividad.
+		4. Fortalecimiento Institucional.
+
+		Puedes encontrar más información sobre la Agenda Digital en el sitio web oficial del Ministerio de Tecnologías de la Información y Comunicación (MITIC): https://www.mitic.gov.py/agenda-digital/agenda-digital/materiales
+
+		Programa Prociencia
+		El Programa Prociencia tiene como objetivo fortalecer las capacidades nacionales para la investigación científica y el desarrollo tecnológico, con el fin de contribuir al aumento de la capacidad productiva, la competitividad y mejorar las condiciones de vida en Paraguay.
+
+		La estructura del Programa Prociencia incluye diferentes componentes, tales como:
+		I1. Fondos Concursables de Proyectos de I+D.
+		I2. Fondos para la transferencia de resultados de investigación al sector privado y público.
+		I3. Proyectos de Infraestructura y equipamiento para la Investigación.
+		I4. Acceso a información científica y tecnológica a través del Portal CICCO.
+		I5. Generación, medición y difusión de indicadores y estadísticas de Ciencia y Tecnología.
+
+		Además, el programa incluye medidas para fortalecer el capital humano en investigación y desarrollo, así como la promoción de la apropiación social de la ciencia y la tecnología.
+
+		Programa PROCIT
+		El Programa de Apoyo al Desarrollo de la Ciencia, Tecnología e Innovación (PROCIT) es impulsado por el Conacyt con financiamiento del Banco Interamericano de Desarrollo (BID). Este programa tiene como objetivo promover proyectos de investigación e innovación, fortalecer y desarrollar recursos humanos, y mejorar el sistema nacional de innovación en Paraguay.
+
+		Los principales componentes del Programa PROCIT son:
+		I. Promoción de proyectos de investigación e innovación, tanto en universidades y centros educativos como en empresas.
+		II. Fortalecimiento y desarrollo de recursos humanos a través de fortalecimiento de postgrados nacionales y becas para estudios de postgrado.
+		III. Fortalecimiento y articulación del Sistema Nacional de Innovación mediante el fortalecimiento de capacidades de gestión, infraestructura de tecnologías de información y comunicación (TIC) y difusión de actividades de ciencia, tecnología e innovación.
+
+		Programa PRONII
+		El Programa Nacional de Incentivo a los Investigadores (PRONII) fue implementado por el Conacyt en 2011 con el objetivo de fortalecer y expandir la comunidad científica en Paraguay. Este programa categoriza a los investigadores de acuerdo a su producción científica y tecnológica, y otorga incentivos económicos para
+		
+Lectura 4
+--------------------------------------------------------------------------------
+
+RESUMEN IA
+	En esta lectura se presentan varios indicadores relacionados con la Ciencia, Tecnología e Innovación (CTI) en Paraguay. A continuación, se resumen los puntos clave mencionados en el texto:
+
+	1. Inversión en I+D: Según el documento de Actividades Científicas y Tecnológicas 2019, la inversión en I+D en Paraguay representa el 0,15% del PIB, lo cual duplica el valor de 2011. Sin embargo, el país sigue invirtiendo menos que el promedio regional, que es del 0,70%. Para tener una mejor perspectiva, países con un nivel de ingreso per cápita similar al de Paraguay invierten alrededor del 0,30% del PIB en I+D.
+
+	2. Financiamiento: El 70% de la financiación en I+D proviene de fuentes públicas, y el Consejo Nacional de Ciencia y Tecnología (CONACYT) contribuye con el 27% de la financiación pública. De ese porcentaje, el mayor porcentaje de inversión se destina a los Organismos Públicos, con un 53%. En comparación, las universidades públicas invierten hasta 4 veces más por estudiante en formación y hasta 30 veces más en I+D que las universidades privadas.
+
+	3. Distribución de la inversión en I+D: En el año 2015, la inversión en I+D se centró principalmente en la investigación aplicada, con un 73,09%. La investigación básica y el desarrollo experimental representaron más del 13% cada uno. La financiación de la investigación provino principalmente de fondos públicos, también con un 73,09%.
+
+	4. Distribución de investigadores: Según el "Programa Nacional de Incentivo a los Investigadores" (PRONII) en 2019, el menor porcentaje de investigadores corresponde al área de Ingenierías y Tecnología.
+
+	5. Graduados en ciencias e ingeniería: En 2014, Paraguay tuvo 595 graduados de profesionales y maestros en ingenierías, tecnologías y ciencias agropecuarias por millón de habitantes de la PEA (Población Económicamente Activa). En comparación, Chile tuvo 2,817 graduados por millón de habitantes de la PEA en el mismo campo. En cuanto a profesionales de ingenierías y tecnologías específicamente, Paraguay produjo 263 graduados por millón de habitantes de la PEA, mientras que Chile tuvo 1,866.
+
+	6. Innovación empresarial: Según la Encuesta de Innovación Empresarial del Paraguay (EIEP) 2016, al menos el 44,4% de las empresas realizaron algún tipo de innovación en el período 2013-2015. El tipo de innovación más común fue la innovación de proceso.
+
+	7. Patentes: En 2019, se registraron solo 354 patentes solicitadas y 28 patentes otorgadas en Paraguay. La innovación de proceso fue el tipo de innovación con mayor participación.
+
+	8. Indicadores de CTI: El Consejo Nacional de Ciencia y Tecnología (CONACYT) proporciona varios indicadores de CTI en su sitio web, incluyendo la Encuesta de Innovación Empresarial, Actividades Científicas y Tecnológicas, Encuesta Percepción Pública de la Ciencia y Tecnología, Relevamiento Nacional de Equipos de Laboratorios, entre otros.
+	
+EXAMEN 
+	Si generamos un nuevo conocimiento sobre el comportamiento de los procesadores en situaciones de altas temperaturas a partir de la elaboración de una hipótesis estamos hablando de un concepto de Ciencia
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. El proceso de generar un nuevo conocimiento a partir de la elaboración de una hipótesis es un concepto fundamental en la metodología científica. La ciencia se basa en la formulación de hipótesis y la realización de experimentos o investigaciones para comprobar o refutar esas hipótesis. En el caso específico que mencionas, si se desarrolla un nuevo conocimiento sobre el comportamiento de los procesadores en situaciones de altas temperaturas a partir de una hipótesis, eso se considera un proceso científico.
+
+-----------------------
+Una norma y política que rige las CTI es el PND 2030
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso. El PND 2030 no es una norma ni una política específica que rige las Ciencias, Tecnologías e Innovación (CTI). El PND 2030 se refiere al Plan Nacional de Desarrollo 2030, que es un instrumento de planificación y guía para el desarrollo del país en diferentes áreas, incluyendo la ciencia, la tecnología y la innovación. Sin embargo, para la regulación y gestión de las CTI, es común que los países establezcan políticas y normativas específicas, como leyes de ciencia y tecnología, planes nacionales de CTI, o instituciones encargadas de promover y regular estas áreas.
+
+
+---------------------------
+El Sistema Nacional de Ciencia, Tecnología e Innovación está conformado por instituciones públicas y privadas
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. El Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) está conformado por instituciones tanto públicas como privadas. El SNCTI es una estructura organizativa que tiene como objetivo promover y coordinar las actividades de ciencia, tecnología e innovación en un país. En este sistema participan organismos gubernamentales, universidades, centros de investigación, empresas, organizaciones no gubernamentales y otros actores relevantes en el ámbito de la CTI. La participación de instituciones públicas y privadas es fundamental para impulsar la investigación, el desarrollo tecnológico y la innovación en un país.
+
+
+-----------------------------------
+El Sistema Nacional de Ciencia, Tecnología e Innovación tiene como actor a la Academia que está formado tanto por Universidades Nacionales y Privas
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Verdadero. El Sistema Nacional de Ciencia, Tecnología e Innovación (SNCTI) incluye a la academia, que está compuesta por universidades nacionales y privadas. Las universidades desempeñan un papel fundamental en la generación de conocimiento científico, la formación de investigadores y profesionales en ciencia y tecnología, y la promoción de la investigación y la innovación. Tanto las universidades nacionales como las privadas contribuyen al desarrollo del SNCTI a través de la realización de investigaciones, la formación de recursos humanos altamente capacitados y la transferencia de conocimientos y tecnologías a la sociedad.
+
+------------------------------------
+El desarrollo de la banda ancha en todo el territorio nacional se puede considerar como una medida para cumplir con la Regionalización y diversificación productiva. Del PND 2030
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+	falso
+
+-------------------------------------
+De acuerdo a los indicadores den el Paraguay referentes a Innovación de Empresas en el año 2016, el tipo de innovación que ha tenido un mayor alcance es la de la Innovación en producto:
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+ falso
+
+-------------------------------------
+
+Fomentar la creación de MiPyMEs es parte de una estrategia del PND
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. Fomentar la creación de Micro, Pequeñas y Medianas Empresas (MiPyMEs) es parte de una estrategia del Plan Nacional de Desarrollo (PND). Las MiPyMEs suelen desempeñar un papel importante en el desarrollo económico de un país, generando empleo, impulsando la innovación y promoviendo la diversificación productiva. Por lo tanto, promover su creación y fortalecimiento suele ser una prioridad en las políticas y estrategias de desarrollo, como el PND
+
+--------------------------------------
+Prociencia es un programa a nivel Nacional relacionada a Ciencias, tecnologías e Innovación monitoreado y evaluado por el Ministerio de Industria y Comercio
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. Prociencia es un programa a nivel nacional relacionado con ciencia, tecnología e innovación, pero no es monitoreado y evaluado por el Ministerio de Industria y Comercio. Prociencia es monitoreado y evaluado por CONACYT (Consejo Nacional de Ciencia y Tecnología), que es la institución encargada de coordinar el Sistema Nacional de Ciencia, Tecnología e Innovación en Paraguay.
+
+
+--------------------------------------
+
+Agenda Digital es una política articulada por el MITIC
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. La Agenda Digital es una política articulada por el MITIC (Ministerio de Tecnologías de la Información y Comunicación) en Paraguay. Esta iniciativa tiene como objetivo promover el desarrollo y la adopción de tecnologías de la información y comunicación (TIC) en el país, con el fin de impulsar la transformación digital y mejorar la inclusión digital en todos los sectores de la sociedad.
+
+
+--------------------------------
+La investigación en universidades y centros educativos es un componente importante del Programa PROCIT
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. La investigación en universidades y centros educativos es un componente importante del Programa PROCIT (Programa Paraguayo para el Desarrollo de la Ciencia y Tecnología). Este programa tiene como objetivo promover y financiar la investigación científica y tecnológica en Paraguay, fomentando la generación de conocimiento y la formación de recursos humanos especializados en el campo de la ciencia y la tecnología. La investigación en universidades y centros educativos es una de las áreas prioritarias de apoyo dentro del programa.
+
+-------------------------------------
+
+PRONII se puede considerar como un programa a nivel nacional para investigadores articulado por CONACYT
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero.
+
+ChatGPT
+Verdadero. PRONII (Programa Nacional de Incentivo a los Investigadores) se puede considerar como un programa a nivel nacional para investigadores articulado por CONACYT (Consejo Nacional de Ciencia y Tecnología). PRONII tiene como objetivo principal incentivar la actividad investigadora en Paraguay, brindando apoyo financiero y reconocimiento a los investigadores que realizan contribuciones significativas en sus respectivas áreas de estudio. El programa es gestionado y coordinado por CONACYT, que establece las políticas y criterios de evaluación para la selección y seguimiento de los investigadores beneficiarios del programa.
+
+------------------------------------------
+
+PRONII establece incentivos económicos a investigadores
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. PRONII (Programa Nacional de Incentivo a los Investigadores) establece incentivos económicos a investigadores en Paraguay. El programa tiene como objetivo promover y reconocer la actividad investigadora en el país, brindando apoyo financiero a los investigadores que cumplen con los requisitos y criterios establecidos por CONACYT (Consejo Nacional de Ciencia y Tecnología). Los investigadores beneficiarios del PRONII pueden recibir una asignación económica mensual como incentivo por su labor investigativa. Este incentivo económico busca fomentar la dedicación y la excelencia en la investigación en Paraguay
+
+---------------------------------------------
+El Portal CICCO es una de las estrategias que tiene el Programa de Incubadoras de PTI
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. El Portal CICCO no es una de las estrategias del Programa de Incubadoras de PTI. El Programa de Incubadoras de Parques Tecnológicos y de Innovación (PTI) es una iniciativa que tiene como objetivo promover y apoyar la creación y desarrollo de empresas de base tecnológica en Paraguay. El programa busca impulsar la innovación, el emprendimiento y la transferencia de tecnología en el país.
+
+El Portal CICCO (Centro de Información y Comunicación para la Competitividad) es una plataforma digital en línea que tiene como objetivo proporcionar información y recursos para fortalecer la competitividad y productividad de las empresas paraguayas. El portal brinda acceso a herramientas, noticias, eventos y otros recursos relacionados con la gestión empresarial y la mejora de la competitividad.
+
+
+-----------------------------------
+
+
+Aumentar las publicaciones científicas es un objetivo estratégico de la Política Nacional de CTI
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. Aumentar las publicaciones científicas es un objetivo estratégico de la Política Nacional de Ciencia, Tecnología e Innovación (CTI) en muchos países. Fomentar la producción y difusión de conocimiento científico a través de publicaciones es una forma de promover el avance de la ciencia, impulsar la colaboración entre investigadores y contribuir al desarrollo socioeconómico de un país. Por lo tanto, es común que las políticas nacionales de CTI incluyan el aumento de las publicaciones científicas como uno de sus objetivos estratégicos.
+
+-----------------------------------
+
+Los investigadores PRONII del área de Ingenierías son los de mayor participación dentro de la distribución de sus pares
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Falso. Según la información proporcionada, el gráfico muestra que el área de Ingenierías y Tecnología tiene el menor porcentaje de investigadores del Programa Nacional de Incentivo a los Investigadores (PRONII) en el año 2019. Esto significa que los investigadores del área de Ingenierías tienen una menor participación en comparación con las otras áreas mencionadas en el gráfico. Por lo tanto, la afirmación de que los investigadores PRONII del área de Ingenierías son los de mayor participación es falsa.
+
+----------------------------------------
+Las Actividades Científicas y Tecnológicas son parte de los indicadores de información sobre CTI en el Paraguay
+Grupo de opciones de respuesta
+
+Falso
+
+Verdadero
+
+ChatGPT
+Verdadero. Según la información proporcionada, las Actividades Científicas y Tecnológicas son uno de los indicadores de información sobre CTI en Paraguay, según el Consejo Nacional de Ciencia y Tecnología (CONACYT). Estos datos se recopilan en diferentes años y se utilizan para evaluar y monitorear el estado de la ciencia, la tecnología y la innovación en el país. Por lo tanto, la afirmación es verdadera.
+
+-------------------------------
+La inversión de Paraguay en el año 2019 en I+D está por encima del promedio de la región de América Latina
+Grupo de opciones de respuesta
+
+Verdadero
+
+Falso
+
+ChatGPT
+Falso. Según los datos proporcionados, la inversión de Paraguay en I+D en el año 2019 fue de 0,15% del PIB, mientras que el promedio regional en América Latina es del 0,70%. Por lo tanto, la afirmación es falsa. Paraguay se encuentra entre los países que menos invierten en I+D en la región.
+
+
+
+--------------------------------------------------------------------------------
+--- UNIDAD 3
+--------------------------------------------------------------------------------
+
+Lectura 1
+--------------------------------------------------------------------------------
+
+	Manual Oslo
+		Este manual de referencia consiste en una serie de manuales evolutivos para la medición de las Actividades Científicas y Tecnológicas. Directrices propuestas para recabar e interpretar datos de la innovación tecnológica (EUROSTAT - OCDE, 2006).
+		
+	(EUROSTAT)	Oficina de Estadística de las Comunidades Europeas.
+	(OCDE)	Organización para la cooperación y el Desarrollo Economico.
+	
+	Manual de Oslo define
+		1. Innovación de producto 
+			Aporta un bien o servicio nuevo, o significativamente mejorado, en cuanto a sus características técnicas o en cuanto a su uso u otras funcionalidades, la mejora se logra con conocimiento o tecnología, con mejoras en materiales, en componentes, o con informática integrada.
+		
+		2. Innovación de proceso
+			Aplicado a los sectores de producción como a los de distribución. Se logra mediante cambios significativos en las técnicas, los materiales y/o los programas informáticos empleados, que tengan por objeto la disminución de los costes unitarios de producción o distribución, mejorar la calidad, o la producción o distribución de productos nuevos o sensiblemente mejorados.
+
+		3. Innovación en Marketing:
+			Consiste en utilizar un método de comercialización no utilizado antes en la empresa que puede consistir en cambios significativos en diseño, envasado, posicionamiento, promoción o tarificación, siempre con el objetivo de aumentar las ventas. La variación en el método tiene que suponer una ruptura fundamental con lo realizado anteriormente.
+			
+		4. Innovación en organización:
+			Cambios en las prácticas y procedimientos de la empresa, modificaciones en el lugar de trabajo, en las relaciones exteriores como aplicación de decisiones estratégicas con el propósito de mejorar los resultados mejorando la productividad o reduciendo los costes de transacción internos para los clientes y proveedores. También incluye la actualización en la gestión del conocimiento, al igual que la introducción de sistemas de gestión de las operaciones de producción, de suministro y de gestión de la calidad.
+			
+		Características de la innovación por sectores contenidos
+			1) Alta tecnología: la I+D: desempeña un papel central en las actividades de innovación, mientras que otros sectores adaptan conocimiento y tecnología ya existente
+			2) Sector servicios: se innova por proceso continuo, introduciendo modificaciones progresivas en productos y en procesos. 
+			3) Sectores de bajo o medio contenido tecnológico: las actividades de innovación se orientan a mejorar la eficiencia en los procesos de producción, a diferenciar los productos y su comercialización. A menudo estas innovaciones implican la integración de productos de alta tecnología y de tecnología avanzadas.
+			
+	Condiciones para que una empresa acepte una novedad
+		1. RELEVANCIA •Que el efecto de la innovación tenga entidad.
+		2. VENTAJA •Que los beneficios potenciales sean sensiblemente superiores a los aportados por otras posibilidades disponibles en la empresa.
+		3. MOVILIZACIÓN. •Las actuaciones de quien vende o propone el cambio habrán creado un estado de oportunidad e inquietud en el cliente o decisor.
+		4. ESPECIFICIDAD •La propuesta se ajusta a su negocio. 
+		5. RIESGO CONTROLADO. •Resulta suficientemente fácil tomar la decisión y ponerla en práctica con probabilidad elevada de alcanzar los objetivos previstos.
+		
+RESUMEN IA
+	La lectura proporciona información sobre los lineamientos del Manual de Oslo para la medición de las actividades de innovación. El Manual de Oslo define cuatro tipos de innovaciones: innovación de producto, innovación de proceso, innovación en marketing e innovación en organización. Estos tipos de innovación se refieren a cambios significativos en productos, procesos, estrategias de marketing y estructuras organizativas.
+
+	En cuanto a las características de la innovación en diferentes sectores, se mencionan tres categorías: alta tecnología, sector servicios y sectores de bajo o medio contenido tecnológico. Cada sector tiene enfoques específicos de innovación, ya sea centrado en la investigación y desarrollo, en mejoras progresivas de productos y procesos, o en la eficiencia y diferenciación en la producción y comercialización.
+
+	Además, se mencionan cinco elementos clave para evaluar la relevancia y viabilidad de una innovación: efecto de la innovación, ventaja potencial, movilización, especificidad y riesgo controlado.
+
+	En resumen, la lectura proporciona una visión general de los lineamientos del Manual de Oslo para medir las actividades de innovación y presenta los diferentes tipos de innovación y sus características en diferentes sectores.
+	
+	
+
+Lectura 2
+--------------------------------------------------------------------------------
+	(EUROSTAT)	Oficina de Estadística de las Comunidades Europeas.
+	(OCDE)	Organización para la cooperación y el Desarrollo Economico.
+	(OEA)	Organización de Estados Americanos
+	Manual de Bogotá
+		El Manual de Bogotá es una guía para la Normalización de Indicadores de Innovación Tecnológica en América Latina, con la diferencia en relación al Manual de Oslo, el de Bogotá presenta una opción adaptada a las características idiosincráticas de los países en vía de desarrollo como algunos latinoamericanos, así como garantizar la comparabilidad regional e internacional.
+		
+	Objetivo del Manual de Bogotá
+		Unificar criterios y procedimientos para la construcción de indicadores de innovación y mejoramiento tecnológico.
+		
+	Propósitos
+		Responde a la creciente necesidad de sistematizar criterios y procedimientos para la construcción de indicadores de innovación y mejoramiento tecnológico a fin de disponer de una metodología común de medición y análisis de los procesos innovativos que facilite la comparabilidad internacional de los indicadores que se construyan en la región y, al mismo tiempo, permita detectar las especificidades propias de las distintas idiosincrasias nacionales. (RICYT / OEA / CYTED, 2001)
+	
+	Utilidad práctica
+		Serán de directa utilidad para cada uno de los países de la región, ya que darán respuesta a sus crecientes necesidades en materia de información detallada, que oriente las acciones públicas y privadas en campos como ciencia, tecnología, productividad, inversiones y exportaciones. Esto requiere la construcción de indicadores complejos que den cuenta de las particularidades que asumen los procesos de innovación tecnológica en cada país y que resulten comparables regional e internacionalmente.
+	
+	Actividades innovación
+		Conceptualmente el Manual de Bogotá, incluye todas aquellas acciones llevadas a cabo por la firma tendientes a poner en práctica conceptos, ideas y métodos necesarios para la adquisición, asimilación e incorporación de nuevos conocimientos. Estas acciones tienen como resultado un cambio técnico en la empresa, sin que ésta sea necesariamente una innovación tecnológica.
+	
+	
+		                   Actividades de Innovación
+                             ___________________
+                            |                   |
+                            | Investigación y   |
+                            | Desarrollo        |	---------------------
+                            |___________________|						|
+                                    |									|
+                                    |									|
+                     _______________________________		____________|______
+					|                               |		|                  |
+					|  Esfuerzos de Innovación      |		| Investigación y  |
+					|_______________________________|		| Desarrollo       |
+									|						|__________________|
+              ______________________|_______________________
+             |                                               |
+             |   Diseño, instalación de maquinarias nuevas,   |
+             |   ingeniería industrial y puesta en marcha     |
+             |   de la producción                            |
+             |_______________________________________________|
+                                    |
+              ______________________|_________________________
+             |                                                |
+             |  Adquisición de Tecnología incorporada al      |
+             |  capital                                       |
+             |________________________________________________|
+                                    |
+              ______________________|_________________________
+             |                                                |
+             |  Adquisición de Tecnología no incorporada al   |
+             |  capital                                       |
+             |________________________________________________|
+                                    |
+              ______________________|_________________________
+             |                                                |
+             |  Modernización Organizacional                  |
+             |________________________________________________|
+                                    |
+              ______________________|_________________________
+             |                                                |
+             |  Comercialización                               |
+             |________________________________________________|
+                                    |
+              ______________________|_________________________
+             |                                                |
+             |  Capacitación                                   |
+             |________________________________________________|
+
+	Indicadores de innovación específicos para América Latina
+		• Las capacidades tecnológicas
+		• La innovación como proceso social e interactivo
+		• Las fuentes externas y los esfuerzos endógenos
+		• Las innovaciones organizacionales.
+		• La capacitación tecnológica.
+	
+
+RESUMEN IA
+
+	La lectura presenta los lineamientos del Manual de Bogotá, que complementa al Manual de Oslo en la medición de las actividades de innovación. A diferencia del Manual de Oslo, el Manual de Bogotá está adaptado a las características idiosincráticas de los países en vías de desarrollo, como algunos países de América Latina, y busca garantizar la comparabilidad regional e internacional.
+
+	El objetivo del Manual de Bogotá es unificar criterios y procedimientos para la construcción de indicadores de innovación y mejoramiento tecnológico. Busca captar las especificidades propias de los procesos innovadores en la región y abarcar el conjunto de estrategias empresariales que determinan los esfuerzos tecnológicos de las empresas.
+
+	El Manual de Bogotá, elaborado por la Red Iberoamericana de Indicadores de Ciencia y Tecnología (RICYT) y la Organización de Estados Americanos (OEA), tiene como utilidad práctica proporcionar información detallada que oriente las acciones públicas y privadas en campos como ciencia, tecnología, productividad, inversiones y exportaciones.
+
+	En cuanto a las actividades de innovación, el Manual de Bogotá las define como todas las acciones llevadas a cabo por la empresa para adquirir, asimilar e incorporar nuevos conocimientos, lo que resulta en un cambio técnico en la empresa, aunque no necesariamente sea una innovación tecnológica.
+
+	En América Latina, el cambio tecnológico presenta diferencias en comparación con los países desarrollados. Estas diferencias incluyen la dependencia de tecnologías importadas, la prevalencia de innovaciones vinculadas a tecnologías blandas (administrativas y de comercialización), la realización de innovaciones de carácter incremental, adaptativo y difusivo, y la menor articulación con los sistemas nacionales de innovación.
+
+	Además de los indicadores establecidos por el Manual de Oslo, América Latina ha determinado indicadores específicos ajustados a la región, como las capacidades tecnológicas, la innovación como proceso social e interactivo, las fuentes externas y los esfuerzos endógenos, las innovaciones organizacionales y la capacitación tecnológica.
+
+	En resumen, el Manual de Bogotá complementa al Manual de Oslo en la medición de las actividades de innovación en América Latina, considerando las características particulares de la región y proporcionando indicadores específicos ajustados a la realidad latinoamericana.
+	
+	
+Lectura 3
+--------------------------------------------------------------------------------
+
+
+RESUMEN IA
+	La lectura presenta los elementos clave de la gestión de la innovación y destaca la importancia de contar con metodologías y sistemáticas ágiles y flexibles. Se menciona que la Organización Internacional de Normalización (ISO) ha desarrollado una serie de normas en su serie ISO 56000 para la gestión de la innovación, que incluyen fundamentos, orientación, herramientas y métodos, evaluación y gestión de la propiedad intelectual.
+
+	La gestión de la innovación se define como un proceso estratégico que abarca desde la generación de la idea innovadora hasta su implementación y puesta en valor. El Manual de Oslo lo describe como todas las actividades sistemáticas para planificar, gobernar y controlar recursos internos y externos para la innovación.
+
+	La ISO 56002 proporciona directrices para el desarrollo, implementación y mantenimiento de un sistema de gestión de la innovación. Esta norma abarca diversos aspectos, como el contexto de la organización, el liderazgo, la planificación, el apoyo, la operación, la evaluación del desempeño y la mejora. Se destaca el enfoque en la mejora continua y la inclusión de oportunidades de financiación en I+D+i.
+
+	Se mencionan las principales etapas de la gestión de la innovación, que incluyen la generación de ideas, la estrategia, la financiación, el desarrollo y la explotación. Además de las normas ISO, se sugieren herramientas como el Modelo Canvas, el toolkit de herramientas prácticas para impulsar la innovación social de Nesta, el toolkit de herramientas para la innovación abierta de Nesta y el catálogo abierto de herramientas de innovación del Board of Innovation.
+
+	En resumen, la gestión de la innovación es un proceso estratégico que requiere de metodologías y sistemáticas ágiles y flexibles. La ISO ha desarrollado normas para la gestión de la innovación, y se mencionan diversas herramientas y recursos disponibles para apoyar este proceso.
+
+
+Lectura 4
+--------------------------------------------------------------------------------
+
+
+RESUMEN IA
+	La lectura presenta los elementos clave de la gestión de la innovación y destaca la importancia de contar con metodologías y sistemáticas ágiles y flexibles. Se menciona que la Organización Internacional de Normalización (ISO) ha desarrollado una serie de normas en su serie ISO 56000 para la gestión de la innovación, que incluyen fundamentos, orientación, herramientas y métodos, evaluación y gestión de la propiedad intelectual.
+
+	La gestión de la innovación se define como un proceso estratégico que abarca desde la generación de la idea innovadora hasta su implementación y puesta en valor. El Manual de Oslo lo describe como todas las actividades sistemáticas para planificar, gobernar y controlar recursos internos y externos para la innovación.
+
+	La ISO 56002 proporciona directrices para el desarrollo, implementación y mantenimiento de un sistema de gestión de la innovación. Esta norma abarca diversos aspectos, como el contexto de la organización, el liderazgo, la planificación, el apoyo, la operación, la evaluación del desempeño y la mejora. Se destaca el enfoque en la mejora continua y la inclusión de oportunidades de financiación en I+D+i.
+
+	Se mencionan las principales etapas de la gestión de la innovación, que incluyen la generación de ideas, la estrategia, la financiación, el desarrollo y la explotación. Además de las normas ISO, se sugieren herramientas como el Modelo Canvas, el toolkit de herramientas prácticas para impulsar la innovación social de Nesta, el toolkit de herramientas para la innovación abierta de Nesta y el catálogo abierto de herramientas de innovación del Board of Innovation.
+
+	En resumen, la gestión de la innovación es un proceso estratégico que requiere de metodologías y sistemáticas ágiles y flexibles. La ISO ha desarrollado normas para la gestión de la innovación, y se mencionan diversas herramientas y recursos disponibles para apoyar este proceso.
+

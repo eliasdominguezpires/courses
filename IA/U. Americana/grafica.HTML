@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gráfica</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <canvas id="myChart"></canvas>
+
+  <script>
+    // Datos para la gráfica
+    var datosEstatico = [10, 10, 10, 10, 10]; // Estático: misma cantidad en todo momento
+    var datosDinamico = [10, 12, 8, 15, 11]; // Dinámico: cambios en la cantidad
+
+    // Crear la gráfica
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var chart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: ['T1', 'T2', 'T3', 'T4', 'T5'], // Etiquetas para el eje X (tiempo)
+        datasets: [
+          {
+            label: 'Estático',
+            data: datosEstatico,
+            borderColor: 'red',
+            fill: false
+          },
+          {
+            label: 'Dinámico',
+            data: datosDinamico,
+            borderColor: 'blue',
+            fill: false
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
