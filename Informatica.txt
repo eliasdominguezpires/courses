@@ -1,3 +1,18 @@
+Servidores de despligue
+
+	Firebase hosting 	https://firebase.google.com/docs/hosting?hl=es-419
+	AWS					https://aws.amazon.com/es/?nc2=h_lg
+	Microsoft Azure 	https://azure.microsoft.com/es-es
+	Digital Ocean		https://www.digitalocean.com/
+	Google Cloud		https://cloud.google.com/
+	
+	Heroku				https://www.heroku.com/
+		https://www.udemy.com/course/node-de-cero-a-experto/learn/lecture/9573554#overview
+	
+	Railway				https://railway.app/
+		https://www.udemy.com/course/node-de-cero-a-experto/learn/lecture/35111186#overview
+
+	
 END TO END Solutions 
 	El proveedor participará en su implementación, integración y configuración y hará un posterior seguimiento con el cliente del funcionamiento de la solución.
 	

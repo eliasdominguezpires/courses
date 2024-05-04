@@ -1,0 +1,82 @@
+.dashboard-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.dashboard-title {
+  font-size: 24px;
+  color: #333;
+}
+
+.dashboard-divider {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.user-info-container {
+  margin-bottom: 20px;
+}
+
+.user-info-title {
+  font-size: 20px;
+  color: #555;
+}
+
+.user-info {
+  font-size: 14px;
+  color: #777;
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.logout-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.logout-button:hover {
+  background-color: #0056b3;
+}
+
+.update-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.update-button:hover {
+  background-color: #45a049;
+}
+
+.delete-button {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.delete-button:hover {
+  background-color: #d32f2f;
+}
